@@ -1,0 +1,7 @@
+#!/bin/sh
+
+
+
+
+
+java -Xms72G -Xmx72G -jar BungeeCord.jar
