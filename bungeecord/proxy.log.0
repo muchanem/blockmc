@@ -149,3 +149,12 @@
 14:49:20 [INFO] Enabled plugin cmd_server version git:cmd_server:1.8-SNAPSHOT:"61d2765":1039 by SpigotMC
 14:49:20 [INFO] Enabled plugin cmd_list version git:cmd_list:1.8-SNAPSHOT:"61d2765":1039 by SpigotMC
 14:49:20 [INFO] Listening on /0.0.0.0:25577
+08:10:02 [INFO] §cCommand not found
+08:10:03 [INFO] §cCommand not found
+10:59:24 [INFO] §cCommand not found
+10:59:30 [INFO] §cCommand not found
+10:59:35 [INFO] §cCommand not found
+10:59:40 [INFO] §cCommand not found
+11:00:40 [SEVERE] Exception in thread "main" 
+11:00:40 [SEVERE] java.io.IOException: Input/output error
+11:00:40 [SEVERE] 	at java.io.FileInputStream.read0(Native Method)
