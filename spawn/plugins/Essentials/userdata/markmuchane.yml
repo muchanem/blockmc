@@ -1,7 +1,7 @@
 uuid: 9079b0bc-85b3-4f13-a3e1-a5aecbed789f
 timestamps:
-  login: 1424039683073
-  lastteleport: 1424042021810
+  login: 1424042333800
+  lastteleport: 1424042228032
   logout: 1424037528906
   kits:
     color: 1423618459138
@@ -9,11 +9,11 @@ timestamps:
 ipAddress: 24.224.82.88
 lastlocation:
   world: world
-  x: -1374.699999988079
-  y: 73.92289830236587
-  z: -134.69999998807907
-  yaw: 62.699615
-  pitch: 44.249985
+  x: -1381.5
+  y: 123.0
+  z: -109.5
+  yaw: 0.0
+  pitch: 0.0
 powertools:
   '276':
   - kill Cryton3500

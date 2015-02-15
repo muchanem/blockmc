@@ -5,14 +5,14 @@
     "level": 4
   },
   {
-    "uuid": "7945e418-0d7a-463b-8fe6-a478b54f5728",
-    "name": "DeathDestroyer3",
-    "level": 5
-  },
-  {
     "uuid": "ff7491a5-2f34-4328-ba5f-d78991892cd8",
     "name": "HaveYouSeenMeP",
     "level": 4
+  },
+  {
+    "uuid": "7945e418-0d7a-463b-8fe6-a478b54f5728",
+    "name": "DeathDestroyer3",
+    "level": 5
   },
   {
     "uuid": "070b3858-c1ad-4c3d-a60e-eac5704ba0c5",
