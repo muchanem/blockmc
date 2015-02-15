@@ -1,20 +1,29 @@
 uuid: 070b3858-c1ad-4c3d-a60e-eac5704ba0c5
 timestamps:
-  login: 1423433622365
-  lastteleport: 1423432664440
-  logout: 1423433782215
+  login: 1424038061468
+  lastteleport: 1424038477101
+  logout: 1424038966482
 ipAddress: 24.85.193.12
 lastlocation:
   world: world
-  x: -1373.9819451261853
-  y: 122.5
-  z: -94.99589066051891
-  yaw: 118.645386
-  pitch: 8.415814
+  x: -1392.094546005968
+  y: 122.0
+  z: -119.84499370897464
+  yaw: -342.84265
+  pitch: 15.721884
 logoutlocation:
   world: world
-  x: -1366.6053966237891
-  y: 121.0
-  z: -93.68220149047254
-  yaw: -6.433655
-  pitch: 37.910572
+  x: -1373.4718955077083
+  y: 124.16216276379517
+  z: -117.73338361459307
+  yaw: -97.49231
+  pitch: 73.35853
+afk: false
+nickname: Cryton3500
+powertools:
+  '276':
+  - lightning
+  '277':
+  - lightning
+  '280':
+  - lightning

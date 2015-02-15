@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "uuid": "c59a5673-bdbd-4c2d-a99d-6ad551f04b74",
+    "name": "kweirdmonkey",
+    "created": "2015-02-10 23:48:27 -0500",
+    "source": "(Unknown)",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  }
+]

@@ -1,0 +1,28 @@
+uuid: 7945e418-0d7a-463b-8fe6-a478b54f5728
+timestamps:
+  login: 1424031023984
+  lastteleport: 1424032452972
+  kits:
+    tools: 1424033463775
+    dtools: 1424033199144
+    notch: 1424033189343
+  logout: 1424033848396
+ipAddress: 207.6.90.202
+lastlocation:
+  world: world
+  x: -1074.640202981323
+  y: 44.77882290792383
+  z: -12.276254733442983
+  yaw: 96.5216
+  pitch: 14.575655
+afk: false
+powertools:
+  '280':
+  - lightning
+logoutlocation:
+  world: world
+  x: 7.79425003814098
+  y: 5.0
+  z: -141.4043147345995
+  yaw: -27.496643
+  pitch: 18.507006

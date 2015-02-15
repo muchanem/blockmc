@@ -1,0 +1,29 @@
+uuid: 05591ec2-5f8e-45b5-aa3f-72600d075a42
+timestamps:
+  login: 1423843614718
+  logout: 1423844094831
+  lastteleport: 1423843960888
+  kits:
+    color: 1423842655983
+ipAddress: 24.224.67.195
+lastlocation:
+  world: world
+  x: -1376.7957267797624
+  y: 121.0
+  z: -105.92424364895307
+  yaw: 172.87376
+  pitch: 71.88518
+logoutlocation:
+  world: world
+  x: -1213.300000011921
+  y: 1.3946943449320834
+  z: -249.6999999880791
+  yaw: 141.2102
+  pitch: 69.53067
+powertools:
+  '279':
+  - kill markmuchane
+  '385':
+  - fireball
+  '2267':
+  - lightning

@@ -1,192 +1,2049 @@
-[13:54:41] [Server thread/INFO]: Starting minecraft server version 1.7.10
-[13:54:41] [Server thread/INFO]: Loading properties
-[13:54:41] [Server thread/INFO]: Default game type: SURVIVAL
-[13:54:42] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-1649 (MC: 1.7.10) (Implementing API version 1.7.10-R0.1-SNAPSHOT)
-[13:54:42] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[13:54:42] [Server thread/INFO]: Using 4 threads for Netty based IO
-[13:54:42] [Server thread/INFO]: Debug logging is disabled
-[13:54:42] [Server thread/INFO]: Generating keypair
-[13:54:42] [Server thread/INFO]: Starting Minecraft server on *:25565
-[13:54:42] [Server thread/INFO]: Set PluginClassLoader as parallel capable
-[13:54:42] [Server thread/INFO]: [AdminFun] Loading AdminFun v2.3.0
-[13:54:42] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.0;3342-78f975b9
-[13:54:42] [Server thread/INFO]: [Buycraft] Loading Buycraft v6.7
-[13:54:42] [Server thread/INFO]: [Essentials] Loading Essentials v2.13.1
-[13:54:42] [Server thread/INFO]: [EssentialsChat] Loading EssentialsChat v2.13.1
-[13:54:42] [Server thread/INFO]: [EssentialsProtect] Loading EssentialsProtect v2.13.1
-[13:54:42] [Server thread/INFO]: [EssentialsSpawn] Loading EssentialsSpawn v2.13.1
-[13:54:42] [Server thread/INFO]: [EssentialsAntiBuild] Loading EssentialsAntiBuild v2.13.1
-[13:54:42] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
-[13:54:42] [Server thread/INFO]: Preparing level "world"
-[13:54:42] [Server thread/INFO]: -------- World Settings For [world] --------
-[13:54:42] [Server thread/INFO]: Mob Spawn Range: 4
-[13:54:42] [Server thread/INFO]: Anti X-Ray: true
-[13:54:42] [Server thread/INFO]: 	Engine Mode: 1
-[13:54:42] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
-[13:54:42] [Server thread/INFO]: 	Replace Blocks: [1, 5]
-[13:54:42] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[13:54:42] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[13:54:42] [Server thread/INFO]: Cane Growth Modifier: 100%
-[13:54:42] [Server thread/INFO]: Melon Growth Modifier: 100%
-[13:54:42] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[13:54:42] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[13:54:42] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[13:54:42] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[13:54:42] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
-[13:54:42] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[13:54:42] [Server thread/INFO]: Alternative Hopper Ticking: false
-[13:54:42] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
-[13:54:42] [Server thread/INFO]: Random Lighting Updates: false
-[13:54:42] [Server thread/INFO]: Structure Info Saving: true
-[13:54:42] [Server thread/INFO]: Sending up to 5 chunks per packet
-[13:54:42] [Server thread/INFO]: Max Entity Collisions: 8
-[13:54:42] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
-[13:54:42] [Server thread/INFO]: Max TNT Explosions: 100
-[13:54:42] [Server thread/INFO]: View Distance: 10
-[13:54:42] [Server thread/INFO]: Chunks to Grow per Tick: 650
-[13:54:42] [Server thread/INFO]: Clear tick list: false
-[13:54:42] [Server thread/INFO]: Experience Merge Radius: 3.0
-[13:54:42] [Server thread/INFO]: Item Despawn Rate: 6000
-[13:54:42] [Server thread/INFO]: Item Merge Radius: 2.5
-[13:54:42] [Server thread/INFO]: Arrow Despawn Rate: 1200
-[13:54:42] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[13:54:42] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[13:54:42] [Server thread/INFO]: -------- World Settings For [world_nether] --------
-[13:54:42] [Server thread/INFO]: Mob Spawn Range: 4
-[13:54:42] [Server thread/INFO]: Anti X-Ray: true
-[13:54:42] [Server thread/INFO]: 	Engine Mode: 1
-[13:54:42] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
-[13:54:42] [Server thread/INFO]: 	Replace Blocks: [1, 5]
-[13:54:42] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[13:54:42] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[13:54:42] [Server thread/INFO]: Cane Growth Modifier: 100%
-[13:54:42] [Server thread/INFO]: Melon Growth Modifier: 100%
-[13:54:42] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[13:54:42] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[13:54:42] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[13:54:42] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[13:54:42] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
-[13:54:42] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[13:54:42] [Server thread/INFO]: Alternative Hopper Ticking: false
-[13:54:42] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
-[13:54:42] [Server thread/INFO]: Random Lighting Updates: false
-[13:54:42] [Server thread/INFO]: Structure Info Saving: true
-[13:54:42] [Server thread/INFO]: Sending up to 5 chunks per packet
-[13:54:42] [Server thread/INFO]: Max Entity Collisions: 8
-[13:54:42] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
-[13:54:42] [Server thread/INFO]: Max TNT Explosions: 100
-[13:54:42] [Server thread/INFO]: View Distance: 10
-[13:54:42] [Server thread/INFO]: Chunks to Grow per Tick: 650
-[13:54:42] [Server thread/INFO]: Clear tick list: false
-[13:54:42] [Server thread/INFO]: Experience Merge Radius: 3.0
-[13:54:42] [Server thread/INFO]: Item Despawn Rate: 6000
-[13:54:42] [Server thread/INFO]: Item Merge Radius: 2.5
-[13:54:42] [Server thread/INFO]: Arrow Despawn Rate: 1200
-[13:54:42] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[13:54:42] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[13:54:42] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
-[13:54:42] [Server thread/INFO]: Mob Spawn Range: 4
-[13:54:42] [Server thread/INFO]: Anti X-Ray: true
-[13:54:42] [Server thread/INFO]: 	Engine Mode: 1
-[13:54:42] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
-[13:54:42] [Server thread/INFO]: 	Replace Blocks: [1, 5]
-[13:54:42] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[13:54:42] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[13:54:42] [Server thread/INFO]: Cane Growth Modifier: 100%
-[13:54:42] [Server thread/INFO]: Melon Growth Modifier: 100%
-[13:54:42] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[13:54:42] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[13:54:42] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[13:54:42] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[13:54:42] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
-[13:54:42] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[13:54:42] [Server thread/INFO]: Alternative Hopper Ticking: false
-[13:54:42] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
-[13:54:42] [Server thread/INFO]: Random Lighting Updates: false
-[13:54:42] [Server thread/INFO]: Structure Info Saving: true
-[13:54:42] [Server thread/INFO]: Sending up to 5 chunks per packet
-[13:54:42] [Server thread/INFO]: Max Entity Collisions: 8
-[13:54:42] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
-[13:54:42] [Server thread/INFO]: Max TNT Explosions: 100
-[13:54:42] [Server thread/INFO]: View Distance: 10
-[13:54:42] [Server thread/INFO]: Chunks to Grow per Tick: 650
-[13:54:42] [Server thread/INFO]: Clear tick list: false
-[13:54:42] [Server thread/INFO]: Experience Merge Radius: 3.0
-[13:54:42] [Server thread/INFO]: Item Despawn Rate: 6000
-[13:54:42] [Server thread/INFO]: Item Merge Radius: 2.5
-[13:54:42] [Server thread/INFO]: Arrow Despawn Rate: 1200
-[13:54:42] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[13:54:42] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[13:54:42] [Server thread/INFO]: Preparing start region for level 0 (Seed: -391152805983181361)
-[13:54:43] [Server thread/INFO]: Preparing start region for level 1 (Seed: 8680564824091201304)
-[13:54:43] [Server thread/INFO]: Preparing start region for level 2 (Seed: 8680564824091201304)
-[13:54:43] [Server thread/INFO]: [AdminFun] Enabling AdminFun v2.3.0
-[13:54:43] [Server thread/INFO]: [AdminFun] AdminFun's metrics system is enabled!
-[13:54:43] [Server thread/INFO]: [AdminFun] +-----------------------------------+
-[13:54:43] [Server thread/INFO]: [AdminFun] | AdminFun v2.3.0 has been enabled! |
-[13:54:43] [Server thread/INFO]: [AdminFun] +-----------------------------------+
-[13:54:43] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.0;3342-78f975b9
-[13:54:43] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
-[13:54:43] [Server thread/INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.CraftBukkit_v1_7_R4 as the Bukkit adapter
-[13:54:43] [Server thread/INFO]: [Buycraft] Enabling Buycraft v6.7
-[13:54:43] [Server thread/INFO]: [Essentials] Enabling Essentials v2.13.1
-[13:54:43] [Server thread/INFO]: Bukkit version format changed. Version not checked.
-[13:54:43] [Server thread/INFO]: git-Spigot-1649 (MC: 1.7.10)
-[13:54:43] [Server thread/INFO]: 1.7.10-R0.1-SNAPSHOT
-[13:54:44] [Server thread/INFO]: Essentials: Using config file enhanced permissions.
-[13:54:44] [Server thread/INFO]: Permissions listed in as player-commands will be given to all users.
-[13:54:44] [Server thread/INFO]: [EssentialsChat] Enabling EssentialsChat v2.13.1
-[13:54:44] [Server thread/INFO]: [EssentialsProtect] Enabling EssentialsProtect v2.13.1
-[13:54:44] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn v2.13.1
-[13:54:44] [Server thread/INFO]: [EssentialsAntiBuild] Enabling EssentialsAntiBuild v2.13.1
-[13:54:44] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[13:54:44] [Server thread/INFO]: Done (1.741s)! For help, type "help" or "?"
-[13:54:44] [Server thread/INFO]: [Buycraft] Authenticated with the specified Secret key.
-[13:54:44] [Server thread/INFO]: [Buycraft] Plugin is now ready to be used.
-[13:54:44] [pool-5-thread-2/INFO]: [Buycraft] Loaded 0 package(s) into the cache.
-[13:55:25] [Server thread/INFO]: [0;37;1m|----------------------[0;35;1m BUYCRAFT [0;37;1m---------------------[m
-[13:55:25] [Server thread/INFO]: [0;37;1m| [m
-[13:55:25] [Server thread/INFO]: [0;37;1m| [0;35;1m/buy:[0;32;1m View available packages for sale[m
-[13:55:25] [Server thread/INFO]: [0;37;1m| [0;35;1m/buy page <ID>:[0;32;1m Navigate through package pages[m
-[13:55:25] [Server thread/INFO]: [0;37;1m| [0;35;1m/buy <ID>: [0;32;1m Purchase a specific package[m
-[13:55:25] [Server thread/INFO]: [0;37;1m| [m
-[13:55:25] [Server thread/INFO]: [0;37;1m| [m
-[13:55:25] [Server thread/INFO]: [0;37;1m| [0;35;1m/buycraft reload:[0;32;1m Reload the package cache[m
-[13:55:25] [Server thread/INFO]: [0;37;1m| [0;35;1m/buycraft forcecheck:[0;32;1m Check for pending commands[m
-[13:55:25] [Server thread/INFO]: [0;37;1m| [0;35;1m/buycraft secret <key>:[0;32;1m Set the Secret key[m
-[13:55:25] [Server thread/INFO]: [0;37;1m| [0;35;1m/buycraft payments <ign>:[0;32;1m Get recent payments of a user[m
-[13:55:25] [Server thread/INFO]: [0;37;1m| [0;35;1m/buycraft report:[0;32;1m Generate an error report[m
-[13:55:25] [Server thread/INFO]: [0;37;1m| [m
-[13:55:25] [Server thread/INFO]: [0;37;1m| [0;35;1m/buysign begin/filter <Package>:[0;32;1m Set payment signs[m
-[13:55:25] [Server thread/INFO]: [0;37;1m| [0;35;1m/buysign end:[0;32;1m End payment signs[m
-[13:55:25] [Server thread/INFO]: [0;37;1m| [m
-[13:55:25] [Server thread/INFO]: [0;37;1m| [0;35;1mServer ID: [0;32;1m290747[m
-[13:55:25] [Server thread/INFO]: [0;37;1m| [0;35;1mServer URL: [0;32;1mhttp://blockmcstore.buycraft.net[m
-[13:55:25] [Server thread/INFO]: [0;37;1m| [0;35;1mVersion: [0;32;1m6.7[m
-[13:55:25] [Server thread/INFO]: [0;37;1m| [0;35;1mWebsite: [0;32;1mhttp://buycraft.net[m
-[13:55:25] [Server thread/INFO]: [0;37;1m|----------------------------------------------------[m
-[13:55:59] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
-[13:56:08] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
-[13:56:11] [Server thread/INFO]: [0;35;1m[Server[0;35;1m] hi[m
-[13:57:33] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
-[13:57:40] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
-[13:58:16] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
-[13:58:20] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
-[13:58:23] [Server thread/INFO]: [0;35;1m[Server[0;35;1m] hi[m
-[13:58:38] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
-[13:58:46] [Server thread/INFO]: [0;36;22m--- AdminFun [0;37;22mv2.3.0[0;33;22m by Trevor1134 [0;36;22m---[m
-[13:58:46] [Server thread/INFO]: [0;36;1mCommands: [m
-[13:58:46] [Server thread/INFO]: [0;36;1m/adminfun fakeop [0;37;1m|[0;37;22m Pretend to OP a player, + have the option to watch commands they use! [m
-[13:58:46] [Server thread/INFO]: [0;36;1m/adminfun firework [0;37;1m|[0;37;22m Launch a player in the sky and then explode them! [m
-[13:58:46] [Server thread/INFO]: [0;36;1m/adminfun announce [0;37;1m|[0;37;22m Broadcast a message. [m
-[13:58:46] [Server thread/INFO]: [0;36;1m/adminfun enable [0;37;1m|[0;37;22m Enable this plugin! [m
-[13:58:46] [Server thread/INFO]: [0;36;1m/adminfun show [0;37;1m|[0;37;22m Create a firework show! [m
-[13:58:46] [Server thread/INFO]: [0;36;1m/adminfun invsee [0;37;1m|[0;37;22m Look into another player's inventory. [m
-[13:58:46] [Server thread/INFO]: [0;36;1m/adminfun fakequit [0;37;1m|[0;37;22m Pretend a player left the game. [m
-[13:58:46] [Server thread/INFO]: [0;36;1m/adminfun explode [0;37;1m|[0;37;22m Explode a player. [m
-[13:58:46] [Server thread/INFO]: [0;33;22mPage number: [0;32;22m1/4[m
-[13:58:57] [Server thread/INFO]: [0;31;1mAdminFun is already enabled![m
-[13:59:19] [Server thread/INFO]: [0;33;1mBajan Canadian joined the game.[m
-[13:59:19] [Server thread/INFO]: [AdminFun] [AdminFun] CONSOLE used the FakeJoin command using the name: Bajan Canadian
-[13:59:52] [Server thread/INFO]: [0;33;1mSkyDoesMineCraft joined the game.[m
-[13:59:52] [Server thread/INFO]: [AdminFun] [AdminFun] CONSOLE used the FakeJoin command using the name: SkyDoesMineCraft
+[15:00:46] [Server thread/INFO]: Starting minecraft server version 1.7.10
+[15:00:46] [Server thread/INFO]: Loading properties
+[15:00:46] [Server thread/INFO]: Default game type: ADVENTURE
+[15:00:47] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-1649 (MC: 1.7.10) (Implementing API version 1.7.10-R0.1-SNAPSHOT)
+[15:00:47] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[15:00:47] [Server thread/INFO]: Using 4 threads for Netty based IO
+[15:00:47] [Server thread/INFO]: Debug logging is disabled
+[15:00:47] [Server thread/INFO]: Generating keypair
+[15:00:47] [Server thread/INFO]: Starting Minecraft server on *:25565
+[15:00:47] [Server thread/INFO]: Set PluginClassLoader as parallel capable
+[15:00:47] [Server thread/ERROR]: Could not load 'plugins/Multiverse-Portals-2.4.jar' in folder 'plugins'
+org.bukkit.plugin.UnknownDependencyException: Multiverse-Core
+	at org.bukkit.plugin.SimplePluginManager.loadPlugins(SimplePluginManager.java:228) [spigot1649.jar:git-Spigot-1649]
+	at org.bukkit.craftbukkit.v1_7_R4.CraftServer.loadPlugins(CraftServer.java:369) [spigot1649.jar:git-Spigot-1649]
+	at net.minecraft.server.v1_7_R4.DedicatedServer.init(DedicatedServer.java:152) [spigot1649.jar:git-Spigot-1649]
+	at net.minecraft.server.v1_7_R4.MinecraftServer.run(MinecraftServer.java:458) [spigot1649.jar:git-Spigot-1649]
+	at net.minecraft.server.v1_7_R4.ThreadServerApplication.run(SourceFile:628) [spigot1649.jar:git-Spigot-1649]
+[15:00:47] [Server thread/INFO]: [AdminFun] Loading AdminFun v2.3.0
+[15:00:47] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.0;3342-78f975b9
+[15:00:47] [Server thread/INFO]: [Buycraft] Loading Buycraft v6.7
+[15:00:47] [Server thread/INFO]: [Essentials] Loading Essentials v2.13.1
+[15:00:47] [Server thread/INFO]: [EssentialsChat] Loading EssentialsChat v2.13.1
+[15:00:47] [Server thread/INFO]: [EssentialsProtect] Loading EssentialsProtect v2.13.1
+[15:00:47] [Server thread/INFO]: [EssentialsSpawn] Loading EssentialsSpawn v2.13.1
+[15:00:47] [Server thread/INFO]: [EssentialsAntiBuild] Loading EssentialsAntiBuild v2.13.1
+[15:00:47] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[15:00:47] [Server thread/INFO]: Preparing level "world"
+[15:00:47] [Server thread/INFO]: -------- World Settings For [world] --------
+[15:00:47] [Server thread/INFO]: Mob Spawn Range: 4
+[15:00:47] [Server thread/INFO]: Anti X-Ray: true
+[15:00:47] [Server thread/INFO]: 	Engine Mode: 1
+[15:00:47] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[15:00:47] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[15:00:47] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[15:00:47] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[15:00:47] [Server thread/INFO]: Cane Growth Modifier: 100%
+[15:00:47] [Server thread/INFO]: Melon Growth Modifier: 100%
+[15:00:47] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[15:00:47] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[15:00:47] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[15:00:47] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[15:00:47] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[15:00:47] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[15:00:47] [Server thread/INFO]: Alternative Hopper Ticking: false
+[15:00:47] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[15:00:47] [Server thread/INFO]: Random Lighting Updates: false
+[15:00:47] [Server thread/INFO]: Structure Info Saving: true
+[15:00:47] [Server thread/INFO]: Sending up to 5 chunks per packet
+[15:00:47] [Server thread/INFO]: Max Entity Collisions: 8
+[15:00:47] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[15:00:47] [Server thread/INFO]: Max TNT Explosions: 100
+[15:00:47] [Server thread/INFO]: View Distance: 10
+[15:00:47] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[15:00:47] [Server thread/INFO]: Clear tick list: false
+[15:00:47] [Server thread/INFO]: Experience Merge Radius: 3.0
+[15:00:47] [Server thread/INFO]: Item Despawn Rate: 6000
+[15:00:47] [Server thread/INFO]: Item Merge Radius: 2.5
+[15:00:47] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[15:00:47] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[15:00:47] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[15:00:47] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[15:00:47] [Server thread/INFO]: Mob Spawn Range: 4
+[15:00:47] [Server thread/INFO]: Anti X-Ray: true
+[15:00:47] [Server thread/INFO]: 	Engine Mode: 1
+[15:00:47] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[15:00:47] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[15:00:47] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[15:00:47] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[15:00:47] [Server thread/INFO]: Cane Growth Modifier: 100%
+[15:00:47] [Server thread/INFO]: Melon Growth Modifier: 100%
+[15:00:47] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[15:00:47] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[15:00:47] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[15:00:47] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[15:00:47] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[15:00:47] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[15:00:47] [Server thread/INFO]: Alternative Hopper Ticking: false
+[15:00:47] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[15:00:47] [Server thread/INFO]: Random Lighting Updates: false
+[15:00:47] [Server thread/INFO]: Structure Info Saving: true
+[15:00:47] [Server thread/INFO]: Sending up to 5 chunks per packet
+[15:00:47] [Server thread/INFO]: Max Entity Collisions: 8
+[15:00:47] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[15:00:47] [Server thread/INFO]: Max TNT Explosions: 100
+[15:00:47] [Server thread/INFO]: View Distance: 10
+[15:00:47] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[15:00:47] [Server thread/INFO]: Clear tick list: false
+[15:00:47] [Server thread/INFO]: Experience Merge Radius: 3.0
+[15:00:47] [Server thread/INFO]: Item Despawn Rate: 6000
+[15:00:47] [Server thread/INFO]: Item Merge Radius: 2.5
+[15:00:47] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[15:00:47] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[15:00:47] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[15:00:47] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[15:00:47] [Server thread/INFO]: Mob Spawn Range: 4
+[15:00:47] [Server thread/INFO]: Anti X-Ray: true
+[15:00:47] [Server thread/INFO]: 	Engine Mode: 1
+[15:00:47] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[15:00:47] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[15:00:47] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[15:00:47] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[15:00:47] [Server thread/INFO]: Cane Growth Modifier: 100%
+[15:00:47] [Server thread/INFO]: Melon Growth Modifier: 100%
+[15:00:47] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[15:00:47] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[15:00:47] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[15:00:47] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[15:00:47] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[15:00:47] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[15:00:47] [Server thread/INFO]: Alternative Hopper Ticking: false
+[15:00:47] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[15:00:47] [Server thread/INFO]: Random Lighting Updates: false
+[15:00:47] [Server thread/INFO]: Structure Info Saving: true
+[15:00:47] [Server thread/INFO]: Sending up to 5 chunks per packet
+[15:00:47] [Server thread/INFO]: Max Entity Collisions: 8
+[15:00:47] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[15:00:47] [Server thread/INFO]: Max TNT Explosions: 100
+[15:00:47] [Server thread/INFO]: View Distance: 10
+[15:00:47] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[15:00:47] [Server thread/INFO]: Clear tick list: false
+[15:00:47] [Server thread/INFO]: Experience Merge Radius: 3.0
+[15:00:47] [Server thread/INFO]: Item Despawn Rate: 6000
+[15:00:47] [Server thread/INFO]: Item Merge Radius: 2.5
+[15:00:47] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[15:00:47] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[15:00:47] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[15:00:47] [Server thread/INFO]: Preparing start region for level 0 (Seed: -391152805983181361)
+[15:00:48] [Server thread/INFO]: Preparing start region for level 1 (Seed: 8680564824091201304)
+[15:00:48] [Server thread/INFO]: Preparing start region for level 2 (Seed: 8680564824091201304)
+[15:00:48] [Server thread/INFO]: [AdminFun] Enabling AdminFun v2.3.0
+[15:00:48] [Server thread/INFO]: [AdminFun] AdminFun's metrics system is enabled!
+[15:00:48] [Server thread/INFO]: [AdminFun] +-----------------------------------+
+[15:00:48] [Server thread/INFO]: [AdminFun] | AdminFun v2.3.0 has been enabled! |
+[15:00:48] [Server thread/INFO]: [AdminFun] +-----------------------------------+
+[15:00:48] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.0;3342-78f975b9
+[15:00:48] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[15:00:48] [Server thread/INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.CraftBukkit_v1_7_R4 as the Bukkit adapter
+[15:00:48] [Server thread/INFO]: [Buycraft] Enabling Buycraft v6.7
+[15:00:48] [Server thread/INFO]: [Essentials] Enabling Essentials v2.13.1
+[15:00:48] [Server thread/INFO]: Bukkit version format changed. Version not checked.
+[15:00:48] [Server thread/INFO]: git-Spigot-1649 (MC: 1.7.10)
+[15:00:48] [Server thread/INFO]: 1.7.10-R0.1-SNAPSHOT
+[15:00:49] [Server thread/INFO]: Essentials: Using config file enhanced permissions.
+[15:00:49] [Server thread/INFO]: Permissions listed in as player-commands will be given to all users.
+[15:00:49] [Server thread/INFO]: [EssentialsChat] Enabling EssentialsChat v2.13.1
+[15:00:49] [Server thread/INFO]: [EssentialsProtect] Enabling EssentialsProtect v2.13.1
+[15:00:49] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn v2.13.1
+[15:00:49] [Server thread/INFO]: [EssentialsAntiBuild] Enabling EssentialsAntiBuild v2.13.1
+[15:00:49] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[15:00:49] [Server thread/INFO]: Done (1.817s)! For help, type "help" or "?"
+[15:00:49] [Server thread/INFO]: [Buycraft] Authenticated with the specified Secret key.
+[15:00:49] [Server thread/INFO]: [Buycraft] Plugin is now ready to be used.
+[15:00:49] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[15:00:49] [pool-5-thread-2/INFO]: [Buycraft] Loaded 0 package(s) into the cache.
+[15:01:04] [User Authenticator #1/INFO]: UUID of player markmuchane is 9079b0bc-85b3-4f13-a3e1-a5aecbed789f
+[15:01:04] [Server thread/INFO]: markmuchane[/24.224.82.88:37631] logged in with entity id 78 at ([world] -1391.3728706261234, 126.77054853607167, -101.99977717576175)
+[15:01:29] [User Authenticator #2/INFO]: UUID of player CoderPythonX is 811639f8-954d-4699-9240-7cb0fcb98c38
+[15:01:29] [Server thread/INFO]: CoderPythonX[/24.224.82.88:34643] logged in with entity id 95 at ([world] -1384.1973817446615, 122.0, -112.14423214737651)
+[15:02:51] [Server thread/INFO]: CoderPythonX issued server command: /list
+[15:03:24] [Server thread/INFO]: CoderPythonX issued server command: /scoreboard teams add Dictator_Laskoski
+[15:03:30] [Server thread/INFO]: markmuchane issued server command: /pt jump
+[15:03:32] [Server thread/INFO]: CoderPythonX issued server command: /scoreboard teams add Dictator
+[15:03:34] [Server thread/INFO]: [PT] markmuchane issued server command: /jump
+[15:03:38] [Server thread/INFO]: [PT] markmuchane issued server command: /jump
+[15:03:44] [Server thread/INFO]: markmuchane issued server command: /spawn
+[15:03:55] [Server thread/INFO]: markmuchane issued server command: /setworld spawn
+[15:04:01] [Server thread/INFO]: markmuchane issued server command: /setworldspawn
+[15:04:01] [Server thread/INFO]: markmuchane: Set world world's spawnpoint to (-1382, 122, -111)[m
+[15:04:20] [Server thread/INFO]: CoderPythonX issued server command: /scoreboard teams option Dictator color bold
+[15:04:26] [Server thread/INFO]: [PT] markmuchane issued server command: /jump
+[15:04:30] [Server thread/INFO]: CoderPythonX issued server command: /scoreboard teams option Dictator color red
+[15:04:30] [Server thread/INFO]: markmuchane issued server command: /spawn
+[15:04:35] [Async Chat Thread - #0/INFO]: [m<[0;31;22m~Dictator[m> Hi[m
+[15:04:40] [Server thread/INFO]: markmuchane issued server command: /spawn
+[15:04:41] [Server thread/INFO]: CoderPythonX issued server command: /kill
+[15:04:45] [Server thread/INFO]: CoderPythonX issued server command: /kill CoderPythonX
+[15:04:45] [Server thread/INFO]: CoderPythonX died
+[15:04:46] [Async Chat Thread - #0/INFO]: [m<[0;31;22mmarkmuchane[m> hi[m
+[15:04:54] [Server thread/INFO]: CoderPythonX issued server command: /nick none
+[15:04:58] [Server thread/INFO]: CoderPythonX issued server command: /nick
+[15:04:59] [Server thread/INFO]: markmuchane issued server command: /v
+[15:05:03] [Server thread/INFO]: CoderPythonX issued server command: /nick off
+[15:05:03] [Server thread/INFO]: [PT] markmuchane issued server command: /jump
+[15:05:08] [Async Chat Thread - #0/INFO]: [m<[0;31;22mCoderPythonX[m> Hi[m
+[15:05:14] [Server thread/INFO]: CoderPythonX issued server command: /kill CoderPythonX
+[15:05:14] [Server thread/INFO]: CoderPythonX died
+[15:05:25] [Server thread/INFO]: CoderPythonX issued server command: /scoreboard teams join Dictator
+[15:05:27] [Async Chat Thread - #0/INFO]: [m<[0;31;22mCoderPythonX[m> Hi[m
+[15:05:30] [Server thread/INFO]: markmuchane issued server command: /v
+[15:05:30] [Server thread/INFO]: CoderPythonX issued server command: /kill CoderPythonX
+[15:05:30] [Server thread/INFO]: §cCoderPythonX§r died
+[15:05:38] [Server thread/INFO]: [PT] markmuchane issued server command: /kill Cryton3500
+[15:05:51] [Server thread/INFO]: CoderPythonX issued server command: //set ice:1
+[15:05:59] [Server thread/INFO]: markmuchane issued server command: /fakejoin BajanCandain
+[15:06:05] [Server thread/INFO]: CoderPythonX issued server command: /fakejoin
+[15:06:07] [Server thread/INFO]: markmuchane issued server command: /adminfunfakejoin BajanCandain
+[15:06:15] [Server thread/INFO]: markmuchane issued server command: /adminfun fakejoin BajanCandain
+[15:06:15] [Server thread/INFO]: [0;33;1mBajanCandain joined the game.[m
+[15:06:15] [Server thread/INFO]: [AdminFun] [AdminFun] markmuchane used the FakeJoin command using the name: BajanCandain
+[15:06:29] [Server thread/INFO]: markmuchane issued server command: /firework CoderPythonX
+[15:06:37] [Server thread/INFO]: CoderPythonX issued server command: /adminfun fakejoin TSLNC04
+[15:06:37] [Server thread/INFO]: [0;33;1mTSLNC04 joined the game.[m
+[15:06:37] [Server thread/INFO]: [AdminFun] [AdminFun] CoderPythonX used the FakeJoin command using the name: TSLNC04
+[15:06:42] [Server thread/INFO]: markmuchane issued server command: /adminfun firework CoderPythonX
+[15:06:47] [Server thread/INFO]: CoderPythonX lost connection: Disconnected
+[15:06:47] [Server thread/INFO]: CoderPythonX left the game.
+[15:06:50] [Server thread/INFO]: markmuchane issued server command: /adminfun firework CoderPythonX
+[15:07:31] [User Authenticator #3/INFO]: UUID of player CoderPythonX is 811639f8-954d-4699-9240-7cb0fcb98c38
+[15:07:31] [Server thread/INFO]: CoderPythonX[/24.224.82.88:41726] logged in with entity id 200 at ([world] -1379.6030189437083, 137.22247812314976, -108.63203451274484)
+[15:07:33] [Server thread/INFO]: markmuchane issued server command: /adminfun firework CoderPythonX
+[15:08:06] [Server thread/INFO]: CoderPythonX issued server command: /nick Dictator
+[15:08:19] [Server thread/INFO]: CoderPythonX issued server command: //set ice:1
+[15:08:39] [Server thread/INFO]: CoderPythonX lost connection: Disconnected
+[15:08:39] [Server thread/INFO]: CoderPythonX left the game.
+[15:08:57] [Server thread/INFO]: markmuchane issued server command: /give markmuchane firework
+[15:08:59] [Server thread/INFO]: [PT] markmuchane issued server command: /firework
+[15:08:59] [Server thread/INFO]: [PT] markmuchane issued server command: /firework
+[15:09:02] [Server thread/INFO]: [PT] markmuchane issued server command: /firework
+[15:09:07] [Server thread/INFO]: markmuchane issued server command: /kit Firework
+[15:09:30] [Server thread/INFO]: markmuchane issued server command: /gmc
+[15:09:40] [Server thread/INFO]: [PT] markmuchane issued server command: /firework
+[15:10:20] [User Authenticator #4/INFO]: UUID of player Cryton3500 is 070b3858-c1ad-4c3d-a60e-eac5704ba0c5
+[15:10:20] [Server thread/INFO]: Cryton3500[/24.85.193.12:59310] logged in with entity id 280 at ([world] -1377.3945974156732, 123.06336408843451, -99.66793150397983)
+[15:10:23] [User Authenticator #5/INFO]: UUID of player DeathDestroyer3 is 7945e418-0d7a-463b-8fe6-a478b54f5728
+[15:10:23] [Server thread/INFO]: DeathDestroyer3[/207.6.90.202:50848] logged in with entity id 281 at ([world] -1376.613379712786, 122.0, -108.56404335682038)
+[15:10:38] [User Authenticator #6/INFO]: UUID of player CoderPythonX is 811639f8-954d-4699-9240-7cb0fcb98c38
+[15:10:38] [Server thread/INFO]: CoderPythonX[/24.224.82.88:42966] logged in with entity id 289 at ([world] -1384.0123511079948, 124.03181705608803, -108.6426544450648)
+[15:11:37] [Async Chat Thread - #1/INFO]: [m<[0;31;22m~Dictator[m> I AM DICTATOR LASKOSKI!!![m
+[15:12:00] [Async Chat Thread - #1/INFO]: [m<[0;31;22m~Dictator[m> but you can call me Stalin[m
+[15:12:15] [Async Chat Thread - #1/INFO]: [m<DeathDestroyer3[m> do you see it?[m
+[15:12:21] [Async Chat Thread - #1/INFO]: [m<[0;31;22mCryton3500[m> yes[m
+[15:12:27] [Async Chat Thread - #1/INFO]: [m<DeathDestroyer3[m> is it cool?[m
+[15:12:28] [Async Chat Thread - #1/INFO]: [m<[0;31;22mmarkmuchane[m> cryton do like the new look[m
+[15:12:37] [Async Chat Thread - #1/INFO]: [m<[0;31;22mCryton3500[m> ??/[m
+[15:12:43] [Async Chat Thread - #1/INFO]: [m<DeathDestroyer3[m> wannas call on ioad?[m
+[15:12:48] [Server thread/INFO]: markmuchane issued server command: /adminfun firework Cryton3500
+[15:12:55] [Server thread/INFO]: markmuchane issued server command: /adminfun firework Cryton3500
+[15:12:59] [Server thread/INFO]: CoderPythonX issued server command: //set ice:1
+[15:13:02] [Server thread/INFO]: CoderPythonX issued server command: //set ice:1
+[15:13:09] [Server thread/INFO]: DeathDestroyer3 has just earned the achievement [Taking Inventory]
+[15:13:10] [Server thread/INFO]: markmuchane issued server command: /adminfun firework DeathDestroyer3
+[15:13:11] [Server thread/INFO]: DeathDestroyer3 blew up
+[15:13:19] [Async Chat Thread - #1/INFO]: [m<[0;31;22mCryton3500[m> how do you go to the flat lands???[m
+[15:13:29] [Server thread/INFO]: CoderPythonX issued server command: //set 79:2
+[15:13:30] [Async Chat Thread - #1/INFO]: [m<[0;31;22mmarkmuchane[m> jum of the edge[m
+[15:13:31] [Server thread/INFO]: CoderPythonX issued server command: //set 79:1
+[15:13:34] [Server thread/INFO]: CoderPythonX issued server command: //set 79:7
+[15:13:41] [Server thread/INFO]: §1Cryton3500§r fell out of the world
+[15:13:44] [Server thread/INFO]: markmuchane fell out of the world
+[15:13:46] [Server thread/INFO]: DeathDestroyer3 fell out of the world
+[15:13:46] [Async Chat Thread - #1/INFO]: [m<[0;31;22mCryton3500[m> uhhh[m
+[15:13:54] [Async Chat Thread - #1/INFO]: [m<[0;31;22mmarkmuchane[m> i will make a portal[m
+[15:13:58] [Async Chat Thread - #1/INFO]: [m<[0;31;22mCryton3500[m> ty[m
+[15:14:35] [Server thread/INFO]: CoderPythonX issued server command: //set 139:3
+[15:14:41] [Server thread/INFO]: CoderPythonX issued server command: //set 139:1
+[15:14:55] [Server thread/INFO]: Cryton3500 issued server command: /adminfun
+[15:15:00] [Async Chat Thread - #2/INFO]: [m<DeathDestroyer3[m> markmuchane i like to texture pack[m
+[15:15:07] [Server thread/INFO]: Cryton3500 issued server command: /adminfun explode DeathDestroyer3
+[15:15:07] [Server thread/INFO]: DeathDestroyer3 blew up
+[15:15:17] [Async Chat Thread - #2/INFO]: [m<DeathDestroyer3[m> ./lift DeathDestroyer3[m
+[15:15:23] [Async Chat Thread - #2/INFO]: [m<DeathDestroyer3[m> is that a plugin?[m
+[15:15:26] [Async Chat Thread - #2/INFO]: [m<DeathDestroyer3[m> try it[m
+[15:15:30] [Server thread/INFO]: Cryton3500 issued server command: /adminfun explode firework
+[15:15:30] [Server thread/ERROR]: null
+org.bukkit.command.CommandException: Unhandled exception executing command 'adminfun' in plugin AdminFun v2.3.0
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:46) ~[spigot1649.jar:git-Spigot-1649]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:181) ~[spigot1649.jar:git-Spigot-1649]
+	at org.bukkit.craftbukkit.v1_7_R4.CraftServer.dispatchCommand(CraftServer.java:767) ~[spigot1649.jar:git-Spigot-1649]
+	at net.minecraft.server.v1_7_R4.PlayerConnection.handleCommand(PlayerConnection.java:1043) [spigot1649.jar:git-Spigot-1649]
+	at net.minecraft.server.v1_7_R4.PlayerConnection.a(PlayerConnection.java:880) [spigot1649.jar:git-Spigot-1649]
+	at net.minecraft.server.v1_7_R4.PacketPlayInChat.a(PacketPlayInChat.java:28) [spigot1649.jar:git-Spigot-1649]
+	at net.minecraft.server.v1_7_R4.PacketPlayInChat.handle(PacketPlayInChat.java:65) [spigot1649.jar:git-Spigot-1649]
+	at net.minecraft.server.v1_7_R4.NetworkManager.a(NetworkManager.java:186) [spigot1649.jar:git-Spigot-1649]
+	at net.minecraft.server.v1_7_R4.ServerConnection.c(ServerConnection.java:81) [spigot1649.jar:git-Spigot-1649]
+	at net.minecraft.server.v1_7_R4.MinecraftServer.v(MinecraftServer.java:734) [spigot1649.jar:git-Spigot-1649]
+	at net.minecraft.server.v1_7_R4.DedicatedServer.v(DedicatedServer.java:289) [spigot1649.jar:git-Spigot-1649]
+	at net.minecraft.server.v1_7_R4.MinecraftServer.u(MinecraftServer.java:584) [spigot1649.jar:git-Spigot-1649]
+	at net.minecraft.server.v1_7_R4.MinecraftServer.run(MinecraftServer.java:490) [spigot1649.jar:git-Spigot-1649]
+	at net.minecraft.server.v1_7_R4.ThreadServerApplication.run(SourceFile:628) [spigot1649.jar:git-Spigot-1649]
+Caused by: java.lang.NullPointerException
+	at me.trevor1134.adminfun.commands.ExplodeCommand.onCommand(ExplodeCommand.java:32) ~[?:?]
+	at me.trevor1134.adminfun.CommandListener.onCommand(CommandListener.java:142) ~[?:?]
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:44) ~[spigot1649.jar:git-Spigot-1649]
+	... 13 more
+[15:15:37] [Async Chat Thread - #2/INFO]: [m<DeathDestroyer3[m> markmuchane i like to texture pack[m
+[15:15:37] [Server thread/INFO]: Cryton3500 issued server command: /adminfun firework
+[15:15:42] [Async Chat Thread - #2/INFO]: [m<[0;31;22mmarkmuchane[m> thanks[m
+[15:15:43] [Server thread/INFO]: Cryton3500 issued server command: /adminfun firework DeathDestroyer3
+[15:15:44] [Server thread/INFO]: DeathDestroyer3 blew up
+[15:15:49] [Async Chat Thread - #2/INFO]: [m<[0;31;22mmarkmuchane[m> it was my idea[m
+[15:15:51] [Async Chat Thread - #2/INFO]: [m<DeathDestroyer3[m> your welcome[m
+[15:15:54] [Server thread/INFO]: Cryton3500 issued server command: /adminfun firework Cryton3500
+[15:16:08] [Server thread/INFO]: DeathDestroyer3 issued server command: /explode
+[15:16:10] [Server thread/INFO]: Cryton3500 issued server command: /GM 1 DeathDestroyer3
+[15:16:11] [Server thread/INFO]: DeathDestroyer3 issued server command: /help
+[15:16:15] [Server thread/INFO]: CoderPythonX lost connection: Disconnected
+[15:16:15] [Server thread/INFO]: CoderPythonX left the game.
+[15:16:18] [Server thread/INFO]: [PT] markmuchane issued server command: /firework
+[15:16:22] [Server thread/INFO]: DeathDestroyer3 issued server command: /afk
+[15:16:23] [Server thread/INFO]: DeathDestroyer3 issued server command: /afk
+[15:16:27] [Server thread/INFO]: markmuchane issued server command: /afk
+[15:16:33] [Server thread/INFO]: markmuchane issued server command: /afk
+[15:16:34] [Server thread/INFO]: Cryton3500 issued server command: /adminfun fakequit
+[15:16:34] [Server thread/INFO]: [0;33;1mCryton3500 left the game.[m
+[15:16:34] [Server thread/INFO]: [AdminFun] [AdminFun] Cryton3500 used the FakeQuit command.
+[15:16:36] [Server thread/INFO]: markmuchane issued server command: /afk
+[15:16:41] [Async Chat Thread - #2/INFO]: [m<DeathDestroyer3[m> that is so cool[m
+[15:16:44] [Server thread/INFO]: Cryton3500 issued server command: /adminfun fakequit DeathDestroyer3
+[15:16:44] [Server thread/INFO]: [0;33;1mDeathDestroyer3 left the game.[m
+[15:16:44] [Server thread/INFO]: [AdminFun] [AdminFun] Cryton3500 used the FakeQuit command using the name: DeathDestroyer3
+[15:16:55] [Async Chat Thread - #2/INFO]: [m<DeathDestroyer3[m> shhhh[m
+[15:16:58] [Async Chat Thread - #2/INFO]: [m<DeathDestroyer3[m> im still on[m
+[15:17:00] [Server thread/INFO]: Cryton3500 issued server command: /adminfun
+[15:17:04] [Async Chat Thread - #2/INFO]: [m<DeathDestroyer3[m> i mean uuhh im offline[m
+[15:17:07] [User Authenticator #7/INFO]: UUID of player CoderPythonX is 811639f8-954d-4699-9240-7cb0fcb98c38
+[15:17:07] [Server thread/INFO]: CoderPythonX[/24.224.82.88:37056] logged in with entity id 436 at ([world] -1391.1584209578798, 123.40102945912847, -108.4274865660841)
+[15:17:18] [Async Chat Thread - #2/INFO]: [m<DeathDestroyer3[m> this is just a recorded message :>[m
+[15:17:20] [Server thread/INFO]: [PT] markmuchane issued server command: /firework
+[15:17:28] [Server thread/INFO]: Cryton3500 issued server command: /adminfun show
+[15:17:31] [Async Chat Thread - #2/INFO]: [m<DeathDestroyer3[m> BEEEEEEEEEP[m
+[15:17:35] [Server thread/INFO]: [0;30;1m[[0;36;1mAdminFun[0;30;1m] [mFirework show in: 5[m
+[15:17:36] [Server thread/INFO]: [0;30;1m[[0;36;1mAdminFun[0;30;1m] [mFirework show in: 4[m
+[15:17:37] [Server thread/INFO]: [0;30;1m[[0;36;1mAdminFun[0;30;1m] [mFirework show in: 3[m
+[15:17:38] [Server thread/INFO]: [0;30;1m[[0;36;1mAdminFun[0;30;1m] [mFirework show in: 2[m
+[15:17:39] [Server thread/INFO]: [0;30;1m[[0;36;1mAdminFun[0;30;1m] [mFirework show in: 1[m
+[15:17:39] [Async Chat Thread - #2/INFO]: [m<DeathDestroyer3[m> 1[m
+[15:17:46] [Server thread/INFO]: Cryton3500 issued server command: /adminfun show
+[15:17:47] [Server thread/INFO]: [0;30;1m[[0;36;1mAdminFun[0;30;1m] [mFirework show in: 5[m
+[15:17:48] [Server thread/INFO]: [0;30;1m[[0;36;1mAdminFun[0;30;1m] [mFirework show in: 4[m
+[15:17:48] [Server thread/INFO]: Cryton3500 issued server command: /adminfun show
+[15:17:49] [Server thread/INFO]: [0;30;1m[[0;36;1mAdminFun[0;30;1m] [mFirework show in: 3[m
+[15:17:50] [Server thread/INFO]: [0;30;1m[[0;36;1mAdminFun[0;30;1m] [mFirework show in: 2[m
+[15:17:50] [Server thread/INFO]: Cryton3500 issued server command: /adminfun show
+[15:17:51] [Server thread/INFO]: [0;30;1m[[0;36;1mAdminFun[0;30;1m] [mFirework show in: 1[m
+[15:17:52] [Server thread/INFO]: CoderPythonX lost connection: Disconnected
+[15:17:52] [Server thread/INFO]: CoderPythonX left the game.
+[15:17:54] [Server thread/INFO]: markmuchane issued server command: /adminfun firework show
+[15:17:56] [Server thread/INFO]: Cryton3500 issued server command: /adminfun show
+[15:17:57] [Server thread/INFO]: [0;30;1m[[0;36;1mAdminFun[0;30;1m] [mFirework show in: 5[m
+[15:17:57] [User Authenticator #8/INFO]: UUID of player CoderPythonX is 811639f8-954d-4699-9240-7cb0fcb98c38
+[15:17:57] [Server thread/INFO]: CoderPythonX[/24.224.82.88:48986] logged in with entity id 538 at ([world] -1377.8940364349592, 126.74538318559246, -108.2610378942284)
+[15:17:58] [Server thread/INFO]: [0;30;1m[[0;36;1mAdminFun[0;30;1m] [mFirework show in: 4[m
+[15:17:59] [Server thread/INFO]: [0;30;1m[[0;36;1mAdminFun[0;30;1m] [mFirework show in: 3[m
+[15:18:00] [Server thread/INFO]: markmuchane issued server command: /adminfun fireworkshow
+[15:18:00] [Server thread/INFO]: [0;30;1m[[0;36;1mAdminFun[0;30;1m] [mFirework show in: 2[m
+[15:18:01] [Server thread/INFO]: [0;30;1m[[0;36;1mAdminFun[0;30;1m] [mFirework show in: 1[m
+[15:18:08] [Server thread/INFO]: markmuchane issued server command: /adminfun firework show
+[15:18:14] [Server thread/INFO]: Cryton3500 issued server command: /give Cryton3500 Fireworks
+[15:18:17] [Server thread/INFO]: markmuchane issued server command: /firework show
+[15:18:27] [Server thread/INFO]: Cryton3500 issued server command: /give Cryton3500 Fireworks blue
+[15:18:54] [Server thread/INFO]: Cryton3500 issued server command: /skull DeathDestroyer3
+[15:19:19] [Async Chat Thread - #3/INFO]: [m<DeathDestroyer3[m> ./give Cryton3500 minecraft:stick 1 0 {ench:[{id:16,lvl:9999}]}[m
+[15:19:33] [Server thread/INFO]: CoderPythonX issued server command: //wand
+[15:19:39] [Server thread/INFO]: [PT] markmuchane issued server command: /firework
+[15:19:42] [Async Chat Thread - #3/INFO]: [m<DeathDestroyer3[m> ./give Cryton3500 minecraft:stick 1 0 {ench:[{id:16,lvl:9999}]}[m
+[15:19:47] [Server thread/INFO]: CoderPythonX issued server command: /set 79:1
+[15:19:51] [Server thread/INFO]: CoderPythonX issued server command: //set 79:1
+[15:19:55] [Async Chat Thread - #3/INFO]: [m<DeathDestroyer3[m> thats how you get a sharpness 9999 stick[m
+[15:20:31] [Server thread/INFO]: Cryton3500 issued server command: /skull
+[15:20:48] [Server thread/INFO]: [PT] markmuchane issued server command: /jump
+[15:20:48] [Server thread/INFO]: [PT] markmuchane issued server command: /jump
+[15:20:52] [Server thread/INFO]: markmuchane issued server command: /spawn
+[15:20:58] [Server thread/INFO]: [PT] markmuchane issued server command: /jump
+[15:20:59] [Server thread/INFO]: [PT] markmuchane issued server command: /jump
+[15:20:59] [Server thread/INFO]: [PT] markmuchane issued server command: /jump
+[15:21:00] [Server thread/INFO]: [PT] markmuchane issued server command: /jump
+[15:21:00] [Server thread/INFO]: [PT] markmuchane issued server command: /jump
+[15:21:00] [Server thread/INFO]: [PT] markmuchane issued server command: /jump
+[15:21:00] [Server thread/INFO]: Cryton3500 issued server command: /adminfun
+[15:21:03] [Server thread/INFO]: markmuchane issued server command: /spawn
+[15:21:04] [Server thread/INFO]: [PT] markmuchane issued server command: /jump
+[15:21:08] [Server thread/INFO]: markmuchane issued server command: /pt
+[15:21:19] [Async Chat Thread - #4/INFO]: [m<DeathDestroyer3[m> ./give Cryton3500 minecraft:stick 1 0 {ench:[{id:16,lvl:9999}]}[m
+[15:21:22] [Server thread/INFO]: CoderPythonX issued server command: //set 139 3
+[15:21:26] [Async Chat Thread - #4/INFO]: [m<DeathDestroyer3[m> does it work?[m
+[15:21:28] [Server thread/INFO]: CoderPythonX issued server command: //set 139:3
+[15:21:32] [Server thread/INFO]: Cryton3500 issued server command: /adminfun invsee DeathDeathDestroyer3
+[15:21:43] [Server thread/INFO]: DeathDestroyer3 issued server command: /
+[15:21:46] [Async Chat Thread - #4/INFO]: [m<DeathDestroyer3[m> ./give Cryton3500 minecraft:stick 1 0 {ench:[{id:16,lvl:9999}]}[m
+[15:21:54] [Async Chat Thread - #4/INFO]: [m<DeathDestroyer3[m> ./give Cryton3500 minecraft:stick 1 0 {ench:[{id:16,lvl:9999}]}[m
+[15:21:59] [Async Chat Thread - #4/INFO]: [m<DeathDestroyer3[m> ./give Cryton3500 minecraft:stick 1 0 {ench:[{id:16,lvl:9999}]}[m
+[15:22:13] [Server thread/INFO]: CoderPythonX issued server command: //set 79:1
+[15:22:16] [Server thread/INFO]: CoderPythonX issued server command: //set 79:3
+[15:22:18] [Async Chat Thread - #4/INFO]: [m<DeathDestroyer3[m> {[m
+[15:22:19] [Async Chat Thread - #4/INFO]: [m<DeathDestroyer3[m> [[m
+[15:22:20] [Server thread/INFO]: CoderPythonX issued server command: //set 139:1
+[15:22:25] [Server thread/INFO]: CoderPythonX issued server command: //set 0
+[15:22:28] [Async Chat Thread - #4/INFO]: [m<DeathDestroyer3[m> [[m
+[15:22:48] [Async Chat Thread - #4/INFO]: [m<DeathDestroyer3[m> ,[m
+[15:22:57] [Async Chat Thread - #4/INFO]: [m<DeathDestroyer3[m> lvl[m
+[15:23:02] [Async Chat Thread - #4/INFO]: [m<DeathDestroyer3[m> 9999[m
+[15:23:07] [Async Chat Thread - #4/INFO]: [m<DeathDestroyer3[m> }[m
+[15:23:10] [Async Chat Thread - #4/INFO]: [m<DeathDestroyer3[m> ][m
+[15:23:11] [Async Chat Thread - #4/INFO]: [m<DeathDestroyer3[m> }[m
+[15:23:16] [Async Chat Thread - #4/INFO]: [m<[0;31;22m~Dictator[m> DARN METAS IN V3.3!!![m
+[15:23:21] [Server thread/INFO]: Cryton3500 issued server command: /give Cryton3500 minecraft:stick 1 0 {ench:[{id:16,lvl;99999999}]}
+[15:23:28] [Server thread/INFO]: Cryton3500 issued server command: /give Cryton3500 minecraft:stick 1 0 {ench:[{id:16,lvl;99999}]}
+[15:23:34] [Async Chat Thread - #4/INFO]: [m<DeathDestroyer3[m> ./give Cryton3500 minecraft:stick 1 0{ench:[{id:16,lvl:9999}]}[m
+[15:23:43] [Server thread/INFO]: Cryton3500 issued server command: /give DeathDestroyer3 minecraft:stick 1 0 {ench:[{id:16,lvl;99999}]}
+[15:23:57] [Server thread/INFO]: Cryton3500 issued server command: /adminfun
+[15:24:00] [Server thread/INFO]: CoderPythonX issued server command: /setblock ~ ~ ~ log
+[15:24:00] [Server thread/INFO]: [CoderPythonX: Block placed]
+[15:24:06] [Server thread/INFO]: Cryton3500 issued server command: /ebc hi
+[15:24:16] [Async Chat Thread - #4/INFO]: [m<DeathDestroyer3[m> [0;31;22mhi?[m
+[15:24:29] [Server thread/INFO]: Cryton3500 issued server command: /Herobrine ebc hi
+[15:24:31] [Server thread/INFO]: markmuchane issued server command: /adminfun punish Cryton3500
+[15:24:35] [Async Chat Thread - #4/INFO]: [m<DeathDestroyer3[m> type & 6 (message)[m
+[15:24:56] [Async Chat Thread - #4/INFO]: [m<DeathDestroyer3[m> hey do you know HaveYouSeenMeP?[m
+[15:25:23] [Server thread/INFO]: DeathDestroyer3 issued server command: /give DeathDestroyer3 minecraft:stick 1 0{ench:[{id:16,lvl:9999}]}
+[15:25:23] [Server thread/INFO]: §cDeathDestroyer3 §4was denied access to command.
+[15:25:32] [Server thread/INFO]: DeathDestroyer3 issued server command: /give DeathDestroyer3 minecraft:stick 1 0{ench:[{id:16,lvl:9999}]}
+[15:25:32] [Server thread/INFO]: §cDeathDestroyer3 §4was denied access to command.
+[15:26:04] [Server thread/INFO]: CoderPythonX issued server command: /broadcast Anveeone waunt to healp me wit vee concentration camp?
+[15:26:15] [Async Chat Thread - #5/INFO]: [m<DeathDestroyer3[m> sure[m
+[15:26:26] [Async Chat Thread - #5/INFO]: [m<DeathDestroyer3[m> [0;33;22msure[m
+[15:26:32] [Async Chat Thread - #5/INFO]: [m<DeathDestroyer3[m> [0;31;22msure[m
+[15:26:34] [Server thread/INFO]: CoderPythonX issued server command: /jump
+[15:26:39] [Server thread/INFO]: CoderPythonX issued server command: /jump
+[15:26:40] [Async Chat Thread - #5/INFO]: [m<[0;31;22mmarkmuchane[m> tp to CoderPythonX[m
+[15:26:46] [Server thread/INFO]: CoderPythonX issued server command: /tp DeathDestroyer3 CoderPythonX
+[15:26:49] [Async Chat Thread - #5/INFO]: [m<DeathDestroyer3[m> oooo[m
+[15:26:52] [Server thread/INFO]: CoderPythonX issued server command: /gmc DeathDestroyer3
+[15:27:01] [Async Chat Thread - #5/INFO]: [m<DeathDestroyer3[m> so what do i do?[m
+[15:27:05] [Server thread/INFO]: CoderPythonX issued server command: //walls
+[15:27:22] [Async Chat Thread - #5/INFO]: [m<[0;31;22m~Dictator[m> come up with torture ideas[m
+[15:27:27] [Async Chat Thread - #5/INFO]: [m<DeathDestroyer3[m> hold on[m
+[15:27:33] [Server thread/INFO]: Cryton3500 issued server command: /type & 6
+[15:27:37] [Server thread/INFO]: Cryton3500 issued server command: /type & 6 hi
+[15:27:43] [Server thread/INFO]: CoderPythonX issued server command: //wnad
+[15:27:46] [Server thread/INFO]: CoderPythonX issued server command: //wand
+[15:27:53] [Server thread/INFO]: CoderPythonX issued server command: /plugins
+[15:27:55] [Async Chat Thread - #5/INFO]: [m<DeathDestroyer3[m> hmmm[m
+[15:27:58] [Async Chat Thread - #5/INFO]: [m<[0;31;22mCryton3500[m> type [0;33;22m hi[m
+[15:28:07] [Async Chat Thread - #5/INFO]: [m<DeathDestroyer3[m> how about a rope thingy[m
+[15:28:11] [Async Chat Thread - #5/INFO]: [m<[0;31;22mCryton3500[m> [0;33;22m hi[m
+[15:28:12] [Async Chat Thread - #5/INFO]: [m<DeathDestroyer3[m> like you know[m
+[15:28:14] [Async Chat Thread - #5/INFO]: [m<[0;31;22m~Dictator[m> hanging?[m
+[15:28:17] [Async Chat Thread - #5/INFO]: [m<DeathDestroyer3[m> yeah[m
+[15:28:21] [Async Chat Thread - #5/INFO]: [m<[0;31;22m~Dictator[m> kk[m
+[15:28:22] [Async Chat Thread - #5/INFO]: [m<[0;31;22mCryton3500[m> [0;34;22mhi[m
+[15:28:29] [Async Chat Thread - #5/INFO]: [m<DeathDestroyer3[m> the hanging chocking thingy rope[m
+[15:28:35] [Async Chat Thread - #5/INFO]: [m<[0;31;22mCryton3500[m> [0;32;22m hi[m
+[15:28:40] [Async Chat Thread - #5/INFO]: [m<[0;31;22mCryton3500[m> [0;36;22m hi[m
+[15:28:47] [Async Chat Thread - #5/INFO]: [m<[0;31;22mCryton3500[m> [0;31;22m hi[m
+[15:28:52] [Async Chat Thread - #5/INFO]: [m<[0;31;22mCryton3500[m> [0;35;22m hi[m
+[15:28:58] [Async Chat Thread - #5/INFO]: [m<[0;31;22mCryton3500[m> [0;33;22m hi[m
+[15:29:00] [Server thread/INFO]: CoderPythonX issued server command: /gamerule doMobSpawning false
+[15:29:00] [Server thread/INFO]: CoderPythonX: Game rule doMobSpawning has been set to: false[m
+[15:29:03] [Async Chat Thread - #5/INFO]: [m<[0;31;22mCryton3500[m> [0;37;22m hi[m
+[15:29:04] [Server thread/INFO]: markmuchane issued server command: /DAY
+[15:29:06] [Server thread/INFO]: CoderPythonX issued server command: /difficulty 0
+[15:29:06] [Server thread/INFO]: CoderPythonX: Set difficulty to PEACEFUL[m
+[15:29:13] [Async Chat Thread - #5/INFO]: [m<[0;31;22mCryton3500[m> [0;30;1m hi[m
+[15:29:13] [Server thread/INFO]: CoderPythonX issued server command: /time set day
+[15:29:17] [Async Chat Thread - #5/INFO]: [m<[0;31;22mCryton3500[m> [0;34;1m hi[m
+[15:29:18] [Server thread/INFO]: CoderPythonX issued server command: /time set 1000
+[15:29:24] [Server thread/INFO]: markmuchane issued server command: /day
+[15:29:29] [Server thread/INFO]: CoderPythonX issued server command: /time set 1000
+[15:29:39] [Server thread/INFO]: Cryton3500 issued server command: /tpa death
+[15:29:44] [Server thread/INFO]: CoderPythonX issued server command: /gamerule doDaylightCycle false
+[15:29:44] [Server thread/INFO]: CoderPythonX: Game rule doDaylightCycle has been set to: false[m
+[15:29:46] [Server thread/INFO]: DeathDestroyer3 issued server command: /tpaccept
+[15:30:06] [Server thread/INFO]: CoderPythonX issued server command: /speed 3
+[15:30:10] [Server thread/INFO]: CoderPythonX issued server command: /speed 1
+[15:30:17] [Server thread/INFO]: CoderPythonX issued server command: /speed 3
+[15:30:21] [Server thread/INFO]: DeathDestroyer3 issued server command: /e
+[15:30:24] [Server thread/INFO]: CoderPythonX issued server command: /speed 1
+[15:30:29] [Server thread/INFO]: markmuchane issued server command: /speed 100
+[15:30:54] [Server thread/INFO]: markmuchane issued server command: /speed 4
+[15:31:08] [Server thread/INFO]: CoderPythonX issued server command: //walls 98:0,98:1,98:2,98:3
+[15:31:14] [Async Chat Thread - #6/INFO]: [m<[0;31;22m~Dictator[m> ahh[m
+[15:31:16] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:31:16] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:31:17] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:31:17] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:31:17] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:31:17] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:31:18] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:31:18] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:31:18] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:31:18] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:31:18] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:31:19] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:31:19] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:31:19] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:31:19] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:31:19] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:31:20] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:31:20] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:31:20] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:31:20] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:31:20] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:31:21] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:31:21] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:31:21] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:31:21] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:31:21] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:31:26] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:31:26] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:31:27] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:31:27] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:31:27] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:31:27] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:31:27] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:31:28] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:31:28] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:31:28] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:31:29] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:31:29] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:31:29] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:31:29] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:31:29] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:31:30] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:31:30] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:31:30] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:31:30] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:31:30] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:31:31] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:31:31] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:31:31] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:31:31] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:31:32] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:31:32] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:31:32] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:31:32] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:31:33] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:31:33] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:31:33] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:31:33] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:31:34] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:31:34] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:31:34] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:31:34] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:31:34] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:31:35] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:31:35] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:31:35] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:31:35] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:31:36] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:31:36] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:31:36] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:31:36] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:31:36] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:31:36] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:31:37] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:31:37] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:31:37] [Async Chat Thread - #6/INFO]: [m<[0;31;22m~Dictator[m> SHUT UP[m
+[15:31:37] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:31:37] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:31:37] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:31:37] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:31:37] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:31:37] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:31:38] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:31:40] [Async Chat Thread - #6/INFO]: [m<DeathDestroyer3[m> ?[m
+[15:31:42] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:31:43] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:31:43] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:31:43] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:31:43] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:31:43] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:31:46] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:31:48] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:31:48] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:31:49] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:31:49] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:31:49] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:31:49] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:31:50] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:31:50] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:31:51] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:31:51] [Async Chat Thread - #6/INFO]: [m<[0;31;22m~Dictator[m> ./tor anyone?[m
+[15:31:51] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:31:51] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:31:52] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:31:52] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:31:52] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:31:53] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:31:53] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:31:53] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:31:54] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:31:55] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:31:55] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:31:56] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:31:56] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:31:56] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:31:57] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:31:57] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:31:57] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:31:58] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:31:58] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:31:58] [Async Chat Thread - #6/INFO]: [m<[0;31;22m~Dictator[m> ./thor anyone?*[m
+[15:31:59] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:31:59] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:31:59] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:32:00] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:32:00] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:32:00] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:32:01] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:32:01] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:32:01] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:32:01] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:32:02] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:32:02] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:32:04] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:32:04] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:32:04] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:32:05] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:32:05] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:32:05] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:32:06] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:32:06] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:32:07] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:32:07] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:32:07] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:32:08] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:32:08] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:32:09] [Async Chat Thread - #6/INFO]: [m<DeathDestroyer3[m> me!!!![m
+[15:32:13] [Server thread/INFO]: DeathDestroyer3 issued server command: /thor DeathDestroyer3
+[15:32:13] [Server thread/INFO]: §cDeathDestroyer3 §4was denied access to command.
+[15:32:22] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:32:22] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:32:22] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:32:22] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:32:22] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:32:23] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:32:23] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:32:23] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:32:23] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:32:23] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:32:31] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:32:31] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:32:31] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:32:31] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:32:31] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:32:32] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:32:32] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:32:32] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:32:32] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:32:33] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:32:33] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:32:33] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:32:33] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:32:34] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:32:34] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:32:34] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:32:34] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:32:34] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:32:48] [Server thread/INFO]: markmuchane issued server command: /adminfun fakeop DeathDestroyer3
+[15:32:57] [Async Chat Thread - #6/INFO]: [m<[0;31;22mmarkmuchane[m> you are op DeathDestroyer3[m
+[15:32:59] [Async Chat Thread - #6/INFO]: [m<DeathDestroyer3[m> im op?[m
+[15:33:05] [Server thread/INFO]: CoderPythonX issued server command: //walls 30
+[15:33:07] [Async Chat Thread - #6/INFO]: [m<[0;31;22mmarkmuchane[m> yep[m
+[15:33:09] [Server thread/INFO]: markmuchane issued server command: /spawn
+[15:33:09] [Async Chat Thread - #6/INFO]: [m<[0;31;22mCryton3500[m> what is this coder[m
+[15:33:19] [Server thread/INFO]: DeathDestroyer3 issued server command: /give DeathDestroyer3 minecraft:stick 1 0{ench:[{id:16,lvl:9999}]}
+[15:33:19] [Server thread/INFO]: §cDeathDestroyer3 §4was denied access to command.
+[15:33:23] [Async Chat Thread - #6/INFO]: [m<DeathDestroyer3[m> thanks[m
+[15:33:29] [Server thread/INFO]: DeathDestroyer3 issued server command: /help
+[15:33:35] [Async Chat Thread - #6/INFO]: [m<DeathDestroyer3[m> uhhh thanks?[m
+[15:33:49] [Server thread/INFO]: markmuchane issued server command: /op DeathDestroyer3
+[15:33:49] [Server thread/INFO]: markmuchane: Opped DeathDestroyer3[m
+[15:33:52] [Server thread/INFO]: CoderPythonX issued server command: /broadcast I AM DICTATOR LASKOSKI OF BLOCKMC
+[15:33:54] [Server thread/INFO]: DeathDestroyer3 issued server command: /tp
+[15:34:06] [Server thread/INFO]: DeathDestroyer3 issued server command: /tp player Cryton3500
+[15:34:12] [Server thread/INFO]: DeathDestroyer3 issued server command: /tp Cryton3500
+[15:34:17] [Server thread/INFO]: DeathDestroyer3 issued server command: /give DeathDestroyer3 minecraft:stick 1 0{ench:[{id:16,lvl:9999}]}
+[15:34:23] [Server thread/INFO]: DeathDestroyer3 issued server command: /give DeathDestroyer3 minecraft:stick 1 0{ench:[{id:16,lvl:999}]}
+[15:34:32] [Server thread/INFO]: DeathDestroyer3 issued server command: /give DeathDestroyer3 minecraft:stick 10{ench:[{id:16,lvl:999}]}
+[15:34:47] [Server thread/INFO]: DeathDestroyer3 issued server command: /give DeathDestroyer3 minecraft:diamond_sword 1 0{ench:[{id:16,lvl:999}]}
+[15:34:58] [Server thread/INFO]: Cryton3500 issued server command: /adminfun firework DeathDestroyer3
+[15:35:04] [Server thread/INFO]: Cryton3500 issued server command: /adminfun firework DeathDestroyer3
+[15:35:05] [Server thread/INFO]: Cryton3500 issued server command: /adminfun firework DeathDestroyer3
+[15:35:05] [Server thread/INFO]: Cryton3500 issued server command: /adminfun firework DeathDestroyer3
+[15:35:08] [Server thread/INFO]: DeathDestroyer3 issued server command: /give DeathDestroyer3 minecraft:stick 1 0{ench:[{id:17,lvl:999}]}
+[15:35:13] [Server thread/INFO]: Cryton3500 issued server command: /adminfun firework DeathDestroyer3
+[15:35:20] [Server thread/INFO]: DeathDestroyer3 issued server command: /explode
+[15:35:26] [Server thread/INFO]: DeathDestroyer3 issued server command: /lift
+[15:35:32] [Server thread/INFO]: DeathDestroyer3 issued server command: /help
+[15:35:36] [Server thread/INFO]: DeathDestroyer3 issued server command: /summon
+[15:35:44] [Server thread/INFO]: DeathDestroyer3 issued server command: /summon PrimedTnt
+[15:35:44] [Server thread/INFO]: [DeathDestroyer3: Object successfully summoned]
+[15:35:46] [Server thread/INFO]: DeathDestroyer3 issued server command: /summon PrimedTnt
+[15:35:46] [Server thread/INFO]: [DeathDestroyer3: Object successfully summoned]
+[15:35:48] [Server thread/INFO]: DeathDestroyer3 issued server command: /summon PrimedTnt
+[15:35:48] [Server thread/INFO]: [DeathDestroyer3: Object successfully summoned]
+[15:35:49] [Server thread/INFO]: DeathDestroyer3 issued server command: /summon PrimedTnt
+[15:35:49] [Server thread/INFO]: [DeathDestroyer3: Object successfully summoned]
+[15:35:49] [Server thread/INFO]: DeathDestroyer3 issued server command: /summon PrimedTnt
+[15:35:49] [Server thread/INFO]: [DeathDestroyer3: Object successfully summoned]
+[15:35:49] [Server thread/INFO]: DeathDestroyer3 issued server command: /summon PrimedTnt
+[15:35:49] [Server thread/INFO]: [DeathDestroyer3: Object successfully summoned]
+[15:35:50] [Server thread/INFO]: DeathDestroyer3 issued server command: /summon PrimedTnt
+[15:35:50] [Server thread/INFO]: [DeathDestroyer3: Object successfully summoned]
+[15:35:50] [Server thread/INFO]: DeathDestroyer3 issued server command: /summon PrimedTnt
+[15:35:50] [Server thread/INFO]: [DeathDestroyer3: Object successfully summoned]
+[15:36:00] [Server thread/INFO]: Cryton3500 issued server command: /summon PrimeTnT
+[15:36:00] [Server thread/WARN]: Skipping Entity with id PrimeTnT
+[15:36:00] [Server thread/INFO]: [Cryton3500: Unable to summon object]
+[15:36:08] [Server thread/INFO]: DeathDestroyer3 issued server command: /w Cryton3500 /summon PrimedTnt
+[15:36:25] [Server thread/INFO]: Cryton3500 issued server command: /summon PrimedTnt
+[15:36:25] [Server thread/INFO]: [Cryton3500: Object successfully summoned]
+[15:36:30] [Server thread/INFO]: CoderPythonX issued server command: /broadcast WHAT ARE YOU SUMMONING???
+[15:36:44] [Async Chat Thread - #7/INFO]: [m<[0;31;22mCryton3500[m> summon PrimedTnt[m
+[15:36:52] [Server thread/INFO]: CoderPythonX issued server command: //set 79:1
+[15:37:09] [Server thread/INFO]: DeathDestroyer3 issued server command: /give DeathDestroyer3 minecraft:stick 1 0{ench:[{id:1,lvl:999}]}
+[15:37:19] [Server thread/INFO]: DeathDestroyer3 issued server command: /give DeathDestroyer3 minecraft:stick 1 0{ench:[{id:16,lvl:999}]}
+[15:37:36] [Server thread/INFO]: DeathDestroyer3 issued server command: /give DeathDestroyer3 minecraft:stick 1 0{ench:[{id:10,lvl:9999}]}
+[15:37:45] [Server thread/INFO]: DeathDestroyer3 issued server command: /give DeathDestroyer3 minecraft:stick 1 0{ench:[{id:16,lvl:9}]}
+[15:38:00] [Server thread/INFO]: CoderPythonX issued server command: /setblock ~ ~ ~ log
+[15:38:00] [Server thread/INFO]: [CoderPythonX: Block placed]
+[15:38:08] [Server thread/INFO]: DeathDestroyer3 issued server command: /give DeathDestroyer3 minecraft:stick 1 0{ench:[{id:16,lvl:999}]}
+[15:38:12] [Server thread/INFO]: DeathDestroyer3 issued server command: /pt
+[15:38:23] [Server thread/INFO]: DeathDestroyer3 issued server command: /pt lightning
+[15:38:25] [Server thread/INFO]: [PT] DeathDestroyer3 issued server command: /lightning
+[15:38:26] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:38:26] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:38:27] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:38:27] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:38:27] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:38:27] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:38:27] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:38:28] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:38:28] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:38:28] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:38:29] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:38:29] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:38:29] [Server thread/INFO]: [PT] DeathDestroyer3 issued server command: /lightning
+[15:38:29] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:38:29] [Server thread/INFO]: [PT] DeathDestroyer3 issued server command: /lightning
+[15:38:29] [Server thread/INFO]: [PT] DeathDestroyer3 issued server command: /lightning
+[15:38:29] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:38:29] [Server thread/INFO]: [PT] DeathDestroyer3 issued server command: /lightning
+[15:38:29] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:38:30] [Server thread/INFO]: [PT] DeathDestroyer3 issued server command: /lightning
+[15:38:30] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:38:30] [Server thread/INFO]: [PT] DeathDestroyer3 issued server command: /lightning
+[15:38:30] [Server thread/INFO]: [PT] DeathDestroyer3 issued server command: /lightning
+[15:38:30] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:38:30] [Server thread/INFO]: [PT] DeathDestroyer3 issued server command: /lightning
+[15:38:30] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:38:30] [Server thread/INFO]: [PT] DeathDestroyer3 issued server command: /lightning
+[15:38:30] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:38:31] [Server thread/INFO]: [PT] DeathDestroyer3 issued server command: /lightning
+[15:38:31] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:38:31] [Server thread/INFO]: [PT] DeathDestroyer3 issued server command: /lightning
+[15:38:31] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:38:31] [Server thread/INFO]: [PT] DeathDestroyer3 issued server command: /lightning
+[15:38:31] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:38:31] [Server thread/INFO]: [PT] DeathDestroyer3 issued server command: /lightning
+[15:38:31] [Server thread/INFO]: [PT] DeathDestroyer3 issued server command: /lightning
+[15:38:31] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:38:32] [Server thread/INFO]: [PT] DeathDestroyer3 issued server command: /lightning
+[15:38:32] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:38:32] [Server thread/INFO]: [PT] DeathDestroyer3 issued server command: /lightning
+[15:38:32] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:38:32] [Server thread/INFO]: [PT] DeathDestroyer3 issued server command: /lightning
+[15:38:32] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:38:32] [Server thread/INFO]: [PT] DeathDestroyer3 issued server command: /lightning
+[15:38:32] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:38:32] [Server thread/INFO]: [PT] DeathDestroyer3 issued server command: /lightning
+[15:38:32] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:38:32] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:38:32] [Server thread/INFO]: [PT] DeathDestroyer3 issued server command: /lightning
+[15:38:33] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:38:33] [Server thread/INFO]: [PT] DeathDestroyer3 issued server command: /lightning
+[15:38:33] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:38:33] [Server thread/INFO]: [PT] DeathDestroyer3 issued server command: /lightning
+[15:38:33] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:38:33] [Server thread/INFO]: [PT] DeathDestroyer3 issued server command: /lightning
+[15:38:33] [Server thread/INFO]: [PT] DeathDestroyer3 issued server command: /lightning
+[15:38:33] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:38:33] [Server thread/INFO]: [PT] DeathDestroyer3 issued server command: /lightning
+[15:38:34] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:38:34] [Server thread/INFO]: [PT] DeathDestroyer3 issued server command: /lightning
+[15:38:34] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:38:34] [Server thread/INFO]: [PT] DeathDestroyer3 issued server command: /lightning
+[15:38:34] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:38:34] [Server thread/INFO]: [PT] DeathDestroyer3 issued server command: /lightning
+[15:38:34] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:38:34] [Server thread/INFO]: [PT] DeathDestroyer3 issued server command: /lightning
+[15:38:34] [Server thread/INFO]: [PT] DeathDestroyer3 issued server command: /lightning
+[15:38:35] [Server thread/INFO]: [PT] DeathDestroyer3 issued server command: /lightning
+[15:38:35] [Server thread/INFO]: [PT] DeathDestroyer3 issued server command: /lightning
+[15:38:35] [Server thread/INFO]: [PT] DeathDestroyer3 issued server command: /lightning
+[15:38:35] [Server thread/INFO]: [PT] DeathDestroyer3 issued server command: /lightning
+[15:38:45] [Server thread/INFO]: DeathDestroyer3 issued server command: /pt
+[15:38:51] [Server thread/INFO]: DeathDestroyer3 issued server command: /pt mob cow
+[15:38:56] [Server thread/INFO]: DeathDestroyer3 issued server command: /pt mob cow 10
+[15:38:57] [Server thread/INFO]: [PT] DeathDestroyer3 issued server command: /mob cow 10
+[15:38:58] [Server thread/INFO]: [PT] DeathDestroyer3 issued server command: /mob cow 10
+[15:38:59] [Server thread/INFO]: [PT] DeathDestroyer3 issued server command: /mob cow 10
+[15:38:59] [Server thread/INFO]: [PT] DeathDestroyer3 issued server command: /mob cow 10
+[15:38:59] [Server thread/INFO]: [PT] DeathDestroyer3 issued server command: /mob cow 10
+[15:38:59] [Server thread/INFO]: [PT] DeathDestroyer3 issued server command: /mob cow 10
+[15:38:59] [Server thread/INFO]: [PT] DeathDestroyer3 issued server command: /mob cow 10
+[15:39:00] [Server thread/INFO]: [PT] DeathDestroyer3 issued server command: /mob cow 10
+[15:39:00] [Server thread/INFO]: [PT] DeathDestroyer3 issued server command: /mob cow 10
+[15:39:00] [Server thread/INFO]: [PT] DeathDestroyer3 issued server command: /mob cow 10
+[15:39:00] [Server thread/INFO]: [PT] DeathDestroyer3 issued server command: /mob cow 10
+[15:39:00] [Server thread/INFO]: [PT] DeathDestroyer3 issued server command: /mob cow 10
+[15:39:01] [Server thread/INFO]: [PT] DeathDestroyer3 issued server command: /mob cow 10
+[15:39:01] [Server thread/INFO]: [PT] DeathDestroyer3 issued server command: /mob cow 10
+[15:39:01] [Server thread/INFO]: [PT] DeathDestroyer3 issued server command: /mob cow 10
+[15:39:01] [Server thread/INFO]: [PT] DeathDestroyer3 issued server command: /mob cow 10
+[15:39:01] [Server thread/INFO]: [PT] DeathDestroyer3 issued server command: /mob cow 10
+[15:39:01] [Server thread/INFO]: [PT] DeathDestroyer3 issued server command: /mob cow 10
+[15:39:02] [Server thread/INFO]: [PT] DeathDestroyer3 issued server command: /mob cow 10
+[15:39:14] [Server thread/INFO]: DeathDestroyer3 issued server command: /killall coq
+[15:39:18] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:39:19] [Server thread/INFO]: DeathDestroyer3 issued server command: /killall cow
+[15:39:38] [Server thread/INFO]: [PT] DeathDestroyer3 issued server command: /mob cow 10
+[15:39:50] [Server thread/INFO]: DeathDestroyer3 issued server command: /enchant
+[15:40:00] [Server thread/INFO]: DeathDestroyer3 issued server command: /enchant sharpness
+[15:40:07] [Server thread/INFO]: DeathDestroyer3 issued server command: /enchant sharpness 9
+[15:40:11] [Server thread/INFO]: DeathDestroyer3 issued server command: /enchant sharpness 5
+[15:40:18] [Server thread/INFO]: [PT] DeathDestroyer3 issued server command: /mob cow 10
+[15:40:19] [Server thread/INFO]: [PT] DeathDestroyer3 issued server command: /mob cow 10
+[15:40:20] [Server thread/INFO]: [PT] DeathDestroyer3 issued server command: /mob cow 10
+[15:40:22] [Server thread/INFO]: markmuchane issued server command: /spawn
+[15:40:29] [Server thread/INFO]: DeathDestroyer3 issued server command: /pt mob horse 10
+[15:40:30] [Server thread/INFO]: [PT] DeathDestroyer3 issued server command: /mob horse 10
+[15:40:31] [Server thread/INFO]: [PT] DeathDestroyer3 issued server command: /mob horse 10
+[15:40:35] [Server thread/INFO]: DeathDestroyer3 issued server command: /pt mob horse 20
+[15:40:35] [Server thread/INFO]: [PT] DeathDestroyer3 issued server command: /mob horse 20
+[15:40:41] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:40:41] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:40:41] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:40:42] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:40:42] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:40:42] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:40:42] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:40:42] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:40:42] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:40:43] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:40:43] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:40:43] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:40:43] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:40:43] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:40:44] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:40:44] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:40:44] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:40:44] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:40:44] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:40:45] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:40:45] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:40:45] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:40:45] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:40:46] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:40:46] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:40:48] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:40:48] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:40:49] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:40:49] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:40:49] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:40:49] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:40:49] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:40:50] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:40:50] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:40:50] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:40:50] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:40:50] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:40:51] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:40:51] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:40:51] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:40:52] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:40:52] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:40:52] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:40:52] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:40:53] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:40:53] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:40:53] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:40:53] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:40:53] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:40:54] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:40:54] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:40:54] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:40:54] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:40:55] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:40:55] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:40:55] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:40:55] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:40:55] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:40:56] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:40:56] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:40:56] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:40:56] [Server thread/INFO]: DeathDestroyer3 issued server command: /enchant
+[15:40:56] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:40:57] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:40:57] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:40:57] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:40:57] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:40:57] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:40:58] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:40:58] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:40:58] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:40:58] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:40:59] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:40:59] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:40:59] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:40:59] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:41:00] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:41:00] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:41:00] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:41:00] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:41:01] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:41:01] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:41:01] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:41:01] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:41:02] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:41:02] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:41:02] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:41:03] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:41:03] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:41:03] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:41:03] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:41:03] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:41:04] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:41:04] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:41:04] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:41:05] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:41:05] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:41:05] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:41:05] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:41:06] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:41:06] [Server thread/INFO]: DeathDestroyer3 issued server command: /enchant alldamage
+[15:41:06] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:41:06] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:41:06] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:41:06] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:41:07] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:41:07] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:41:07] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:41:07] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:41:08] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:41:08] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:41:08] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:41:08] [Server thread/INFO]: DeathDestroyer3 issued server command: /enchant alldamage 5
+[15:41:08] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:41:08] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:41:09] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:41:09] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:41:09] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:41:09] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:41:09] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:41:10] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:41:10] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:41:10] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:41:10] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:41:11] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:41:11] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:41:11] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:41:11] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:41:11] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:41:11] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:41:12] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:41:12] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:41:12] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:41:12] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:41:13] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:41:14] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:41:16] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:41:16] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:41:16] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:41:16] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:41:17] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:41:18] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:41:18] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:41:19] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:41:19] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:41:19] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:41:19] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:41:19] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:41:20] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:41:20] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:41:20] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:41:20] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:41:21] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:41:21] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:41:21] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:41:21] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:41:21] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:41:22] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:41:22] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:41:22] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:41:22] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:41:23] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:41:23] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:41:23] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:41:23] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:41:24] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:41:24] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:41:24] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:41:24] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:41:24] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:41:26] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[15:41:38] [Server thread/INFO]: DeathDestroyer3 issued server command: /enchant fireaspect 10
+[15:41:41] [Server thread/INFO]: DeathDestroyer3 issued server command: /enchant fireaspect 2
+[15:42:09] [Server thread/INFO]: DeathDestroyer3 issued server command: /enchant durability 5
+[15:42:12] [Server thread/INFO]: DeathDestroyer3 issued server command: /enchant durability 3
+[15:42:24] [Server thread/INFO]: DeathDestroyer3 issued server command: /enchant
+[15:42:25] [Server thread/INFO]: CoderPythonX issued server command: /speed 3
+[15:42:36] [Server thread/INFO]: DeathDestroyer3 issued server command: /enchant undeaddamage
+[15:42:39] [Server thread/INFO]: markmuchane issued server command: /setworldspawn
+[15:42:39] [Server thread/INFO]: markmuchane: Set world world's spawnpoint to (-1382, 124, -110)[m
+[15:42:40] [Server thread/INFO]: DeathDestroyer3 issued server command: /enchant undeaddamage 5
+[15:42:47] [Server thread/INFO]: markmuchane issued server command: /kill
+[15:42:49] [Server thread/INFO]: CoderPythonX issued server command: //set water
+[15:42:51] [Server thread/INFO]: markmuchane issued server command: /kill markmuchane
+[15:42:51] [Server thread/INFO]: markmuchane died
+[15:43:06] [Server thread/INFO]: markmuchane issued server command: /kill markmuchane
+[15:43:06] [Server thread/INFO]: markmuchane died
+[15:43:13] [Server thread/INFO]: CoderPythonX issued server command: //set water
+[15:43:14] [Server thread/INFO]: DeathDestroyer3 issued server command: /enchant baneofarthropods 5
+[15:43:18] [Server thread/INFO]: DeathDestroyer3 issued server command: /enchant baneofarthropods 5
+[15:43:20] [Server thread/INFO]: DeathDestroyer3 issued server command: /enchant baneofarthropods 5
+[15:43:20] [Server thread/INFO]: CoderPythonX issued server command: //set water
+[15:43:21] [Server thread/INFO]: DeathDestroyer3 issued server command: /enchant baneofarthropods
+[15:43:28] [Server thread/INFO]: DeathDestroyer3 issued server command: /pt
+[15:43:34] [Server thread/INFO]: DeathDestroyer3 issued server command: /pt lighting
+[15:43:40] [Server thread/INFO]: DeathDestroyer3 issued server command: /pt lightning
+[15:43:43] [Server thread/INFO]: [PT] DeathDestroyer3 issued server command: /lightning
+[15:43:59] [Server thread/INFO]: DeathDestroyer3 issued server command: /enchant lvl
+[15:44:03] [Server thread/INFO]: CoderPythonX issued server command: //set water
+[15:44:03] [Server thread/INFO]: DeathDestroyer3 issued server command: /enchant
+[15:44:16] [Server thread/INFO]: DeathDestroyer3 issued server command: /enchant knockback
+[15:44:18] [Server thread/INFO]: DeathDestroyer3 issued server command: /enchant knockback 2
+[15:44:23] [Server thread/INFO]: CoderPythonX issued server command: //set water
+[15:44:42] [Server thread/INFO]: DeathDestroyer3 issued server command: /tp DeathDestroyer3 12 67 86
+[15:44:52] [Server thread/INFO]: CoderPythonX issued server command: //set water
+[15:45:01] [Server thread/INFO]: CoderPythonX issued server command: //set water
+[15:45:02] [Server thread/INFO]: DeathDestroyer3 issued server command: /summon Enderdragon
+[15:45:02] [Server thread/WARN]: Skipping Entity with id Enderdragon
+[15:45:02] [Server thread/INFO]: [DeathDestroyer3: Unable to summon object]
+[15:45:06] [Server thread/INFO]: markmuchane issued server command: /kill markmuchane
+[15:45:06] [Server thread/INFO]: markmuchane died
+[15:45:09] [Server thread/INFO]: DeathDestroyer3 issued server command: /summon EnderDragon
+[15:45:09] [Server thread/INFO]: [DeathDestroyer3: Object successfully summoned]
+[15:45:09] [Server thread/WARN]: DeathDestroyer3 moved too quickly! 0.0,0.0,0.0 (11.293382148271947, 0.24000000357627868, 10.906149017972409)
+[15:45:10] [Server thread/WARN]: DeathDestroyer3 moved too quickly! 0.0,4.768367034557741E-9,0.0 (33.48312148165528, 0.8640000128746032, 31.043570376271614)
+[15:45:10] [Server thread/WARN]: DeathDestroyer3 moved too quickly! 0.0,4.768367034557741E-9,0.0 (42.58602151814184, 1.238400018453598, 39.5708592229917)
+[15:45:10] [Server thread/WARN]: DeathDestroyer3 moved too quickly! 0.0,4.768367034557741E-9,0.0 (43.763612894493846, 1.2230400182247163, 40.7996356903224)
+[15:45:10] [Server thread/WARN]: DeathDestroyer3 moved too quickly! 0.0,4.768367034557741E-9,0.0 (41.79118724792453, 0.9738240145111084, 38.996233917926794)
+[15:45:10] [Server thread/WARN]: DeathDestroyer3 moved too quickly! 0.0,4.768367034557741E-9,0.0 (39.7367684482427, 0.8242944122829436, 37.08881149776213)
+[15:45:10] [Server thread/WARN]: DeathDestroyer3 moved too quickly! 0.0,4.768367034557741E-9,0.0 (38.16832618233271, 0.8545766527341842, 35.57113328593575)
+[15:45:10] [Server thread/WARN]: DeathDestroyer3 moved too quickly! 0.0,4.768367034557741E-9,0.0 (34.73317782692696, 0.5127459916405105, 32.36973222309163)
+[15:45:10] [Server thread/WARN]: DeathDestroyer3 moved too quickly! 0.0,4.768367034557741E-9,0.0 (32.143040869235, 0.4276475967724456, 29.920486563259114)
+[15:45:10] [Server thread/WARN]: DeathDestroyer3 moved too quickly! 0.0,4.768367034557741E-9,0.0 (29.250168033988647, 0.25658855806346736, 27.227643557261782)
+[15:45:10] [Server thread/WARN]: DeathDestroyer3 moved too quickly! 0.0,4.768367034557741E-9,0.0 (26.617653678045855, 0.1539531348380804, 24.777156351181592)
+[15:45:10] [Server thread/WARN]: DeathDestroyer3 moved too quickly! 0.0,4.768367034557741E-9,0.0 (24.222065545097475, 0.09237188090284824, 22.547212929382034)
+[15:45:11] [Server thread/WARN]: DeathDestroyer3 moved too quickly! 0.0,4.768367034557741E-9,0.0 (22.042080281287653, 0.055423128541708944, 20.517964357061842)
+[15:45:11] [Server thread/WARN]: DeathDestroyer3 moved too quickly! 0.0,4.768367034557741E-9,0.0 (20.058293634048326, 0.033253877125025366, 18.671348103031306)
+[15:45:11] [Server thread/WARN]: DeathDestroyer3 moved too quickly! 0.0,4.768367034557741E-9,0.0 (18.25304773303366, 0.01995232627501522, 16.99092726343408)
+[15:45:11] [Server thread/WARN]: DeathDestroyer3 moved too quickly! 0.0,4.768367034557741E-9,0.0 (16.61027391576586, 0.01197139576500913, 15.461744255329814)
+[15:45:11] [Server thread/WARN]: DeathDestroyer3 moved too quickly! 0.0,4.768367034557741E-9,0.0 (15.115349698968702, 0.007182837459005478, 14.07018767785051)
+[15:45:11] [Server thread/WARN]: DeathDestroyer3 moved too quickly! 0.0,4.768367034557741E-9,0.0 (13.75496862247734, 0.0043097024754032865, 12.803871155849322)
+[15:45:11] [Server thread/WARN]: DeathDestroyer3 moved too quickly! 0.0,4.768367034557741E-9,0.0 (12.517021807192789, 4.768367034557741E-9, 11.651523087617768)
+[15:45:11] [Server thread/WARN]: DeathDestroyer3 moved too quickly! 0.0,4.768367034557741E-9,0.0 (11.3904901728174, 4.768367034557741E-9, 10.602886315305522)
+[15:45:11] [Server thread/WARN]: DeathDestroyer3 moved too quickly! 0.0,4.768367034557741E-9,0.0 (10.365346355991326, 4.768367034557741E-9, 9.648626824999784)
+[15:45:11] [Server thread/WARN]: DeathDestroyer3 moved too quickly! 0.0,4.768367034557741E-9,0.0 (9.432465455794134, 4.768367034557741E-9, 8.780250663795112)
+[15:45:11] [Server thread/WARN]: DeathDestroyer3 moved too quickly! 0.0,4.768367034557741E-9,0.0 (8.583543812148912, 4.768367034557741E-9, 7.99002833432479)
+[15:45:11] [Server thread/WARN]: DeathDestroyer3 moved too quickly! 0.0,4.768367034557741E-9,0.0 (7.811025094167905, 4.768367034557741E-9, 7.270925993782391)
+[15:45:16] [Server thread/INFO]: CoderPythonX issued server command: //set water
+[15:45:17] [Server thread/INFO]: [PT] DeathDestroyer3 issued server command: /lightning
+[15:45:17] [Server thread/INFO]: [PT] DeathDestroyer3 issued server command: /lightning
+[15:45:17] [Server thread/INFO]: [PT] DeathDestroyer3 issued server command: /lightning
+[15:45:18] [Server thread/INFO]: [PT] DeathDestroyer3 issued server command: /lightning
+[15:45:18] [Server thread/INFO]: [PT] DeathDestroyer3 issued server command: /lightning
+[15:45:18] [Server thread/INFO]: [PT] DeathDestroyer3 issued server command: /lightning
+[15:45:18] [Server thread/INFO]: [PT] DeathDestroyer3 issued server command: /lightning
+[15:45:19] [Server thread/INFO]: [PT] DeathDestroyer3 issued server command: /lightning
+[15:45:19] [Server thread/INFO]: markmuchane issued server command: /echest
+[15:45:20] [Server thread/INFO]: [PT] DeathDestroyer3 issued server command: /lightning
+[15:45:20] [Server thread/INFO]: [PT] DeathDestroyer3 issued server command: /lightning
+[15:45:20] [Server thread/INFO]: [PT] DeathDestroyer3 issued server command: /lightning
+[15:45:20] [Server thread/INFO]: [PT] DeathDestroyer3 issued server command: /lightning
+[15:45:20] [Server thread/INFO]: [PT] DeathDestroyer3 issued server command: /lightning
+[15:45:22] [Server thread/INFO]: [PT] DeathDestroyer3 issued server command: /lightning
+[15:45:22] [Server thread/INFO]: [PT] DeathDestroyer3 issued server command: /lightning
+[15:45:22] [Server thread/INFO]: [PT] DeathDestroyer3 issued server command: /lightning
+[15:45:22] [Server thread/INFO]: [PT] DeathDestroyer3 issued server command: /lightning
+[15:45:23] [Server thread/INFO]: [PT] DeathDestroyer3 issued server command: /lightning
+[15:45:23] [Server thread/INFO]: [PT] DeathDestroyer3 issued server command: /lightning
+[15:45:23] [Server thread/INFO]: [PT] DeathDestroyer3 issued server command: /lightning
+[15:45:23] [Server thread/INFO]: [PT] DeathDestroyer3 issued server command: /lightning
+[15:45:24] [Server thread/INFO]: [PT] DeathDestroyer3 issued server command: /mob horse 20
+[15:45:35] [Server thread/INFO]: [PT] DeathDestroyer3 issued server command: /lightning
+[15:45:35] [Server thread/INFO]: [PT] DeathDestroyer3 issued server command: /lightning
+[15:45:35] [Server thread/INFO]: [PT] DeathDestroyer3 issued server command: /lightning
+[15:45:36] [Server thread/INFO]: [PT] DeathDestroyer3 issued server command: /lightning
+[15:45:36] [Server thread/INFO]: [PT] DeathDestroyer3 issued server command: /lightning
+[15:45:36] [Server thread/INFO]: [PT] DeathDestroyer3 issued server command: /lightning
+[15:45:36] [Server thread/INFO]: [PT] DeathDestroyer3 issued server command: /lightning
+[15:45:36] [Server thread/INFO]: [PT] DeathDestroyer3 issued server command: /lightning
+[15:45:37] [Server thread/INFO]: [PT] DeathDestroyer3 issued server command: /lightning
+[15:45:37] [Server thread/INFO]: [PT] DeathDestroyer3 issued server command: /lightning
+[15:45:37] [Server thread/INFO]: [PT] DeathDestroyer3 issued server command: /lightning
+[15:45:37] [Server thread/INFO]: [PT] DeathDestroyer3 issued server command: /lightning
+[15:45:38] [Server thread/INFO]: [PT] DeathDestroyer3 issued server command: /lightning
+[15:45:38] [Server thread/INFO]: [PT] DeathDestroyer3 issued server command: /lightning
+[15:45:38] [Server thread/INFO]: [PT] DeathDestroyer3 issued server command: /lightning
+[15:45:38] [Server thread/INFO]: [PT] DeathDestroyer3 issued server command: /lightning
+[15:45:38] [Server thread/INFO]: [PT] DeathDestroyer3 issued server command: /lightning
+[15:45:38] [Server thread/INFO]: [PT] DeathDestroyer3 issued server command: /lightning
+[15:45:39] [Server thread/INFO]: [PT] DeathDestroyer3 issued server command: /lightning
+[15:45:39] [Server thread/INFO]: [PT] DeathDestroyer3 issued server command: /lightning
+[15:45:39] [Server thread/INFO]: CoderPythonX issued server command: //set water
+[15:45:39] [Server thread/INFO]: [PT] DeathDestroyer3 issued server command: /lightning
+[15:45:39] [Server thread/INFO]: [PT] DeathDestroyer3 issued server command: /lightning
+[15:45:39] [Server thread/INFO]: [PT] DeathDestroyer3 issued server command: /lightning
+[15:45:40] [Server thread/INFO]: [PT] DeathDestroyer3 issued server command: /lightning
+[15:45:40] [Server thread/INFO]: [PT] DeathDestroyer3 issued server command: /lightning
+[15:45:40] [Server thread/INFO]: [PT] DeathDestroyer3 issued server command: /lightning
+[15:45:40] [Server thread/INFO]: [PT] DeathDestroyer3 issued server command: /lightning
+[15:45:43] [Server thread/INFO]: DeathDestroyer3 issued server command: /pt
+[15:45:48] [Server thread/INFO]: DeathDestroyer3 issued server command: /pt
+[15:45:56] [Server thread/INFO]: DeathDestroyer3 issued server command: /killall EnderDragon
+[15:46:03] [Server thread/INFO]: CoderPythonX issued server command: /speed 1
+[15:46:07] [Server thread/INFO]: DeathDestroyer3 issued server command: /pt
+[15:46:18] [Server thread/INFO]: CoderPythonX issued server command: //set water
+[15:46:18] [Server thread/INFO]: DeathDestroyer3 issued server command: /disguise
+[15:46:20] [Server thread/INFO]: DeathDestroyer3 issued server command: /kit
+[15:46:29] [Server thread/INFO]: DeathDestroyer3 issued server command: /kit Notch
+[15:46:31] [Server thread/INFO]: CoderPythonX issued server command: /speed 5
+[15:46:35] [Server thread/INFO]: CoderPythonX issued server command: /speed 1
+[15:46:39] [Server thread/INFO]: DeathDestroyer3 issued server command: /kit Dtools
+[15:48:16] [Server thread/INFO]: CommandBlock at -1,382,122,-109 issued server command: /gma markmuchane
+[15:48:16] [Server thread/INFO]: CommandBlock at -1,381,122,-109 issued server command: /gma markmuchane
+[15:48:16] [Server thread/INFO]: CommandBlock at -1,382,122,-110 issued server command: /gma markmuchane
+[15:48:16] [Server thread/INFO]: CommandBlock at -1,381,122,-110 issued server command: /gma markmuchane
+[15:48:16] [Server thread/INFO]: CommandBlock at -1,381,122,-110 issued server command: /gma markmuchane
+[15:48:19] [Server thread/INFO]: CommandBlock at -1,382,122,-109 issued server command: /gma markmuchane
+[15:48:19] [Server thread/INFO]: CommandBlock at -1,381,122,-109 issued server command: /gma markmuchane
+[15:48:19] [Server thread/INFO]: CommandBlock at -1,382,122,-110 issued server command: /gma markmuchane
+[15:48:19] [Server thread/INFO]: CommandBlock at -1,381,122,-110 issued server command: /gma markmuchane
+[15:48:28] [Server thread/INFO]: markmuchane issued server command: /gmc
+[15:48:30] [Server thread/INFO]: DeathDestroyer3 issued server command: /give @p minecraft:stick 1 0{ench:[{id:16,lvl:9999}]}
+[15:48:33] [Server thread/INFO]: CommandBlock at -1,382,122,-110 issued server command: /gma markmuchane
+[15:48:33] [Server thread/INFO]: CommandBlock at -1,381,122,-110 issued server command: /gma markmuchane
+[15:48:33] [Server thread/INFO]: CommandBlock at -1,382,122,-109 issued server command: /gma markmuchane
+[15:48:36] [Server thread/INFO]: markmuchane issued server command: /gmc
+[15:48:38] [Server thread/INFO]: DeathDestroyer3 issued server command: /give DeathDestroyer3 minecraft:stick 1 0{ench:[{id:16,lvl:9999}]}
+[15:48:39] [Server thread/INFO]: CommandBlock at -1,382,122,-109 issued server command: /gma markmuchane
+[15:48:39] [Server thread/INFO]: CommandBlock at -1,381,122,-109 issued server command: /gma markmuchane
+[15:48:39] [Server thread/INFO]: CommandBlock at -1,382,122,-110 issued server command: /gma markmuchane
+[15:48:41] [Server thread/INFO]: markmuchane issued server command: /gmc
+[15:48:45] [Server thread/INFO]: CommandBlock at -1,381,122,-109 issued server command: /gma markmuchane
+[15:48:45] [Server thread/INFO]: CommandBlock at -1,382,122,-109 issued server command: /gma markmuchane
+[15:48:45] [Server thread/INFO]: CommandBlock at -1,381,122,-110 issued server command: /gma markmuchane
+[15:48:46] [Server thread/INFO]: CommandBlock at -1,382,122,-110 issued server command: /gma markmuchane
+[15:48:53] [Server thread/INFO]: markmuchane issued server command: /rain
+[15:49:01] [Server thread/INFO]: CoderPythonX issued server command: /weather clear 9999999
+[15:49:07] [Server thread/INFO]: DeathDestroyer3 issued server command: /enchant sharpness 5
+[15:49:14] [Server thread/INFO]: markmuchane issued server command: /rain
+[15:49:18] [Server thread/INFO]: CoderPythonX issued server command: /weather clear 9999999
+[15:49:29] [Server thread/INFO]: markmuchane issued server command: /rain
+[15:49:33] [Server thread/INFO]: DeathDestroyer3 issued server command: /pt lightning
+[15:49:35] [Server thread/INFO]: markmuchane issued server command: /gmc
+[15:49:36] [Server thread/INFO]: [PT] DeathDestroyer3 issued server command: /lightning
+[15:49:36] [Server thread/INFO]: [PT] DeathDestroyer3 issued server command: /lightning
+[15:49:37] [Server thread/INFO]: [PT] DeathDestroyer3 issued server command: /lightning
+[15:49:37] [Server thread/INFO]: [PT] DeathDestroyer3 issued server command: /lightning
+[15:49:37] [Server thread/INFO]: [PT] DeathDestroyer3 issued server command: /lightning
+[15:49:37] [Server thread/INFO]: [PT] DeathDestroyer3 issued server command: /lightning
+[15:49:38] [Server thread/INFO]: [PT] DeathDestroyer3 issued server command: /lightning
+[15:49:39] [Server thread/INFO]: [PT] DeathDestroyer3 issued server command: /lightning
+[15:49:39] [Server thread/INFO]: [PT] DeathDestroyer3 issued server command: /lightning
+[15:49:39] [Server thread/INFO]: [PT] DeathDestroyer3 issued server command: /lightning
+[15:49:39] [Server thread/INFO]: [PT] DeathDestroyer3 issued server command: /lightning
+[15:49:39] [Server thread/INFO]: [PT] DeathDestroyer3 issued server command: /lightning
+[15:49:39] [Server thread/INFO]: [PT] DeathDestroyer3 issued server command: /lightning
+[15:49:39] [Server thread/INFO]: [PT] DeathDestroyer3 issued server command: /lightning
+[15:49:40] [Server thread/INFO]: [PT] DeathDestroyer3 issued server command: /lightning
+[15:49:40] [Server thread/INFO]: [PT] DeathDestroyer3 issued server command: /lightning
+[15:49:40] [Server thread/INFO]: [PT] DeathDestroyer3 issued server command: /lightning
+[15:49:40] [Server thread/INFO]: [PT] DeathDestroyer3 issued server command: /lightning
+[15:49:40] [Server thread/INFO]: [PT] DeathDestroyer3 issued server command: /lightning
+[15:49:41] [Server thread/INFO]: [PT] DeathDestroyer3 issued server command: /lightning
+[15:49:41] [Server thread/INFO]: [PT] DeathDestroyer3 issued server command: /lightning
+[15:49:41] [Server thread/INFO]: [PT] DeathDestroyer3 issued server command: /lightning
+[15:49:41] [Server thread/INFO]: [PT] DeathDestroyer3 issued server command: /lightning
+[15:49:41] [Server thread/INFO]: [PT] DeathDestroyer3 issued server command: /lightning
+[15:49:42] [Server thread/INFO]: [PT] DeathDestroyer3 issued server command: /lightning
+[15:49:42] [Server thread/INFO]: [PT] DeathDestroyer3 issued server command: /lightning
+[15:49:42] [Server thread/INFO]: [PT] DeathDestroyer3 issued server command: /lightning
+[15:49:42] [Server thread/INFO]: [PT] DeathDestroyer3 issued server command: /lightning
+[15:49:42] [Server thread/INFO]: [PT] DeathDestroyer3 issued server command: /lightning
+[15:49:43] [Server thread/INFO]: [PT] DeathDestroyer3 issued server command: /lightning
+[15:49:44] [Server thread/INFO]: [PT] DeathDestroyer3 issued server command: /lightning
+[15:49:44] [Server thread/INFO]: [PT] DeathDestroyer3 issued server command: /lightning
+[15:49:44] [Server thread/INFO]: [PT] DeathDestroyer3 issued server command: /lightning
+[15:49:44] [Server thread/INFO]: [PT] DeathDestroyer3 issued server command: /lightning
+[15:49:45] [Server thread/INFO]: [PT] DeathDestroyer3 issued server command: /lightning
+[15:49:45] [Server thread/INFO]: [PT] DeathDestroyer3 issued server command: /lightning
+[15:49:45] [Server thread/INFO]: [PT] DeathDestroyer3 issued server command: /lightning
+[15:49:45] [Server thread/INFO]: [PT] DeathDestroyer3 issued server command: /lightning
+[15:49:46] [Server thread/INFO]: [PT] DeathDestroyer3 issued server command: /lightning
+[15:49:46] [Server thread/INFO]: [PT] DeathDestroyer3 issued server command: /lightning
+[15:49:46] [Server thread/INFO]: [PT] DeathDestroyer3 issued server command: /lightning
+[15:49:46] [Server thread/INFO]: [PT] DeathDestroyer3 issued server command: /lightning
+[15:49:47] [Server thread/INFO]: [PT] DeathDestroyer3 issued server command: /lightning
+[15:49:47] [Server thread/INFO]: [PT] DeathDestroyer3 issued server command: /lightning
+[15:49:47] [Server thread/INFO]: [PT] DeathDestroyer3 issued server command: /lightning
+[15:49:47] [Server thread/INFO]: [PT] DeathDestroyer3 issued server command: /lightning
+[15:49:48] [Server thread/INFO]: [PT] DeathDestroyer3 issued server command: /lightning
+[15:49:48] [Server thread/INFO]: [PT] DeathDestroyer3 issued server command: /lightning
+[15:49:48] [Server thread/INFO]: [PT] DeathDestroyer3 issued server command: /lightning
+[15:49:49] [Server thread/INFO]: [PT] DeathDestroyer3 issued server command: /lightning
+[15:49:50] [Server thread/INFO]: [PT] DeathDestroyer3 issued server command: /lightning
+[15:49:50] [Server thread/INFO]: [PT] DeathDestroyer3 issued server command: /lightning
+[15:49:50] [Server thread/INFO]: [PT] DeathDestroyer3 issued server command: /lightning
+[15:49:50] [Server thread/INFO]: [PT] DeathDestroyer3 issued server command: /lightning
+[15:49:51] [Server thread/INFO]: [PT] DeathDestroyer3 issued server command: /lightning
+[15:49:51] [Server thread/INFO]: [PT] DeathDestroyer3 issued server command: /lightning
+[15:49:51] [Server thread/INFO]: [PT] DeathDestroyer3 issued server command: /lightning
+[15:49:51] [Server thread/INFO]: [PT] DeathDestroyer3 issued server command: /lightning
+[15:49:52] [Server thread/INFO]: [PT] DeathDestroyer3 issued server command: /lightning
+[15:49:52] [Server thread/INFO]: [PT] DeathDestroyer3 issued server command: /lightning
+[15:49:52] [Server thread/INFO]: [PT] DeathDestroyer3 issued server command: /lightning
+[15:49:52] [Server thread/INFO]: [PT] DeathDestroyer3 issued server command: /lightning
+[15:49:52] [Server thread/INFO]: [PT] DeathDestroyer3 issued server command: /lightning
+[15:49:53] [Server thread/INFO]: [PT] DeathDestroyer3 issued server command: /lightning
+[15:49:59] [Server thread/INFO]: DeathDestroyer3 issued server command: /pt explode
+[15:50:00] [Server thread/INFO]: [PT] DeathDestroyer3 issued server command: /explode
+[15:50:09] [Server thread/INFO]: markmuchane issued server command: /sun
+[15:50:10] [Server thread/INFO]: DeathDestroyer3 issued server command: /pt
+[15:50:25] [Server thread/INFO]: DeathDestroyer3 issued server command: /lighting
+[15:50:36] [Server thread/INFO]: DeathDestroyer3 issued server command: /lpt lightning
+[15:50:37] [Server thread/INFO]: markmuchane issued server command: /tp CoderPythonX
+[15:50:43] [Server thread/INFO]: DeathDestroyer3 issued server command: /pt lightning
+[15:50:44] [Server thread/INFO]: [PT] DeathDestroyer3 issued server command: /lightning
+[15:50:56] [Server thread/INFO]: DeathDestroyer3 issued server command: /kit
+[15:51:03] [Server thread/INFO]: DeathDestroyer3 issued server command: /kit tools
+[15:51:09] [Server thread/INFO]: markmuchane issued server command: /tp CoderPythonX
+[15:51:10] [Server thread/INFO]: DeathDestroyer3 issued server command: /kit
+[15:51:27] [Server thread/INFO]: DeathDestroyer3 issued server command: /invsee
+[15:51:31] [Server thread/INFO]: DeathDestroyer3 issued server command: /invsee CoderPythonX
+[15:51:51] [Server thread/INFO]: DeathDestroyer3 issued server command: /invsee Cryton3500
+[15:52:25] [Server thread/INFO]: DeathDestroyer3 issued server command: /give
+[15:52:48] [Server thread/INFO]: DeathDestroyer3 issued server command: /give DeathDestroyer3 Diamond_sword
+[15:55:07] [Server thread/INFO]: DeathDestroyer3 issued server command: /pt lightning
+[15:55:15] [Server thread/INFO]: DeathDestroyer3 issued server command: /give playerhead
+[15:55:18] [Server thread/INFO]: markmuchane issued server command: /tp CoderPythonX
+[15:55:23] [Server thread/INFO]: DeathDestroyer3 issued server command: /give DeathDestroyer3 head
+[15:55:30] [Server thread/INFO]: DeathDestroyer3 issued server command: /give DeathDestroyer3 head CoderPythonX
+[15:55:36] [Server thread/INFO]: DeathDestroyer3 issued server command: /give DeathDestroyer3 head DeathDestroyer3
+[15:55:44] [Server thread/INFO]: DeathDestroyer3 issued server command: /give DeathDestroyer3 head 1 DeathDestroyer3
+[15:55:57] [Server thread/INFO]: DeathDestroyer3 issued server command: /give DeathDestroyer3 DeathDestroyer3 head 1 DeathDestroyer3
+[15:56:03] [Server thread/INFO]: DeathDestroyer3 issued server command: /give DeathDestroyer3 head 1 DeathDestroyer3
+[15:56:13] [Server thread/INFO]: DeathDestroyer3 issued server command: /give DeathDestroyer3 head herobrine 1 DeathDestroyer3
+[15:56:22] [Server thread/INFO]: DeathDestroyer3 issued server command: /give DeathDestroyer3 head 1 DeathDestroyer3
+[15:56:49] [Server thread/INFO]: DeathDestroyer3 issued server command: /pt lightning
+[15:57:13] [Server thread/INFO]: DeathDestroyer3 issued server command: /difficulty
+[15:57:20] [Server thread/INFO]: DeathDestroyer3 issued server command: /difficulty 2
+[15:57:20] [Server thread/INFO]: DeathDestroyer3: Set difficulty to NORMAL[m
+[15:57:27] [Server thread/INFO]: DeathDestroyer3 issued server command: /difficulty 1
+[15:57:27] [Server thread/INFO]: DeathDestroyer3: Set difficulty to EASY[m
+[15:57:28] [Server thread/INFO]: CoderPythonX issued server command: /difficulty 0
+[15:57:28] [Server thread/INFO]: CoderPythonX: Set difficulty to PEACEFUL[m
+[15:57:30] [Server thread/INFO]: DeathDestroyer3 lost connection: Disconnected
+[15:57:30] [Server thread/INFO]: DeathDestroyer3 left the game.
+[15:59:41] [Server thread/INFO]: markmuchane issued server command: /enchant Fire Ascpect 3
+[15:59:47] [Server thread/INFO]: markmuchane issued server command: /enchant Fire Ascpect 2
+[15:59:57] [Server thread/INFO]: markmuchane issued server command: /enchant Fire Ascpect -2
+[16:00:13] [Server thread/INFO]: markmuchane issued server command: /enchant Flame 2
+[16:00:21] [Server thread/INFO]: markmuchane issued server command: /enchant Flame 1
+[16:01:48] [Server thread/INFO]: markmuchane issued server command: /enchant Power 45
+[16:01:52] [Server thread/INFO]: markmuchane issued server command: /enchant Power 5
+[16:02:08] [Server thread/INFO]: markmuchane issued server command: /gma Cryton3500
+[16:02:16] [Server thread/INFO]: §1Cryton3500§r was shot by markmuchane
+[16:02:25] [Server thread/INFO]: markmuchane issued server command: /spawn
+[16:02:41] [Server thread/INFO]: markmuchane issued server command: /tp CoderPythonX
+[16:02:53] [Server thread/INFO]: CoderPythonX issued server command: /kick markmuchane fire
+[16:02:58] [Server thread/INFO]: CoderPythonX issued server command: /ci markmuchane
+[16:03:11] [Server thread/INFO]: CoderPythonX issued server command: /deop markmuchane
+[16:03:11] [Server thread/INFO]: CoderPythonX: De-opped markmuchane[m
+[16:03:25] [Server thread/INFO]: CoderPythonX lost connection: Disconnected
+[16:03:25] [Server thread/INFO]: CoderPythonX left the game.
+[16:03:32] [Server thread/INFO]: CONSOLE: Opped markmuchane[m
+[16:03:46] [User Authenticator #9/INFO]: UUID of player CoderPythonX is 811639f8-954d-4699-9240-7cb0fcb98c38
+[16:03:46] [Server thread/INFO]: CoderPythonX[/24.224.82.88:38529] logged in with entity id 123427 at ([world] -1066.0754580308374, 5.422701985976709, 57.2643280790322)
+[16:04:01] [Server thread/INFO]: markmuchane issued server command: /enchant Flame 2
+[16:04:04] [Server thread/INFO]: markmuchane issued server command: /enchant Flame 1
+[16:04:13] [Server thread/INFO]: markmuchane issued server command: /enchant Power 5
+[16:06:42] [Server thread/INFO]: markmuchane issued server command: /gms
+[16:06:47] [Server thread/INFO]: CoderPythonX issued server command: /tp markmuchane t
+[16:06:50] [Server thread/INFO]: CoderPythonX issued server command: /tp markmuchane CoderPythonX
+[16:06:58] [Server thread/INFO]: markmuchane issued server command: /gmc
+[16:07:26] [Server thread/INFO]: markmuchane issued server command: /tp Cryton3500
+[16:07:30] [Server thread/INFO]: CoderPythonX issued server command: //wand
+[16:08:07] [Server thread/INFO]: CoderPythonX issued server command: //copy
+[16:08:14] [Server thread/INFO]: CoderPythonX issued server command: //copy
+[16:08:21] [Server thread/INFO]: CoderPythonX issued server command: //copy
+[16:08:28] [Server thread/INFO]: CoderPythonX issued server command: //paste
+[16:08:32] [Server thread/INFO]: CoderPythonX issued server command: //paste
+[16:08:36] [Server thread/INFO]: CoderPythonX issued server command: //paste
+[16:08:46] [Server thread/INFO]: markmuchane issued server command: /gms
+[16:08:57] [Server thread/INFO]: CoderPythonX issued server command: /tp markmuchane CoderPythonX
+[16:09:04] [Server thread/INFO]: CoderPythonX issued server command: /tp markmuchane CoderPythonX
+[16:09:13] [Server thread/INFO]: markmuchane issued server command: /gmc
+[16:09:19] [Server thread/INFO]: markmuchane issued server command: /spawn
+[16:09:20] [Server thread/INFO]: CommandBlock at -1,382,122,-110 issued server command: /gma markmuchane
+[16:09:20] [Server thread/INFO]: CommandBlock at -1,381,122,-110 issued server command: /gma markmuchane
+[16:09:20] [Server thread/INFO]: CommandBlock at -1,382,122,-109 issued server command: /gma markmuchane
+[16:09:21] [Server thread/INFO]: CommandBlock at -1,381,122,-109 issued server command: /gma markmuchane
+[16:09:25] [Server thread/INFO]: markmuchane issued server command: /gmc
+[16:09:29] [Server thread/INFO]: markmuchane issued server command: /tp CoderPythonX
+[16:09:59] [Server thread/INFO]: markmuchane issued server command: /speed 10
+[16:10:36] [Server thread/INFO]: markmuchane issued server command: /gms
+[16:10:39] [Server thread/INFO]: CoderPythonX issued server command: /weather clear 999999
+[16:10:42] [Server thread/INFO]: markmuchane issued server command: /hungry
+[16:10:59] [Server thread/INFO]: markmuchane issued server command: /effect Hunger
+[16:11:15] [Server thread/INFO]: markmuchane issued server command: /effect markmuchane Hunger 1000
+[16:11:15] [Server thread/INFO]: markmuchane: Given HUNGER (ID 17) * 0 to markmuchane for 1000 seconds[m
+[16:11:35] [Server thread/INFO]: markmuchane issued server command: /eat
+[16:11:51] [Server thread/INFO]: markmuchane issued server command: /effect clear
+[16:12:07] [Server thread/INFO]: markmuchane issued server command: /effect markmuchane clear
+[16:12:41] [Server thread/INFO]: markmuchane issued server command: /night
+[16:12:53] [Server thread/INFO]: CoderPythonX issued server command: /time set 0
+[16:13:11] [Async Chat Thread - #8/INFO]: [m<[0;31;22m~Dictator[m> Hai[m
+[16:13:12] [Server thread/INFO]: markmuchane issued server command: /tp Cryton3500
+[16:13:15] [Server thread/INFO]: Cryton3500 issued server command: /gm 1
+[16:13:18] [Async Chat Thread - #8/INFO]: [m<[0;31;22mCryton3500[m> hi[m
+[16:13:18] [Server thread/INFO]: markmuchane issued server command: /gma Cryton3500
+[16:13:20] [Server thread/INFO]: Cryton3500 issued server command: /back
+[16:13:26] [Server thread/INFO]: Cryton3500 issued server command: /gm 1
+[16:13:27] [Server thread/INFO]: markmuchane issued server command: /tp Cryton3500
+[16:13:35] [Server thread/INFO]: Cryton3500 lost connection: Disconnected
+[16:13:35] [Server thread/INFO]: Cryton3500 left the game.
+[16:13:42] [Server thread/INFO]: markmuchane issued server command: /gmc
+[16:14:01] [Server thread/INFO]: markmuchane issued server command: /gms
+[16:15:28] [Server thread/INFO]: markmuchane issued server command: /gmc
+[16:17:09] [Server thread/INFO]: CoderPythonX issued server command: //wand
+[16:17:17] [Server thread/INFO]: CoderPythonX issued server command: /speed 3
+[16:17:30] [Server thread/INFO]: CoderPythonX issued server command: //walls fence
+[16:17:52] [Server thread/INFO]: CoderPythonX issued server command: //walls fence
+[16:18:08] [Server thread/INFO]: CoderPythonX issued server command: //set 35:5
+[16:18:19] [Server thread/INFO]: CoderPythonX issued server command: //set 35
+[16:18:26] [Server thread/INFO]: CoderPythonX issued server command: //set 35
+[16:18:33] [Server thread/INFO]: CoderPythonX issued server command: //set 35
+[16:18:40] [Server thread/INFO]: CoderPythonX issued server command: //set 35
+[16:18:41] [Server thread/INFO]: markmuchane issued server command: /speed 30
+[16:18:54] [Server thread/INFO]: CoderPythonX issued server command: //set 35
+[16:19:02] [Server thread/INFO]: CoderPythonX issued server command: //set 35
+[16:19:10] [Server thread/INFO]: CoderPythonX issued server command: //set 35
+[16:19:26] [Server thread/INFO]: CoderPythonX issued server command: //set 35
+[16:19:34] [Server thread/INFO]: CoderPythonX issued server command: //set 35
+[16:19:42] [Server thread/INFO]: CoderPythonX issued server command: //set 35
+[16:21:52] [Server thread/INFO]: markmuchane issued server command: /gma CoderPythonX
+[16:21:59] [Server thread/INFO]: §cCoderPythonX§r was shot by markmuchane
+[16:22:10] [Server thread/INFO]: markmuchane issued server command: /tp markmuchane CoderPythonX
+[16:23:26] [Server thread/INFO]: CoderPythonX issued server command: /tp markmuchane
+[16:23:29] [Server thread/INFO]: CoderPythonX issued server command: /gmc
+[16:24:34] [Server thread/INFO]: markmuchane issued server command: /speed 10
+[16:24:40] [Server thread/INFO]: CoderPythonX issued server command: /speed 1
+[16:24:46] [Server thread/INFO]: markmuchane issued server command: /gms
+[16:25:01] [Server thread/WARN]: markmuchane moved wrongly!
+[16:25:26] [Server thread/WARN]: markmuchane moved wrongly!
+[16:25:34] [Server thread/WARN]: markmuchane moved wrongly!
+[16:25:36] [Server thread/INFO]: CoderPythonX issued server command: /difficulty 1
+[16:25:36] [Server thread/INFO]: CoderPythonX: Set difficulty to EASY[m
+[16:25:49] [Server thread/WARN]: markmuchane moved wrongly!
+[16:25:50] [Server thread/INFO]: CoderPythonX issued server command: /difficulty 3
+[16:25:50] [Server thread/INFO]: CoderPythonX: Set difficulty to HARD[m
+[16:26:19] [Server thread/INFO]: CoderPythonX issued server command: /effect markmuchane HUNGER 90
+[16:26:19] [Server thread/INFO]: CoderPythonX: Given HUNGER (ID 17) * 0 to markmuchane for 90 seconds[m
+[16:26:36] [Server thread/INFO]: CoderPythonX issued server command: /deop markmuchane
+[16:26:36] [Server thread/INFO]: CoderPythonX: De-opped markmuchane[m
+[16:26:49] [Server thread/INFO]: CoderPythonX issued server command: /op markmuchane
+[16:26:49] [Server thread/INFO]: CoderPythonX: Opped markmuchane[m
+[16:27:03] [Server thread/INFO]: CoderPythonX issued server command: /speed 1 markmuchane
+[16:27:10] [Server thread/INFO]: CoderPythonX issued server command: /speed 1 markmuchane
+[16:27:19] [Server thread/INFO]: markmuchane issued server command: /speed 1
+[16:27:51] [Server thread/INFO]: CoderPythonX issued server command: /enchant knockback 3
+[16:27:55] [Server thread/INFO]: CoderPythonX issued server command: /enchant knockback 2
+[16:28:17] [Server thread/INFO]: CoderPythonX issued server command: /effect markmuchane HUNGER 90
+[16:28:17] [Server thread/INFO]: CoderPythonX: Given HUNGER (ID 17) * 0 to markmuchane for 90 seconds[m
+[16:28:21] [Server thread/INFO]: CoderPythonX issued server command: /effect markmuchane HUNGER 90 2
+[16:28:21] [Server thread/INFO]: CoderPythonX: Given HUNGER (ID 17) * 2 to markmuchane for 90 seconds[m
+[16:28:37] [Server thread/INFO]: markmuchane starved to death
+[16:28:54] [Server thread/INFO]: CoderPythonX issued server command: /spawnpoint markmuchane
+[16:28:54] [Server thread/INFO]: CoderPythonX: Set [0;31;22mmarkmuchane[m's spawnpoint to -1382.0, 123.5, -110.0[m
+[16:29:00] [Server thread/INFO]: CoderPythonX issued server command: /kill markmuchane
+[16:29:00] [Server thread/INFO]: markmuchane died
+[16:29:14] [Server thread/INFO]: markmuchane issued server command: /spawn
+[16:29:14] [Server thread/INFO]: CommandBlock at -1,382,122,-110 issued server command: /gma markmuchane
+[16:29:14] [Server thread/INFO]: CommandBlock at -1,381,122,-110 issued server command: /gma markmuchane
+[16:29:14] [Server thread/INFO]: CommandBlock at -1,382,122,-109 issued server command: /gma markmuchane
+[16:29:15] [Server thread/INFO]: CommandBlock at -1,381,122,-109 issued server command: /gma markmuchane
+[16:29:20] [Server thread/INFO]: markmuchane issued server command: /kill
+[16:29:22] [Server thread/INFO]: markmuchane issued server command: /kill markmuchane
+[16:29:22] [Server thread/INFO]: markmuchane died
+[16:29:31] [Server thread/INFO]: markmuchane issued server command: /deop markmuchane
+[16:29:31] [Server thread/INFO]: markmuchane: De-opped markmuchane[m
+[16:29:33] [Server thread/INFO]: CoderPythonX issued server command: /tp markmuchane CoderPythonX
+[16:29:43] [Server thread/INFO]: CoderPythonX issued server command: /gma markmuchane
+[16:29:49] [Server thread/INFO]: CoderPythonX issued server command: /ci markmuchane
+[16:29:55] [Server thread/INFO]: markmuchane issued server command: /echest
+[16:29:55] [Server thread/INFO]: §cmarkmuchane §4was denied access to command.
+[16:30:44] [Server thread/INFO]: CoderPythonX issued server command: /spawnpoint markmuchane
+[16:30:44] [Server thread/INFO]: CoderPythonX: Set [0;31;22mmarkmuchane[m's spawnpoint to -1073.0633709377657, 4.0, 96.38667095194[m
+[16:30:50] [Server thread/INFO]: CoderPythonX issued server command: /kill markmuchane
+[16:30:50] [Server thread/INFO]: markmuchane died
+[16:30:56] [Server thread/INFO]: markmuchane issued server command: /back
+[16:31:09] [Server thread/INFO]: CoderPythonX issued server command: //wand
+[16:31:33] [Server thread/INFO]: CoderPythonX issued server command: //set fence
+[16:31:39] [Server thread/INFO]: CoderPythonX issued server command: //set 0
+[16:31:44] [Server thread/INFO]: CoderPythonX issued server command: //walls fence
+[16:31:49] [Server thread/INFO]: CoderPythonX issued server command: /tp markmuchane CoderPythonX
+[16:31:53] [Server thread/INFO]: markmuchane issued server command: /back
+[16:31:59] [Server thread/INFO]: CoderPythonX issued server command: /tp markmuchane CoderPythonX
+[16:32:00] [Server thread/INFO]: markmuchane issued server command: /back
+[16:32:12] [Server thread/INFO]: CoderPythonX issued server command: /speed 3
+[16:33:14] [Async Chat Thread - #9/INFO]: [m<[0;31;22m~Dictator[m> DOWN[m
+[16:33:18] [Server thread/INFO]: CoderPythonX issued server command: /IN
+[16:33:37] [Async Chat Thread - #9/INFO]: [m<[0;31;22m~Dictator[m> LAST WORDS?[m
+[16:33:44] [Server thread/INFO]: markmuchane issued server command: /gmc
+[16:33:44] [Server thread/INFO]: §cmarkmuchane §4was denied access to command.
+[16:33:54] [Server thread/INFO]: CONSOLE: Opped markmuchane[m
+[16:34:01] [Server thread/INFO]: CoderPythonX issued server command: /deop markmuchane
+[16:34:01] [Server thread/INFO]: CoderPythonX: De-opped markmuchane[m
+[16:34:07] [Async Chat Thread - #9/INFO]: [m<[0;31;22m~Dictator[m> LAST WORDS?[m
+[16:34:30] [Async Chat Thread - #9/INFO]: [m<markmuchane[m> please stay way fromthe garauds[m
+[16:35:53] [Server thread/INFO]: markmuchane was shot by §cCoderPythonX§r
+[16:35:57] [Server thread/INFO]: markmuchane issued server command: /back
+[16:36:03] [Server thread/INFO]: CoderPythonX issued server command: /tp markmuchane CoderPythonX
+[16:36:13] [Server thread/INFO]: CoderPythonX issued server command: /tp markmuchane CoderPythonX
+[16:36:15] [Server thread/INFO]: markmuchane issued server command: /gmc
+[16:36:15] [Server thread/INFO]: §cmarkmuchane §4was denied access to command.
+[16:36:36] [Server thread/INFO]: CoderPythonX issued server command: /effect markmuchane HUNGER 90 2
+[16:36:36] [Server thread/INFO]: CoderPythonX: Given HUNGER (ID 17) * 2 to markmuchane for 90 seconds[m
+[16:36:41] [Server thread/INFO]: CoderPythonX issued server command: /speed 1
+[16:37:31] [Server thread/INFO]: markmuchane starved to death
+[16:37:37] [Server thread/INFO]: CoderPythonX issued server command: /tp markmuchane CoderPythonX
+[16:37:40] [Server thread/INFO]: markmuchane issued server command: /back
+[16:37:43] [Server thread/INFO]: CoderPythonX issued server command: /tp markmuchane CoderPythonX
+[16:37:44] [Server thread/INFO]: markmuchane issued server command: /back
+[16:37:52] [Server thread/INFO]: CoderPythonX issued server command: /tp markmuchane CoderPythonX
+[16:37:55] [Server thread/INFO]: markmuchane issued server command: /back
+[16:37:59] [Server thread/INFO]: CoderPythonX issued server command: /tp markmuchane
+[16:38:16] [Server thread/INFO]: markmuchane issued server command: /back
+[16:38:16] [Server thread/INFO]: markmuchane fell from a high place
+[16:38:20] [Server thread/INFO]: markmuchane issued server command: /back
+[16:38:23] [Server thread/INFO]: CoderPythonX issued server command: /tp markmuchane
+[16:38:26] [Server thread/INFO]: markmuchane issued server command: /back
+[16:38:26] [Server thread/INFO]: CommandBlock at -1,382,122,-110 issued server command: /gma markmuchane
+[16:38:26] [Server thread/INFO]: CommandBlock at -1,381,122,-110 issued server command: /gma markmuchane
+[16:38:26] [Server thread/INFO]: CommandBlock at -1,382,122,-109 issued server command: /gma markmuchane
+[16:38:27] [Server thread/INFO]: CommandBlock at -1,381,122,-109 issued server command: /gma markmuchane
+[16:38:28] [Server thread/INFO]: CoderPythonX issued server command: /tp markmuchane
+[16:38:32] [Server thread/INFO]: markmuchane issued server command: /back
+[16:38:34] [Server thread/INFO]: CoderPythonX issued server command: /tp markmuchane
+[16:38:36] [Server thread/INFO]: markmuchane issued server command: /back
+[16:38:38] [Server thread/INFO]: CoderPythonX issued server command: /tp markmuchane
+[16:38:41] [Server thread/INFO]: markmuchane issued server command: /back
+[16:38:49] [Server thread/INFO]: markmuchane issued server command: /back
+[16:38:51] [Server thread/INFO]: markmuchane issued server command: /back
+[16:38:57] [Server thread/INFO]: CoderPythonX issued server command: /tp markmuchane CoderPythonX
+[16:38:59] [Server thread/INFO]: markmuchane issued server command: /back
+[16:39:09] [Server thread/INFO]: CoderPythonX issued server command: /tp markmuchane CoderPythonX
+[16:39:10] [Server thread/INFO]: CommandBlock at -1,382,122,-110 issued server command: /gma markmuchane
+[16:39:10] [Server thread/INFO]: CommandBlock at -1,381,122,-110 issued server command: /gma markmuchane
+[16:39:10] [Server thread/INFO]: CommandBlock at -1,382,122,-109 issued server command: /gma markmuchane
+[16:39:10] [Server thread/INFO]: CommandBlock at -1,381,122,-109 issued server command: /gma markmuchane
+[16:39:11] [Server thread/INFO]: CommandBlock at -1,382,122,-110 issued server command: /gma markmuchane
+[16:39:11] [Server thread/INFO]: CommandBlock at -1,381,122,-110 issued server command: /gma markmuchane
+[16:39:11] [Server thread/INFO]: CommandBlock at -1,382,122,-109 issued server command: /gma markmuchane
+[16:39:11] [Server thread/INFO]: CommandBlock at -1,381,122,-109 issued server command: /gma markmuchane
+[16:39:11] [Server thread/INFO]: markmuchane issued server command: /back
+[16:39:17] [Server thread/INFO]: CoderPythonX issued server command: /tp markmuchane CoderPythonX
+[16:39:22] [Server thread/INFO]: CONSOLE: Opped markmuchane[m
+[16:39:22] [Server thread/INFO]: CoderPythonX issued server command: /tp markmuchane CoderPythonX
+[16:39:25] [Server thread/INFO]: CoderPythonX issued server command: /tp markmuchane CoderPythonX
+[16:39:29] [Server thread/INFO]: CoderPythonX issued server command: /tp markmuchane CoderPythonX
+[16:39:31] [Server thread/INFO]: CoderPythonX issued server command: /tp markmuchane CoderPythonX
+[16:39:31] [Server thread/INFO]: markmuchane issued server command: /gmc
+[16:39:34] [Server thread/INFO]: CoderPythonX issued server command: /tp markmuchane CoderPythonX
+[16:39:44] [Server thread/INFO]: markmuchane issued server command: /speed 10
+[16:41:56] [Server thread/INFO]: markmuchane issued server command: /ci CoderPythonX
+[16:42:37] [Server thread/INFO]: markmuchane issued server command: /back
+[16:42:54] [Server thread/INFO]: markmuchane issued server command: /back
+[16:42:58] [Server thread/INFO]: markmuchane issued server command: /spawn
+[16:43:11] [Server thread/INFO]: markmuchane issued server command: /spawn
+[16:43:11] [Server thread/INFO]: CommandBlock at -1,382,122,-110 issued server command: /gma markmuchane
+[16:43:11] [Server thread/INFO]: CommandBlock at -1,381,122,-110 issued server command: /gma markmuchane
+[16:43:11] [Server thread/INFO]: CommandBlock at -1,382,122,-109 issued server command: /gma markmuchane
+[16:43:23] [Server thread/INFO]: markmuchane issued server command: /adminfun firwork CoderPythonX
+[16:43:35] [Server thread/INFO]: markmuchane issued server command: /firwork CoderPythonX
+[16:43:43] [Server thread/INFO]: CoderPythonX issued server command: //wand
+[16:43:55] [Server thread/INFO]: CoderPythonX issued server command: //set 0
+[16:43:57] [Server thread/INFO]: markmuchane issued server command: /spawn
+[16:43:58] [Server thread/INFO]: markmuchane fell from a high place
+[16:43:58] [Server thread/INFO]: CommandBlock at -1,382,122,-110 issued server command: /gma markmuchane
+[16:43:58] [Server thread/INFO]: CommandBlock at -1,381,122,-110 issued server command: /gma markmuchane
+[16:43:58] [Server thread/INFO]: CommandBlock at -1,382,122,-109 issued server command: /gma markmuchane
+[16:44:30] [Server thread/INFO]: markmuchane issued server command: /gmc
+[16:44:52] [Server thread/INFO]: markmuchane issued server command: /gma
+[16:45:01] [Server thread/INFO]: markmuchane issued server command: /gms
+[16:45:14] [Server thread/INFO]: CommandBlock at -1,382,122,-110 issued server command: /gma markmuchane
+[16:45:14] [Server thread/INFO]: CommandBlock at -1,381,122,-110 issued server command: /gma markmuchane
+[16:45:14] [Server thread/INFO]: CommandBlock at -1,382,122,-109 issued server command: /gma markmuchane
+[16:45:14] [Server thread/INFO]: CommandBlock at -1,381,122,-109 issued server command: /gma markmuchane
+[16:45:21] [Server thread/INFO]: markmuchane issued server command: /gmc
+[16:45:53] [Server thread/INFO]: CoderPythonX issued server command: //wand
+[16:46:01] [Server thread/INFO]: CoderPythonX issued server command: //set 0
+[16:46:08] [Server thread/INFO]: markmuchane issued server command: /spawn
+[16:46:08] [Server thread/INFO]: CommandBlock at -1,382,122,-110 issued server command: /gma markmuchane
+[16:46:08] [Server thread/INFO]: CommandBlock at -1,381,122,-110 issued server command: /gma markmuchane
+[16:46:08] [Server thread/INFO]: CommandBlock at -1,382,122,-109 issued server command: /gma markmuchane
+[16:46:09] [Server thread/INFO]: CommandBlock at -1,381,122,-109 issued server command: /gma markmuchane
+[16:46:13] [Server thread/INFO]: markmuchane issued server command: /gmc
+[16:49:24] [Server thread/INFO]: CommandBlock at -1,381,122,-110 issued server command: /gma markmuchane
+[16:49:24] [Server thread/INFO]: CommandBlock at -1,382,122,-110 issued server command: /gma markmuchane
+[16:49:24] [Server thread/INFO]: CommandBlock at -1,381,122,-109 issued server command: /gma markmuchane
+[16:49:24] [Server thread/INFO]: CommandBlock at -1,382,122,-109 issued server command: /gma markmuchane
+[16:49:27] [Server thread/INFO]: CommandBlock at -1,382,122,-109 issued server command: /gma markmuchane
+[16:49:27] [Server thread/INFO]: CommandBlock at -1,381,122,-109 issued server command: /gma markmuchane
+[16:49:27] [Server thread/INFO]: CommandBlock at -1,382,122,-110 issued server command: /gma markmuchane
+[16:49:27] [Server thread/INFO]: CommandBlock at -1,381,122,-110 issued server command: /gma markmuchane
+[16:49:37] [Server thread/INFO]: markmuchane issued server command: /gmc
+[16:49:45] [Server thread/INFO]: CommandBlock at -1,382,122,-109 issued server command: /gma markmuchane
+[16:49:45] [Server thread/INFO]: CommandBlock at -1,381,122,-109 issued server command: /gma markmuchane
+[16:49:45] [Server thread/INFO]: CommandBlock at -1,382,122,-110 issued server command: /gma markmuchane
+[16:49:45] [Server thread/INFO]: CommandBlock at -1,381,122,-110 issued server command: /gma markmuchane
+[16:49:47] [Server thread/INFO]: markmuchane issued server command: /gmc
+[16:50:01] [Server thread/INFO]: CommandBlock at -1,382,122,-110 issued server command: /gma markmuchane
+[16:50:01] [Server thread/INFO]: CommandBlock at -1,381,122,-110 issued server command: /gma markmuchane
+[16:50:01] [Server thread/INFO]: CommandBlock at -1,382,122,-109 issued server command: /gma markmuchane
+[16:50:03] [Server thread/INFO]: markmuchane issued server command: /gmc
+[16:50:58] [Server thread/INFO]: markmuchane issued server command: /speed 1
+[16:53:55] [Server thread/INFO]: markmuchane issued server command: /up
+[16:54:03] [Server thread/INFO]: markmuchane issued server command: /up 0
+[16:54:35] [Server thread/INFO]: markmuchane issued server command: /up 0
+[16:58:14] [Server thread/INFO]: CoderPythonX lost connection: Disconnected
+[16:58:14] [Server thread/INFO]: CoderPythonX left the game.
+[16:58:49] [Server thread/INFO]: markmuchane lost connection: Timed out
+[16:58:49] [Server thread/INFO]: markmuchane left the game.
+[17:07:41] [User Authenticator #10/INFO]: UUID of player Cryton3500 is 070b3858-c1ad-4c3d-a60e-eac5704ba0c5
+[17:07:41] [Server thread/INFO]: Cryton3500[/24.85.193.12:60112] logged in with entity id 124304 at ([world] -1068.384090376144, 11.95994215772122, -7.826215657880221)
+[17:08:25] [Server thread/INFO]: Cryton3500 issued server command: /clear
+[17:08:29] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[17:08:30] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[17:08:31] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[17:09:41] [Server thread/INFO]: Cryton3500 issued server command: /set night
+[17:09:46] [Server thread/INFO]: Cryton3500 issued server command: /time set night
+[17:13:32] [Server thread/INFO]: Cryton3500 issued server command: /skull pig
+[17:13:46] [Server thread/INFO]: Cryton3500 issued server command: /skull pig head
+[17:14:00] [Server thread/INFO]: Cryton3500 issued server command: /skull pig head
+[17:14:37] [Server thread/INFO]: Cryton3500 issued server command: /spawn
+[17:14:40] [Server thread/INFO]: CommandBlock at -1,382,122,-110 issued server command: /gma Cryton3500
+[17:14:40] [Server thread/INFO]: CommandBlock at -1,381,122,-110 issued server command: /gma Cryton3500
+[17:14:40] [Server thread/INFO]: CommandBlock at -1,382,122,-109 issued server command: /gma Cryton3500
+[17:14:42] [Server thread/INFO]: CommandBlock at -1,381,122,-110 issued server command: /gma Cryton3500
+[17:14:42] [Server thread/INFO]: CommandBlock at -1,382,122,-110 issued server command: /gma Cryton3500
+[17:14:42] [Server thread/INFO]: CommandBlock at -1,381,122,-109 issued server command: /gma Cryton3500
+[17:14:42] [Server thread/INFO]: CommandBlock at -1,382,122,-109 issued server command: /gma Cryton3500
+[17:14:47] [Server thread/INFO]: CommandBlock at -1,382,122,-110 issued server command: /gma Cryton3500
+[17:14:52] [Server thread/INFO]: Cryton3500 issued server command: /gm 1
+[17:14:54] [Server thread/INFO]: CommandBlock at -1,381,122,-110 issued server command: /gma Cryton3500
+[17:14:54] [Server thread/INFO]: CommandBlock at -1,382,122,-110 issued server command: /gma Cryton3500
+[17:14:54] [Server thread/INFO]: CommandBlock at -1,381,122,-109 issued server command: /gma Cryton3500
+[17:14:54] [Server thread/INFO]: CommandBlock at -1,382,122,-109 issued server command: /gma Cryton3500
+[17:14:56] [Server thread/INFO]: Cryton3500 issued server command: /gm 1
+[17:14:56] [Server thread/INFO]: CommandBlock at -1,382,122,-110 issued server command: /gma Cryton3500
+[17:15:07] [Server thread/INFO]: Cryton3500 issued server command: /gm 1
+[17:15:42] [Server thread/INFO]: Cryton3500 issued server command: /skull mark
+[17:15:52] [Server thread/INFO]: Cryton3500 issued server command: /skull markmushue
+[17:16:10] [Server thread/INFO]: Cryton3500 issued server command: /skull pew_pew
+[17:16:41] [Server thread/INFO]: Cryton3500 issued server command: /skull Dictator
+[17:17:00] [Server thread/INFO]: CommandBlock at -1,382,122,-109 issued server command: /gma Cryton3500
+[17:17:00] [Server thread/INFO]: CommandBlock at -1,381,122,-109 issued server command: /gma Cryton3500
+[17:17:00] [Server thread/INFO]: CommandBlock at -1,382,122,-110 issued server command: /gma Cryton3500
+[17:17:00] [Server thread/INFO]: CommandBlock at -1,381,122,-110 issued server command: /gma Cryton3500
+[17:17:08] [Server thread/INFO]: Cryton3500 issued server command: /gm 1
+[17:17:42] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[17:17:43] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[17:17:46] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[17:17:46] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[17:17:46] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[17:17:47] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[17:17:47] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[17:17:47] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[17:17:47] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[17:17:47] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[17:17:48] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[17:17:48] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[17:17:48] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[17:17:53] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[17:18:19] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[17:18:37] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[17:18:40] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[17:18:40] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[17:18:40] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[17:18:40] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[17:18:41] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[17:18:43] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[17:18:43] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[17:18:44] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[17:18:45] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[17:18:46] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[17:18:47] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[17:18:48] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[17:19:05] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[17:19:25] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[17:19:27] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[17:19:27] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[17:19:27] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[17:19:27] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[17:19:28] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[17:19:28] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[17:19:28] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[17:19:28] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[17:19:31] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[17:19:31] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[17:19:31] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[17:19:31] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[17:19:31] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[17:19:32] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[17:19:32] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[17:19:32] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[17:19:32] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[17:19:33] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[17:19:36] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[17:19:36] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[17:19:36] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[17:19:36] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[17:19:37] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[17:19:38] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[17:19:38] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[17:19:38] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[17:19:38] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[17:19:38] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[17:19:39] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[17:19:39] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[17:19:39] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[17:19:46] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[17:19:49] [Server thread/INFO]: CommandBlock at -1,382,122,-109 issued server command: /gma Cryton3500
+[17:19:49] [Server thread/INFO]: CommandBlock at -1,381,122,-109 issued server command: /gma Cryton3500
+[17:19:49] [Server thread/INFO]: CommandBlock at -1,382,122,-110 issued server command: /gma Cryton3500
+[17:19:50] [Server thread/INFO]: CommandBlock at -1,381,122,-110 issued server command: /gma Cryton3500
+[17:19:51] [Server thread/INFO]: §1Cryton3500§r was blown up by Creeper
+[17:19:59] [Server thread/INFO]: Cryton3500 issued server command: /gm 1
+[17:20:23] [Server thread/INFO]: Cryton3500 issued server command: /time set day
+[17:22:11] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[17:22:21] [Server thread/INFO]: [PT] Cryton3500 issued server command: /lightning
+[17:22:47] [Server thread/INFO]: Cryton3500 lost connection: Disconnected
+[17:22:47] [Server thread/INFO]: Cryton3500 left the game.
+[17:27:52] [User Authenticator #11/INFO]: UUID of player CoderPythonX is 811639f8-954d-4699-9240-7cb0fcb98c38
+[17:27:52] [Server thread/INFO]: CoderPythonX[/24.224.117.224:54892] logged in with entity id 124667 at ([world] -1367.9262998504994, 122.0, -109.15654398173274)
+[17:29:48] [Server thread/INFO]: CommandBlock at -1,381,122,-110 issued server command: /gma CoderPythonX
+[17:29:48] [Server thread/INFO]: CommandBlock at -1,382,122,-110 issued server command: /gma CoderPythonX
+[17:29:48] [Server thread/INFO]: CommandBlock at -1,381,122,-109 issued server command: /gma CoderPythonX
+[17:29:49] [Server thread/INFO]: CommandBlock at -1,382,122,-109 issued server command: /gma CoderPythonX
+[17:29:53] [Server thread/INFO]: CommandBlock at -1,381,122,-109 issued server command: /gma CoderPythonX
+[17:29:54] [Server thread/INFO]: CoderPythonX issued server command: /gmc
+[17:30:50] [Server thread/INFO]: CoderPythonX issued server command: /plugins
+[17:30:55] [Server thread/INFO]: CoderPythonX issued server command: /help
+[17:31:00] [Server thread/INFO]: CoderPythonX issued server command: /help adminfun
+[17:31:05] [Server thread/INFO]: CoderPythonX issued server command: /adminfun
+[17:31:30] [Server thread/INFO]: CoderPythonX issued server command: /adminfun 2
+[17:31:38] [Server thread/INFO]: CoderPythonX issued server command: /adminfun help 2
+[17:32:02] [Server thread/INFO]: CoderPythonX issued server command: /adminfun spamcast HI! I am your Dictator
+[17:32:38] [Server thread/INFO]: CommandBlock at -1,381,122,-109 issued server command: /gma CoderPythonX
+[17:32:38] [Server thread/INFO]: CommandBlock at -1,382,122,-109 issued server command: /gma CoderPythonX
+[17:32:38] [Server thread/INFO]: CommandBlock at -1,381,122,-110 issued server command: /gma CoderPythonX
+[17:32:38] [Server thread/INFO]: CommandBlock at -1,382,122,-110 issued server command: /gma CoderPythonX
+[17:32:39] [Server thread/INFO]: CommandBlock at -1,381,122,-110 issued server command: /gma CoderPythonX
+[17:32:45] [Server thread/INFO]: CoderPythonX issued server command: /gmc
+[17:32:59] [Server thread/INFO]: CoderPythonX issued server command: /adminfun spamcast
+[17:33:02] [Server thread/INFO]: CoderPythonX issued server command: /adminfun spamcast Hi
+[17:33:14] [Server thread/INFO]: CoderPythonX issued server command: /adminfun help 3
+[17:33:27] [Server thread/INFO]: CoderPythonX issued server command: /adminfun bgod Hi
+[17:33:27] [Server thread/INFO]: [0;32;1m[God] [0;31;1mHi[m
+[17:33:42] [Server thread/INFO]: CoderPythonX issued server command: /adminfun help 4
+[17:33:59] [Server thread/INFO]: CoderPythonX issued server command: /adminfun console Hi
+[17:33:59] [Server thread/INFO]: [0;37;22m[3m[CONSOLE: Hi[0;37;22m[3m][m[m
+[17:34:10] [Server thread/INFO]: CoderPythonX issued server command: /adminfun drop party
+[17:34:14] [Server thread/INFO]: CoderPythonX issued server command: /adminfun dropparty
+[17:34:23] [Server thread/INFO]: CoderPythonX issued server command: /adminfun dropparty now
+[17:34:28] [Server thread/INFO]: CoderPythonX issued server command: /adminfun dropparty 0
+[17:34:28] [Server thread/INFO]: [0;32;1m[AdminFun] [0;31;1mDrop party in 0 seconds[m
+[17:34:39] [Server thread/INFO]: CoderPythonX issued server command: /adminfun dropparty 1
+[17:34:39] [Server thread/INFO]: [0;32;1m[AdminFun] [0;31;1mDrop party in 1 second[m
+[17:34:43] [User Authenticator #12/INFO]: UUID of player markmuchane is 9079b0bc-85b3-4f13-a3e1-a5aecbed789f
+[17:34:43] [Server thread/INFO]: markmuchane[/24.224.82.88:47698] logged in with entity id 124821 at ([world] -1393.5249127736738, 123.31014229850116, -106.62715432175966)
+[17:34:46] [Async Chat Thread - #10/INFO]: [m<[0;31;22m~Dictator[m> HI[m
+[17:34:54] [Server thread/INFO]: markmuchane issued server command: /list
+[17:35:37] [Server thread/INFO]: CommandBlock at -1,382,122,-110 issued server command: /gma markmuchane
+[17:35:37] [Server thread/INFO]: CommandBlock at -1,381,122,-110 issued server command: /gma markmuchane
+[17:35:37] [Server thread/INFO]: CommandBlock at -1,382,122,-109 issued server command: /gma markmuchane
+[17:35:51] [Async Chat Thread - #11/INFO]: [m<[0;31;22m~Dictator[m> so ranks?[m
+[17:35:54] [Async Chat Thread - #11/INFO]: [m<[0;31;22m~Dictator[m> cost?[m
+[17:36:04] [Async Chat Thread - #11/INFO]: [m<[0;31;22m~Dictator[m> g hangouts?[m
+[17:36:04] [Async Chat Thread - #11/INFO]: [m<[0;31;22mmarkmuchane[m> we have buyvarft[m
+[17:36:13] [Async Chat Thread - #11/INFO]: [m<[0;31;22mmarkmuchane[m> i have to set them up[m
+[17:36:26] [Async Chat Thread - #11/INFO]: [m<[0;31;22m~Dictator[m> hangouts?[m
+[17:37:06] [Server thread/INFO]: CoderPythonX issued server command: /invsee markmuchane
+[17:37:08] [Server thread/INFO]: markmuchane issued server command: /gmc
+[17:37:18] [Server thread/INFO]: CommandBlock at -1,382,122,-110 issued server command: /gma markmuchane
+[17:37:18] [Server thread/INFO]: CommandBlock at -1,381,122,-110 issued server command: /gma markmuchane
+[17:37:18] [Server thread/INFO]: CommandBlock at -1,382,122,-109 issued server command: /gma markmuchane
+[17:37:18] [Server thread/INFO]: CommandBlock at -1,381,122,-109 issued server command: /gma markmuchane
+[17:37:20] [Server thread/INFO]: markmuchane issued server command: /gmc
+[17:37:24] [Server thread/INFO]: CoderPythonX issued server command: /invsee markmuchane
+[17:37:29] [Server thread/INFO]: markmuchane issued server command: /speed 10
+[17:37:30] [Server thread/INFO]: CommandBlock at -1,381,122,-109 issued server command: /gma markmuchane
+[17:37:30] [Server thread/INFO]: CommandBlock at -1,382,122,-109 issued server command: /gma markmuchane
+[17:37:30] [Server thread/INFO]: CommandBlock at -1,381,122,-110 issued server command: /gma markmuchane
+[17:37:36] [Async Chat Thread - #12/INFO]: [m<[0;31;22mmarkmuchane[m> go to blockmc.us[m
+[17:37:38] [Server thread/INFO]: CoderPythonX issued server command: /adminfun invsee markmuchane
+[17:37:42] [Async Chat Thread - #12/INFO]: [m<[0;31;22mmarkmuchane[m> inchromw[m
+[17:37:46] [Async Chat Thread - #12/INFO]: [m<[0;31;22m~Dictator[m> oh[m
+[17:38:06] [Async Chat Thread - #12/INFO]: [m<[0;31;22m~Dictator[m> this webpage is not available[m
+[18:07:07] [Server thread/INFO]: CoderPythonX issued server command: /ci'
+[18:07:09] [Server thread/INFO]: CoderPythonX issued server command: /ci
+[18:08:07] [Server thread/INFO]: CoderPythonX issued server command: /invsee markmuchane
+[18:08:31] [Server thread/INFO]: markmuchane issued server command: /pt Thor
+[18:08:41] [Server thread/INFO]: markmuchane issued server command: /thor
+[18:08:48] [Server thread/INFO]: markmuchane issued server command: /thor
+[18:08:51] [Server thread/INFO]: markmuchane issued server command: /thor
+[18:08:53] [Server thread/INFO]: markmuchane issued server command: /thor
+[18:08:55] [Server thread/INFO]: markmuchane issued server command: /thor
+[18:09:00] [Server thread/INFO]: [PT] markmuchane issued server command: /Thor
+[18:09:01] [Server thread/INFO]: markmuchane issued server command: /thor
+[18:09:03] [Server thread/INFO]: [PT] markmuchane issued server command: /Thor
+[18:09:03] [Server thread/INFO]: CoderPythonX issued server command: /pt thor
+[18:09:04] [Server thread/INFO]: [PT] markmuchane issued server command: /Thor
+[18:09:04] [Server thread/INFO]: [PT] CoderPythonX issued server command: /thor
+[18:09:05] [Server thread/INFO]: [PT] CoderPythonX issued server command: /thor
+[18:09:06] [Server thread/INFO]: [PT] CoderPythonX issued server command: /thor
+[18:09:06] [Server thread/INFO]: [PT] CoderPythonX issued server command: /thor
+[18:09:06] [Server thread/INFO]: [PT] CoderPythonX issued server command: /thor
+[18:09:06] [Server thread/INFO]: [PT] CoderPythonX issued server command: /thor
+[18:09:06] [Server thread/INFO]: markmuchane went up in flames
+[18:09:06] [Server thread/INFO]: [PT] CoderPythonX issued server command: /thor
+[18:09:07] [Server thread/INFO]: [PT] CoderPythonX issued server command: /thor
+[18:09:07] [Server thread/INFO]: [PT] CoderPythonX issued server command: /thor
+[18:09:07] [Server thread/INFO]: [PT] CoderPythonX issued server command: /thor
+[18:09:13] [Server thread/INFO]: [PT] CoderPythonX issued server command: /thor
+[18:09:13] [Server thread/INFO]: [PT] CoderPythonX issued server command: /thor
+[18:09:14] [Server thread/INFO]: [PT] CoderPythonX issued server command: /thor
+[18:09:14] [Server thread/INFO]: [PT] CoderPythonX issued server command: /thor
+[18:09:14] [Server thread/INFO]: markmuchane issued server command: /gmc
+[18:09:14] [Server thread/INFO]: [PT] CoderPythonX issued server command: /thor
+[18:09:14] [Server thread/INFO]: [PT] CoderPythonX issued server command: /thor
+[18:09:14] [Server thread/INFO]: [PT] CoderPythonX issued server command: /thor
+[18:09:15] [Server thread/INFO]: [PT] CoderPythonX issued server command: /thor
+[18:09:15] [Server thread/INFO]: [PT] CoderPythonX issued server command: /thor
+[18:09:15] [Server thread/INFO]: [PT] CoderPythonX issued server command: /thor
+[18:09:15] [Server thread/INFO]: [PT] CoderPythonX issued server command: /thor
+[18:09:15] [Server thread/INFO]: [PT] CoderPythonX issued server command: /thor
+[18:09:15] [Server thread/INFO]: [PT] CoderPythonX issued server command: /thor
+[18:09:16] [Server thread/INFO]: [PT] markmuchane issued server command: /Thor
+[18:09:16] [Server thread/INFO]: [PT] CoderPythonX issued server command: /thor
+[18:09:16] [Server thread/INFO]: [PT] CoderPythonX issued server command: /thor
+[18:09:16] [Server thread/INFO]: [PT] CoderPythonX issued server command: /thor
+[18:09:17] [Server thread/INFO]: [PT] CoderPythonX issued server command: /thor
+[18:09:17] [Server thread/INFO]: [PT] CoderPythonX issued server command: /thor
+[18:09:17] [Server thread/INFO]: [PT] CoderPythonX issued server command: /thor
+[18:09:17] [Server thread/INFO]: [PT] CoderPythonX issued server command: /thor
+[18:09:17] [Server thread/INFO]: [PT] markmuchane issued server command: /Thor
+[18:09:17] [Server thread/INFO]: [PT] CoderPythonX issued server command: /thor
+[18:09:18] [Server thread/INFO]: [PT] CoderPythonX issued server command: /thor
+[18:09:18] [Server thread/INFO]: [PT] CoderPythonX issued server command: /thor
+[18:09:18] [Server thread/INFO]: [PT] CoderPythonX issued server command: /thor
+[18:09:19] [Server thread/INFO]: [PT] CoderPythonX issued server command: /thor
+[18:09:19] [Server thread/INFO]: [PT] CoderPythonX issued server command: /thor
+[18:09:19] [Server thread/INFO]: CommandBlock at -1,381,122,-109 issued server command: /gma markmuchane
+[18:09:19] [Server thread/INFO]: CommandBlock at -1,382,122,-109 issued server command: /gma markmuchane
+[18:09:19] [Server thread/INFO]: CommandBlock at -1,381,122,-110 issued server command: /gma markmuchane
+[18:09:19] [Server thread/INFO]: CommandBlock at -1,382,122,-110 issued server command: /gma markmuchane
+[18:09:19] [Server thread/INFO]: [PT] CoderPythonX issued server command: /thor
+[18:09:19] [Server thread/INFO]: [PT] CoderPythonX issued server command: /thor
+[18:09:20] [Server thread/INFO]: markmuchane went up in flames
+[18:09:20] [Server thread/INFO]: [PT] CoderPythonX issued server command: /thor
+[18:09:20] [Server thread/INFO]: [PT] CoderPythonX issued server command: /thor
+[18:09:24] [Server thread/INFO]: markmuchane issued server command: /gmc
+[18:09:24] [Server thread/INFO]: [PT] CoderPythonX issued server command: /thor
+[18:09:24] [Server thread/INFO]: [PT] CoderPythonX issued server command: /thor
+[18:09:25] [Server thread/INFO]: [PT] CoderPythonX issued server command: /thor
+[18:09:25] [Server thread/INFO]: [PT] CoderPythonX issued server command: /thor
+[18:09:25] [Server thread/INFO]: [PT] CoderPythonX issued server command: /thor
+[18:09:26] [Server thread/INFO]: [PT] CoderPythonX issued server command: /thor
+[18:09:26] [Server thread/INFO]: [PT] CoderPythonX issued server command: /thor
+[18:09:26] [Server thread/INFO]: [PT] markmuchane issued server command: /Thor
+[18:09:27] [Server thread/INFO]: [PT] CoderPythonX issued server command: /thor
+[18:09:27] [Server thread/INFO]: [PT] CoderPythonX issued server command: /thor
+[18:09:27] [Server thread/INFO]: [PT] CoderPythonX issued server command: /thor
+[18:09:28] [Server thread/INFO]: [PT] CoderPythonX issued server command: /thor
+[18:09:28] [Server thread/INFO]: [PT] markmuchane issued server command: /Thor
+[18:09:28] [Server thread/INFO]: [PT] CoderPythonX issued server command: /thor
+[18:09:28] [Server thread/INFO]: [PT] markmuchane issued server command: /Thor
+[18:09:28] [Server thread/INFO]: [PT] CoderPythonX issued server command: /thor
+[18:09:28] [Server thread/INFO]: [PT] markmuchane issued server command: /Thor
+[18:09:29] [Server thread/INFO]: [PT] CoderPythonX issued server command: /thor
+[18:09:29] [Server thread/INFO]: [PT] markmuchane issued server command: /Thor
+[18:09:29] [Server thread/INFO]: [PT] CoderPythonX issued server command: /thor
+[18:09:29] [Server thread/INFO]: [PT] markmuchane issued server command: /Thor
+[18:09:29] [Server thread/INFO]: [PT] markmuchane issued server command: /Thor
+[18:09:29] [Server thread/INFO]: [PT] markmuchane issued server command: /Thor
+[18:09:30] [Server thread/INFO]: [PT] markmuchane issued server command: /Thor
+[18:09:31] [Server thread/INFO]: [PT] markmuchane issued server command: /Thor
+[18:09:31] [Server thread/INFO]: [PT] markmuchane issued server command: /Thor
+[18:09:32] [Server thread/INFO]: [PT] markmuchane issued server command: /Thor
+[18:09:32] [Server thread/INFO]: [PT] markmuchane issued server command: /Thor
+[18:09:32] [Server thread/INFO]: [PT] markmuchane issued server command: /Thor
+[18:09:32] [Server thread/INFO]: [PT] markmuchane issued server command: /Thor
+[18:09:37] [Server thread/INFO]: markmuchane issued server command: /spawn
+[18:09:38] [Server thread/INFO]: CommandBlock at -1,382,122,-110 issued server command: /gma markmuchane
+[18:09:38] [Server thread/INFO]: CommandBlock at -1,381,122,-110 issued server command: /gma markmuchane
+[18:09:38] [Server thread/INFO]: CommandBlock at -1,382,122,-109 issued server command: /gma markmuchane
+[18:09:38] [Server thread/INFO]: CommandBlock at -1,381,122,-109 issued server command: /gma markmuchane
+[18:09:38] [Server thread/INFO]: [PT] markmuchane issued server command: /Thor
+[18:09:40] [Server thread/INFO]: markmuchane issued server command: /gmc
+[18:09:41] [Server thread/INFO]: [PT] CoderPythonX issued server command: /thor
+[18:09:42] [Server thread/INFO]: [PT] CoderPythonX issued server command: /thor
+[18:09:42] [Server thread/INFO]: [PT] CoderPythonX issued server command: /thor
+[18:09:42] [Server thread/INFO]: [PT] CoderPythonX issued server command: /thor
+[18:09:43] [Server thread/INFO]: [PT] CoderPythonX issued server command: /thor
+[18:09:43] [Server thread/INFO]: [PT] CoderPythonX issued server command: /thor
+[18:09:43] [Server thread/INFO]: markmuchane issued server command: /spawn
+[18:09:43] [Server thread/INFO]: [PT] CoderPythonX issued server command: /thor
+[18:09:43] [Server thread/INFO]: CommandBlock at -1,382,122,-110 issued server command: /gma markmuchane
+[18:09:43] [Server thread/INFO]: CommandBlock at -1,381,122,-110 issued server command: /gma markmuchane
+[18:09:43] [Server thread/INFO]: CommandBlock at -1,382,122,-109 issued server command: /gma markmuchane
+[18:09:43] [Server thread/INFO]: [PT] CoderPythonX issued server command: /thor
+[18:09:45] [Server thread/INFO]: CommandBlock at -1,381,122,-109 issued server command: /gma markmuchane
+[18:09:48] [Server thread/INFO]: markmuchane issued server command: /gmc
+[18:09:52] [Server thread/INFO]: [PT] markmuchane issued server command: /Thor
+[18:09:53] [Server thread/INFO]: [PT] markmuchane issued server command: /Thor
+[18:09:53] [Server thread/INFO]: [PT] markmuchane issued server command: /Thor
+[18:09:53] [Server thread/INFO]: [PT] markmuchane issued server command: /Thor
+[18:09:54] [Server thread/INFO]: [PT] markmuchane issued server command: /Thor
+[18:09:55] [Server thread/INFO]: [PT] markmuchane issued server command: /Thor
+[18:09:55] [Server thread/INFO]: [PT] markmuchane issued server command: /Thor
+[18:09:55] [Server thread/INFO]: [PT] CoderPythonX issued server command: /thor
+[18:09:56] [Server thread/INFO]: [PT] CoderPythonX issued server command: /thor
+[18:09:56] [Server thread/INFO]: [PT] markmuchane issued server command: /Thor
+[18:09:56] [Server thread/INFO]: [PT] CoderPythonX issued server command: /thor
+[18:09:56] [Server thread/INFO]: [PT] CoderPythonX issued server command: /thor
+[18:09:57] [Server thread/INFO]: [PT] CoderPythonX issued server command: /thor
+[18:09:57] [Server thread/INFO]: [PT] markmuchane issued server command: /Thor
+[18:09:57] [Server thread/INFO]: [PT] CoderPythonX issued server command: /thor
+[18:09:57] [Server thread/INFO]: [PT] markmuchane issued server command: /Thor
+[18:09:58] [Server thread/INFO]: [PT] CoderPythonX issued server command: /thor
+[18:09:58] [Server thread/INFO]: [PT] CoderPythonX issued server command: /thor
+[18:09:58] [Server thread/INFO]: [PT] CoderPythonX issued server command: /thor
+[18:09:59] [Server thread/INFO]: [PT] CoderPythonX issued server command: /thor
+[18:09:59] [Server thread/INFO]: [PT] CoderPythonX issued server command: /thor
+[18:09:59] [Server thread/INFO]: [PT] CoderPythonX issued server command: /thor
+[18:09:59] [Server thread/INFO]: [PT] markmuchane issued server command: /Thor
+[18:10:00] [Server thread/INFO]: [PT] CoderPythonX issued server command: /thor
+[18:10:00] [Server thread/INFO]: [PT] CoderPythonX issued server command: /thor
+[18:10:00] [Server thread/INFO]: [PT] markmuchane issued server command: /Thor
+[18:10:00] [Server thread/INFO]: [PT] CoderPythonX issued server command: /thor
+[18:10:01] [Server thread/INFO]: [PT] CoderPythonX issued server command: /thor
+[18:10:01] [Server thread/INFO]: [PT] CoderPythonX issued server command: /thor
+[18:10:01] [Server thread/INFO]: [PT] CoderPythonX issued server command: /thor
+[18:10:04] [Server thread/INFO]: [PT] CoderPythonX issued server command: /thor
+[18:10:04] [Server thread/INFO]: markmuchane issued server command: /gmc
+[18:10:04] [Server thread/INFO]: [PT] CoderPythonX issued server command: /thor
+[18:10:04] [Server thread/INFO]: [PT] CoderPythonX issued server command: /thor
+[18:10:05] [Server thread/INFO]: [PT] CoderPythonX issued server command: /thor
+[18:10:05] [Server thread/INFO]: [PT] CoderPythonX issued server command: /thor
+[18:10:05] [Server thread/INFO]: [PT] CoderPythonX issued server command: /thor
+[18:10:06] [Server thread/INFO]: markmuchane issued server command: /spawn
+[18:10:06] [Server thread/INFO]: [PT] CoderPythonX issued server command: /thor
+[18:10:06] [Server thread/INFO]: CommandBlock at -1,382,122,-110 issued server command: /gma markmuchane
+[18:10:06] [Server thread/INFO]: CommandBlock at -1,381,122,-110 issued server command: /gma markmuchane
+[18:10:06] [Server thread/INFO]: CommandBlock at -1,382,122,-109 issued server command: /gma markmuchane
+[18:10:06] [Server thread/INFO]: [PT] CoderPythonX issued server command: /thor
+[18:10:06] [Server thread/INFO]: [PT] CoderPythonX issued server command: /thor
+[18:10:06] [Server thread/INFO]: CommandBlock at -1,381,122,-109 issued server command: /gma markmuchane
+[18:10:06] [Server thread/INFO]: [PT] CoderPythonX issued server command: /thor
+[18:10:07] [Server thread/INFO]: [PT] CoderPythonX issued server command: /thor
+[18:10:07] [Server thread/INFO]: [PT] CoderPythonX issued server command: /thor
+[18:10:07] [Server thread/INFO]: [PT] CoderPythonX issued server command: /thor
+[18:10:08] [Server thread/INFO]: markmuchane issued server command: /gmc
+[18:10:09] [Server thread/INFO]: CoderPythonX issued server command: /pyt
+[18:10:10] [Server thread/INFO]: [PT] markmuchane issued server command: /Thor
+[18:10:11] [Server thread/INFO]: [PT] markmuchane issued server command: /Thor
+[18:10:11] [Server thread/INFO]: [PT] markmuchane issued server command: /Thor
+[18:10:12] [Server thread/INFO]: CoderPythonX issued server command: /pt
+[18:10:13] [Server thread/INFO]: [PT] markmuchane issued server command: /Thor
+[18:10:32] [Server thread/INFO]: CoderPythonX issued server command: /gma
+[18:10:33] [Server thread/INFO]: markmuchane issued server command: /gma CoderPythonX
+[18:10:40] [Server thread/INFO]: [PT] markmuchane issued server command: /Thor
+[18:10:41] [Server thread/INFO]: CoderPythonX issued server command: /gmc
+[18:10:42] [Server thread/INFO]: markmuchane issued server command: /gmc
+[18:10:45] [Server thread/INFO]: markmuchane issued server command: /spawn
+[18:10:45] [Server thread/INFO]: CommandBlock at -1,382,122,-110 issued server command: /gma markmuchane
+[18:10:45] [Server thread/INFO]: CommandBlock at -1,381,122,-110 issued server command: /gma markmuchane
+[18:10:45] [Server thread/INFO]: CommandBlock at -1,382,122,-109 issued server command: /gma markmuchane
+[18:10:45] [Server thread/INFO]: CommandBlock at -1,381,122,-109 issued server command: /gma markmuchane
+[18:10:47] [Server thread/INFO]: markmuchane issued server command: /gmc
+[18:10:50] [Server thread/INFO]: markmuchane issued server command: /spawn
+[18:10:51] [Server thread/INFO]: CommandBlock at -1,382,122,-110 issued server command: /gma markmuchane
+[18:10:51] [Server thread/INFO]: CommandBlock at -1,381,122,-110 issued server command: /gma markmuchane
+[18:10:51] [Server thread/INFO]: CommandBlock at -1,382,122,-109 issued server command: /gma markmuchane
+[18:10:51] [Server thread/INFO]: CoderPythonX issued server command: /gma markmuchane
+[18:10:53] [Server thread/INFO]: CommandBlock at -1,381,122,-109 issued server command: /gma markmuchane
+[18:10:54] [Server thread/INFO]: markmuchane issued server command: /gmc
+[18:10:56] [Server thread/INFO]: CoderPythonX issued server command: /tp markmuchane CoderPythonX
+[18:11:00] [Server thread/INFO]: CoderPythonX issued server command: /gma markmuchane
+[18:11:02] [Server thread/INFO]: CoderPythonX issued server command: /tp markmuchane CoderPythonX
+[18:11:05] [Server thread/INFO]: CoderPythonX issued server command: /tp markmuchane CoderPythonX
+[18:11:07] [Server thread/INFO]: CoderPythonX issued server command: /tp markmuchane CoderPythonX
+[18:11:09] [Server thread/INFO]: CoderPythonX issued server command: /tp markmuchane CoderPythonX
+[18:11:11] [Server thread/INFO]: CoderPythonX issued server command: /tp markmuchane CoderPythonX
+[18:11:14] [Server thread/INFO]: CoderPythonX issued server command: /tp markmuchane CoderPythonX
+[18:11:14] [Server thread/INFO]: markmuchane issued server command: /gmc
+[18:11:15] [Server thread/INFO]: [PT] markmuchane issued server command: /Thor
+[18:11:16] [Server thread/INFO]: [PT] markmuchane issued server command: /Thor
+[18:11:16] [Server thread/INFO]: [PT] markmuchane issued server command: /Thor
+[18:11:23] [Server thread/INFO]: [PT] markmuchane issued server command: /Thor
+[18:11:23] [Server thread/INFO]: [PT] markmuchane issued server command: /Thor
+[18:11:24] [Server thread/INFO]: [PT] markmuchane issued server command: /Thor
+[18:11:24] [Server thread/INFO]: [PT] markmuchane issued server command: /Thor
+[18:11:24] [Server thread/INFO]: [PT] markmuchane issued server command: /Thor
+[18:11:24] [Server thread/INFO]: [PT] markmuchane issued server command: /Thor
+[18:11:25] [Server thread/INFO]: [PT] markmuchane issued server command: /Thor
+[18:11:25] [Server thread/INFO]: [PT] markmuchane issued server command: /Thor
+[18:11:25] [Server thread/INFO]: [PT] markmuchane issued server command: /Thor
+[18:11:25] [Server thread/INFO]: [PT] markmuchane issued server command: /Thor
+[18:11:25] [Server thread/INFO]: [PT] markmuchane issued server command: /Thor
+[18:11:26] [Server thread/INFO]: [PT] markmuchane issued server command: /Thor
+[18:11:26] [Server thread/INFO]: [PT] markmuchane issued server command: /Thor
+[18:11:26] [Server thread/INFO]: [PT] markmuchane issued server command: /Thor
+[18:11:26] [Server thread/INFO]: [PT] markmuchane issued server command: /Thor
+[18:11:26] [Server thread/INFO]: [PT] markmuchane issued server command: /Thor
+[18:11:27] [Server thread/INFO]: [PT] markmuchane issued server command: /Thor
+[18:11:27] [Server thread/INFO]: [PT] markmuchane issued server command: /Thor
+[18:11:27] [Server thread/INFO]: [PT] markmuchane issued server command: /Thor
+[18:11:27] [Server thread/INFO]: [PT] markmuchane issued server command: /Thor
+[18:11:28] [Server thread/INFO]: [PT] markmuchane issued server command: /Thor
+[18:11:28] [Server thread/INFO]: CoderPythonX issued server command: /speed 5
+[18:11:28] [Server thread/INFO]: [PT] markmuchane issued server command: /Thor
+[18:11:28] [Server thread/INFO]: [PT] markmuchane issued server command: /Thor
+[18:11:29] [Server thread/INFO]: [PT] markmuchane issued server command: /Thor
+[18:11:29] [Server thread/INFO]: [PT] markmuchane issued server command: /Thor
+[18:11:29] [Server thread/INFO]: [PT] markmuchane issued server command: /Thor
+[18:11:30] [Server thread/INFO]: [PT] markmuchane issued server command: /Thor
+[18:11:30] [Server thread/INFO]: [PT] markmuchane issued server command: /Thor
+[18:11:30] [Server thread/INFO]: [PT] markmuchane issued server command: /Thor
+[18:11:31] [Server thread/INFO]: [PT] markmuchane issued server command: /Thor
+[18:11:31] [Server thread/INFO]: [PT] markmuchane issued server command: /Thor
+[18:11:42] [Server thread/INFO]: CoderPythonX issued server command: /speed 1
+[18:11:43] [Server thread/INFO]: markmuchane issued server command: /tp CoderPythonX
+[18:11:45] [Server thread/INFO]: CoderPythonX issued server command: /tp markmuchane
+[18:11:47] [Server thread/INFO]: CoderPythonX issued server command: /tp markmuchane
+[18:11:50] [Server thread/INFO]: CoderPythonX issued server command: /spawn
+[18:11:51] [Server thread/INFO]: [PT] markmuchane issued server command: /Thor
+[18:11:53] [Server thread/INFO]: markmuchane issued server command: /tp CoderPythonX
+[18:11:56] [Server thread/INFO]: [PT] markmuchane issued server command: /Thor
+[18:11:56] [Server thread/INFO]: [PT] markmuchane issued server command: /Thor
+[18:11:57] [Server thread/INFO]: [PT] markmuchane issued server command: /Thor
+[18:11:57] [Server thread/INFO]: [PT] markmuchane issued server command: /Thor
+[18:11:57] [Server thread/INFO]: [PT] markmuchane issued server command: /Thor
+[18:11:57] [Server thread/INFO]: [PT] markmuchane issued server command: /Thor
+[18:11:57] [Server thread/INFO]: [PT] markmuchane issued server command: /Thor
+[18:11:58] [Server thread/INFO]: [PT] markmuchane issued server command: /Thor
+[18:11:58] [Server thread/INFO]: [PT] markmuchane issued server command: /Thor
+[18:11:58] [Server thread/INFO]: [PT] markmuchane issued server command: /Thor
+[18:11:58] [Server thread/INFO]: [PT] markmuchane issued server command: /Thor
+[18:11:58] [Server thread/INFO]: [PT] markmuchane issued server command: /Thor
+[18:11:59] [Server thread/INFO]: [PT] markmuchane issued server command: /Thor
+[18:11:59] [Server thread/INFO]: [PT] markmuchane issued server command: /Thor
+[18:11:59] [Server thread/INFO]: [PT] markmuchane issued server command: /Thor
+[18:11:59] [Server thread/INFO]: [PT] markmuchane issued server command: /Thor
+[18:11:59] [Server thread/INFO]: [PT] markmuchane issued server command: /Thor
+[18:12:00] [Server thread/INFO]: [PT] markmuchane issued server command: /Thor
+[18:12:00] [Server thread/INFO]: [PT] markmuchane issued server command: /Thor
+[18:12:00] [Server thread/INFO]: [PT] markmuchane issued server command: /Thor
+[18:12:00] [Server thread/INFO]: [PT] markmuchane issued server command: /Thor
+[18:12:04] [Server thread/INFO]: markmuchane issued server command: /gma CoderPythonX
+[18:12:09] [Server thread/INFO]: CoderPythonX issued server command: /spawn
+[18:12:09] [Server thread/INFO]: §cCoderPythonX§r fell from a high place
+[18:12:09] [Server thread/INFO]: CommandBlock at -1,382,122,-110 issued server command: /gma CoderPythonX
+[18:12:09] [Server thread/INFO]: CommandBlock at -1,381,122,-110 issued server command: /gma CoderPythonX
+[18:12:09] [Server thread/INFO]: CommandBlock at -1,382,122,-109 issued server command: /gma CoderPythonX
+[18:12:14] [Server thread/INFO]: CoderPythonX issued server command: /gmc
+[18:12:18] [Server thread/INFO]: [PT] markmuchane issued server command: /Thor
+[18:12:19] [Server thread/INFO]: [PT] markmuchane issued server command: /Thor
+[18:12:21] [Server thread/INFO]: markmuchane issued server command: /fly
+[18:12:24] [Server thread/INFO]: markmuchane issued server command: /fly
+[18:12:27] [Server thread/INFO]: markmuchane issued server command: /gms
+[18:12:31] [Server thread/INFO]: markmuchane issued server command: /fly
+[18:12:39] [Server thread/INFO]: CommandBlock at -1,382,122,-110 issued server command: /gma markmuchane
+[18:12:39] [Server thread/INFO]: CommandBlock at -1,381,122,-110 issued server command: /gma markmuchane
+[18:12:39] [Server thread/INFO]: CommandBlock at -1,382,122,-109 issued server command: /gma markmuchane
+[18:12:39] [Server thread/INFO]: CoderPythonX issued server command: /fly markmuchane
+[18:12:42] [Server thread/INFO]: CoderPythonX issued server command: /fly markmuchane
+[18:12:46] [Server thread/INFO]: markmuchane issued server command: /fly
+[18:12:55] [Server thread/INFO]: markmuchane issued server command: /gmc
+[18:13:03] [Server thread/INFO]: markmuchane issued server command: /spawn
+[18:13:04] [Server thread/INFO]: CommandBlock at -1,382,122,-110 issued server command: /gma markmuchane
+[18:13:04] [Server thread/INFO]: CommandBlock at -1,381,122,-110 issued server command: /gma markmuchane
+[18:13:04] [Server thread/INFO]: CommandBlock at -1,382,122,-109 issued server command: /gma markmuchane
+[18:13:04] [Server thread/INFO]: CommandBlock at -1,381,122,-109 issued server command: /gma markmuchane
+[18:13:06] [Server thread/INFO]: markmuchane issued server command: /gmc
+[18:13:16] [Server thread/INFO]: [PT] markmuchane issued server command: /Thor
+[18:13:17] [Server thread/INFO]: [PT] markmuchane issued server command: /Thor
+[18:13:17] [Server thread/INFO]: [PT] markmuchane issued server command: /Thor
+[18:13:18] [Server thread/INFO]: [PT] markmuchane issued server command: /Thor
+[18:13:19] [Server thread/INFO]: [PT] markmuchane issued server command: /Thor
+[18:13:19] [Server thread/INFO]: [PT] markmuchane issued server command: /Thor
+[18:13:24] [Server thread/INFO]: markmuchane issued server command: /fire enable
+[18:13:25] [Server thread/INFO]: [PT] markmuchane issued server command: /Thor
+[18:13:38] [Server thread/INFO]: markmuchane issued server command: /enable fire
+[18:13:39] [Server thread/INFO]: [PT] markmuchane issued server command: /Thor
+[18:13:41] [Server thread/INFO]: markmuchane issued server command: /spawn
+[18:13:42] [Server thread/INFO]: CommandBlock at -1,382,122,-110 issued server command: /gma markmuchane
+[18:13:42] [Server thread/INFO]: CommandBlock at -1,381,122,-110 issued server command: /gma markmuchane
+[18:13:42] [Server thread/INFO]: CommandBlock at -1,382,122,-109 issued server command: /gma markmuchane
+[18:13:42] [Server thread/INFO]: CommandBlock at -1,381,122,-109 issued server command: /gma markmuchane
+[18:13:44] [Server thread/INFO]: markmuchane issued server command: /gmc
+[18:13:46] [Server thread/INFO]: [PT] markmuchane issued server command: /Thor
+[18:13:48] [Server thread/INFO]: [PT] markmuchane issued server command: /Thor
+[18:13:49] [Server thread/INFO]: [PT] markmuchane issued server command: /Thor
+[18:13:49] [Server thread/INFO]: [PT] markmuchane issued server command: /Thor
+[18:13:49] [Server thread/INFO]: [PT] markmuchane issued server command: /Thor
+[18:13:50] [Server thread/INFO]: [PT] markmuchane issued server command: /Thor
+[18:13:50] [Server thread/INFO]: [PT] markmuchane issued server command: /Thor
+[18:13:50] [Server thread/INFO]: [PT] markmuchane issued server command: /Thor
+[18:13:51] [Server thread/INFO]: [PT] markmuchane issued server command: /Thor
+[18:13:51] [Server thread/INFO]: [PT] markmuchane issued server command: /Thor
+[18:13:52] [Server thread/INFO]: [PT] markmuchane issued server command: /Thor
+[18:13:52] [Server thread/INFO]: [PT] markmuchane issued server command: /Thor
+[18:13:53] [Server thread/INFO]: [PT] markmuchane issued server command: /Thor
+[18:13:53] [Server thread/INFO]: [PT] markmuchane issued server command: /Thor
+[18:13:54] [Server thread/INFO]: [PT] markmuchane issued server command: /Thor
+[18:13:54] [Server thread/INFO]: [PT] markmuchane issued server command: /Thor
+[18:13:54] [Server thread/INFO]: [PT] markmuchane issued server command: /Thor
+[18:13:54] [Server thread/INFO]: [PT] markmuchane issued server command: /Thor
+[18:13:55] [Server thread/INFO]: [PT] markmuchane issued server command: /Thor
+[18:13:55] [Server thread/INFO]: [PT] markmuchane issued server command: /Thor
+[18:13:55] [Server thread/INFO]: [PT] markmuchane issued server command: /Thor
+[18:13:56] [Server thread/INFO]: [PT] markmuchane issued server command: /Thor
+[18:13:56] [Server thread/INFO]: [PT] markmuchane issued server command: /Thor
+[18:13:56] [Server thread/INFO]: [PT] markmuchane issued server command: /Thor
+[18:13:57] [Server thread/INFO]: [PT] markmuchane issued server command: /Thor
+[18:14:00] [Server thread/INFO]: [PT] markmuchane issued server command: /Thor
+[18:14:02] [Server thread/INFO]: [PT] markmuchane issued server command: /Thor
+[18:14:03] [Server thread/INFO]: [PT] markmuchane issued server command: /Thor
+[18:14:04] [Server thread/INFO]: [PT] markmuchane issued server command: /Thor
+[18:14:05] [Server thread/INFO]: [PT] markmuchane issued server command: /Thor
+[18:14:06] [Server thread/INFO]: [PT] markmuchane issued server command: /Thor
+[18:14:10] [Server thread/INFO]: CoderPythonX issued server command: /plugins
+[18:14:13] [Server thread/INFO]: markmuchane issued server command: /plugins
