@@ -12,7 +12,10 @@
 
 config-version: 8
 settings:
+  debug: false
   save-user-cache-on-stop-only: false
+  bungeecord: false
+  late-bind: false
   sample-count: 12
   player-shuffle: 0
   filter-creative-items: true
@@ -20,8 +23,6 @@ settings:
   int-cache-limit: 1024
   moved-wrongly-threshold: 0.0625
   moved-too-quickly-threshold: 100.0
-  bungeecord: false
-  late-bind: false
   timeout-time: 60
   restart-on-crash: true
   restart-script: ./start.sh
@@ -34,7 +35,6 @@ settings:
     attackDamage:
       max: 2048.0
   global-api-cache: false
-  debug: false
 commands:
   tab-complete: 0
   spam-exclusions:

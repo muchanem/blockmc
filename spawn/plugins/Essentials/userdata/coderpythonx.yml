@@ -1,23 +1,23 @@
 uuid: 811639f8-954d-4699-9240-7cb0fcb98c38
 timestamps:
-  login: 1424042333369
-  logout: 1424042593525
-  lastteleport: 1424041929149
+  login: 1424122793235
+  logout: 1424122701273
+  lastteleport: 1424120832596
 ipAddress: 24.224.117.224
 lastlocation:
   world: world
-  x: -1381.5
-  y: 123.0
-  z: -109.5
-  yaw: 0.0
-  pitch: 0.0
+  x: -1373.2194457703777
+  y: 125.58230961125521
+  z: -108.92433651824571
+  yaw: 29.55435
+  pitch: 58.799946
 logoutlocation:
   world: world
-  x: -1394.3921161044814
-  y: 125.62871951711413
-  z: -115.21072757383287
-  yaw: -336.29913
-  pitch: 15.299998
+  x: -1371.1543878552418
+  y: 125.0
+  z: -105.52225163153774
+  yaw: -22.05002
+  pitch: -33.60001
 powertools: {}
 nickname: Dictator
 afk: false
