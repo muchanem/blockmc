@@ -1,8 +1,8 @@
 worlds:
   world:
-    seed: -391152805983181361
+    seed: -4756645041875299800
     environment: NORMAL
-    type: FLAT
+    type: NORMAL
     hidden: false
     alias:
       name: ''
@@ -13,9 +13,9 @@ worlds:
     allowweather: true
     difficulty: EASY
     animals:
-      spawn: true
+      spawn: false
     monsters:
-      spawn: true
+      spawn: false
     entryfee:
       currency: -1
       price: 0.0
@@ -26,16 +26,16 @@ worlds:
     gamemode: SURVIVAL
     keepspawninmemory: true
     spawn:
-      x: -1374.5
-      y: 126.0
-      z: -106.5
+      x: -149.5
+      y: 64.0
+      z: 272.5
       pitch: 0.0
       yaw: 0.0
       world: world
     autoload: true
     bedrespawn: true
   world_nether:
-    seed: 8680564824091201304
+    seed: -4756645041875299800
     environment: NETHER
     type: NORMAL
     hidden: false
@@ -70,7 +70,7 @@ worlds:
     autoload: true
     bedrespawn: true
   world_the_end:
-    seed: 8680564824091201304
+    seed: -4756645041875299800
     environment: THE_END
     type: NORMAL
     hidden: false
@@ -97,7 +97,7 @@ worlds:
     keepspawninmemory: true
     spawn:
       x: 0.0
-      y: 64.0
+      y: 59.0
       z: 0.0
       pitch: 0.0
       yaw: 0.0

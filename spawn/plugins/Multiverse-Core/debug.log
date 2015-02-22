@@ -60,3 +60,110 @@
 2015-02-16 16:44:03 [INFO] [Multiverse-Core] Loading World & Settings - 'world_nether' - Env: NETHER - Type: NORMAL & seed: 8680564824091201304
 2015-02-16 16:44:03 [INFO] [Multiverse-Core] Loading World & Settings - 'world_the_end' - Env: THE_END - Type: NORMAL & seed: 8680564824091201304
 2015-02-16 16:44:03 [INFO] [Multiverse-Core] 3 - World(s) loaded.
+2015-02-16 16:47:22 [INFO] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2015-02-16 16:47:22 [INFO] [Multiverse-Core] Loading World & Settings - 'world' - Env: NORMAL - Type: FLAT & seed: -391152805983181361
+2015-02-16 16:47:22 [INFO] [Multiverse-Core] Loading World & Settings - 'world_nether' - Env: NETHER - Type: NORMAL & seed: 8680564824091201304
+2015-02-16 16:47:22 [INFO] [Multiverse-Core] Loading World & Settings - 'world_the_end' - Env: THE_END - Type: NORMAL & seed: 8680564824091201304
+2015-02-16 16:47:22 [INFO] [Multiverse-Core] 3 - World(s) loaded.
+2015-02-16 17:00:43 [INFO] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2015-02-16 17:00:43 [INFO] [Multiverse-Core] Loading World & Settings - 'world' - Env: NORMAL - Type: FLAT & seed: -391152805983181361
+2015-02-16 17:00:43 [INFO] [Multiverse-Core] Loading World & Settings - 'world_nether' - Env: NETHER - Type: NORMAL & seed: 8680564824091201304
+2015-02-16 17:00:43 [INFO] [Multiverse-Core] Loading World & Settings - 'world_the_end' - Env: THE_END - Type: NORMAL & seed: 8680564824091201304
+2015-02-16 17:00:43 [INFO] [Multiverse-Core] 3 - World(s) loaded.
+2015-02-18 08:55:54 [INFO] [Multiverse-Core] Loading World & Settings - 'CREATIVE' - Env: NETHER - Type: FLAT
+2015-02-18 08:55:58 [WARNING] [Multiverse-Core] Spawn location from world.dat file was unsafe. Adjusting...
+2015-02-18 08:55:58 [WARNING] [Multiverse-Core] Original Location: X: 0 Y: 4 Z: 0 P: 0 Y: 0 
+2015-02-18 08:55:58 [INFO] [Multiverse-Core] New Spawn for 'CREATIVE' is Located at: CREATIVE:0.00,117.00,0.00:0.00:0.00
+2015-02-18 08:57:31 [INFO] [Multiverse-Core] World 'CREATIVE' was unloaded from memory.
+2015-02-18 08:57:31 [INFO] [Multiverse-Core] World 'CREATIVE' was removed from config.yml
+2015-02-18 08:57:31 [INFO] [Multiverse-Core] World CREATIVE was DELETED.
+2015-02-18 08:58:17 [INFO] [Multiverse-Core] Loading World & Settings - 'sandbox' - Env: NORMAL - Type: FLAT
+2015-02-18 10:39:46 [INFO] [Multiverse-Core] World 'sandbox' was unloaded from memory.
+2015-02-18 10:39:46 [INFO] [Multiverse-Core] World 'sandbox' was removed from config.yml
+2015-02-18 10:39:46 [INFO] [Multiverse-Core] World sandbox was DELETED.
+2015-02-18 10:44:28 [INFO] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2015-02-18 10:44:28 [INFO] [Multiverse-Core] Loading World & Settings - 'world' - Env: NORMAL - Type: FLAT & seed: -391152805983181361
+2015-02-18 10:44:28 [WARNING] [Multiverse-Core] Spawn location from world.dat file was unsafe. Adjusting...
+2015-02-18 10:44:28 [WARNING] [Multiverse-Core] Original Location: X: -151 Y: 64 Z: 272 P: 0 Y: 0 
+2015-02-18 10:44:28 [INFO] [Multiverse-Core] New Spawn for 'world' is Located at: world:-149.50,64.00,272.50:0.00:0.00
+2015-02-18 10:44:28 [INFO] [Multiverse-Core] Loading World & Settings - 'world_nether' - Env: NETHER - Type: NORMAL & seed: 8680564824091201304
+2015-02-18 10:44:28 [WARNING] [Multiverse-Core] Spawn location from world.dat file was unsafe. Adjusting...
+2015-02-18 10:44:28 [WARNING] [Multiverse-Core] Original Location: X: 0 Y: 64 Z: 0 P: 0 Y: 0 
+2015-02-18 10:44:28 [SEVERE] [Multiverse-Core] New safe spawn NOT found!!!
+2015-02-18 10:44:28 [INFO] [Multiverse-Core] Loading World & Settings - 'world_the_end' - Env: THE_END - Type: NORMAL & seed: 8680564824091201304
+2015-02-18 10:44:28 [WARNING] [Multiverse-Core] Spawn location from world.dat file was unsafe. Adjusting...
+2015-02-18 10:44:28 [WARNING] [Multiverse-Core] Original Location: X: 0 Y: 50 Z: 0 P: 0 Y: 0 
+2015-02-18 10:44:28 [INFO] [Multiverse-Core] New Spawn for 'world_the_end' is Located at: world_the_end:0.00,59.00,0.00:0.00:0.00
+2015-02-18 10:44:28 [INFO] [Multiverse-Core] 3 - World(s) loaded.
+2015-02-18 10:48:49 [INFO] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2015-02-18 10:48:49 [INFO] [Multiverse-Core] Loading World & Settings - 'world' - Env: NORMAL - Type: NORMAL & seed: -4756645041875299800
+2015-02-18 10:48:49 [INFO] [Multiverse-Core] Loading World & Settings - 'world_nether' - Env: NETHER - Type: NORMAL & seed: -4756645041875299800
+2015-02-18 10:48:49 [WARNING] [Multiverse-Core] Spawn location from world.dat file was unsafe. Adjusting...
+2015-02-18 10:48:49 [WARNING] [Multiverse-Core] Original Location: X: 3 Y: 65 Z: 4 P: 0 Y: 0 
+2015-02-18 10:48:49 [SEVERE] [Multiverse-Core] New safe spawn NOT found!!!
+2015-02-18 10:48:49 [INFO] [Multiverse-Core] Loading World & Settings - 'world_the_end' - Env: THE_END - Type: NORMAL & seed: -4756645041875299800
+2015-02-18 10:48:49 [INFO] [Multiverse-Core] 3 - World(s) loaded.
+2015-02-18 10:50:32 [INFO] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2015-02-18 10:50:32 [INFO] [Multiverse-Core] Loading World & Settings - 'world' - Env: NORMAL - Type: NORMAL & seed: -4756645041875299800
+2015-02-18 10:50:32 [INFO] [Multiverse-Core] Loading World & Settings - 'world_nether' - Env: NETHER - Type: NORMAL & seed: -4756645041875299800
+2015-02-18 10:50:32 [WARNING] [Multiverse-Core] Spawn location from world.dat file was unsafe. Adjusting...
+2015-02-18 10:50:32 [WARNING] [Multiverse-Core] Original Location: X: 3 Y: 65 Z: 4 P: 0 Y: 0 
+2015-02-18 10:50:32 [SEVERE] [Multiverse-Core] New safe spawn NOT found!!!
+2015-02-18 10:50:32 [INFO] [Multiverse-Core] Loading World & Settings - 'world_the_end' - Env: THE_END - Type: NORMAL & seed: -4756645041875299800
+2015-02-18 10:50:32 [INFO] [Multiverse-Core] 3 - World(s) loaded.
+2015-02-18 11:10:32 [INFO] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2015-02-18 11:10:32 [INFO] [Multiverse-Core] Loading World & Settings - 'world' - Env: NORMAL - Type: NORMAL & seed: -4756645041875299800
+2015-02-18 11:10:32 [INFO] [Multiverse-Core] Loading World & Settings - 'world_nether' - Env: NETHER - Type: NORMAL & seed: -4756645041875299800
+2015-02-18 11:10:32 [WARNING] [Multiverse-Core] Spawn location from world.dat file was unsafe. Adjusting...
+2015-02-18 11:10:32 [WARNING] [Multiverse-Core] Original Location: X: 3 Y: 65 Z: 4 P: 0 Y: 0 
+2015-02-18 11:10:32 [SEVERE] [Multiverse-Core] New safe spawn NOT found!!!
+2015-02-18 11:10:32 [INFO] [Multiverse-Core] Loading World & Settings - 'world_the_end' - Env: THE_END - Type: NORMAL & seed: -4756645041875299800
+2015-02-18 11:10:32 [INFO] [Multiverse-Core] 3 - World(s) loaded.
+2015-02-18 11:24:39 [INFO] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2015-02-18 11:24:39 [INFO] [Multiverse-Core] Loading World & Settings - 'world' - Env: NORMAL - Type: NORMAL & seed: -4756645041875299800
+2015-02-18 11:24:39 [INFO] [Multiverse-Core] Loading World & Settings - 'world_nether' - Env: NETHER - Type: NORMAL & seed: -4756645041875299800
+2015-02-18 11:24:39 [WARNING] [Multiverse-Core] Spawn location from world.dat file was unsafe. Adjusting...
+2015-02-18 11:24:39 [WARNING] [Multiverse-Core] Original Location: X: 3 Y: 65 Z: 4 P: 0 Y: 0 
+2015-02-18 11:24:40 [SEVERE] [Multiverse-Core] New safe spawn NOT found!!!
+2015-02-18 11:24:40 [INFO] [Multiverse-Core] Loading World & Settings - 'world_the_end' - Env: THE_END - Type: NORMAL & seed: -4756645041875299800
+2015-02-18 11:24:40 [INFO] [Multiverse-Core] 3 - World(s) loaded.
+2015-02-18 11:47:40 [INFO] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2015-02-18 11:47:41 [INFO] [Multiverse-Core] Loading World & Settings - 'world' - Env: NORMAL - Type: NORMAL & seed: -4756645041875299800
+2015-02-18 11:47:41 [INFO] [Multiverse-Core] Loading World & Settings - 'world_nether' - Env: NETHER - Type: NORMAL & seed: -4756645041875299800
+2015-02-18 11:47:41 [WARNING] [Multiverse-Core] Spawn location from world.dat file was unsafe. Adjusting...
+2015-02-18 11:47:41 [WARNING] [Multiverse-Core] Original Location: X: 3 Y: 65 Z: 4 P: 0 Y: 0 
+2015-02-18 11:47:41 [SEVERE] [Multiverse-Core] New safe spawn NOT found!!!
+2015-02-18 11:47:41 [INFO] [Multiverse-Core] Loading World & Settings - 'world_the_end' - Env: THE_END - Type: NORMAL & seed: -4756645041875299800
+2015-02-18 11:47:41 [INFO] [Multiverse-Core] 3 - World(s) loaded.
+2015-02-18 13:55:37 [INFO] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2015-02-18 13:55:37 [INFO] [Multiverse-Core] Loading World & Settings - 'world' - Env: NORMAL - Type: NORMAL & seed: -4756645041875299800
+2015-02-18 13:55:37 [INFO] [Multiverse-Core] Loading World & Settings - 'world_nether' - Env: NETHER - Type: NORMAL & seed: -4756645041875299800
+2015-02-18 13:55:37 [WARNING] [Multiverse-Core] Spawn location from world.dat file was unsafe. Adjusting...
+2015-02-18 13:55:37 [WARNING] [Multiverse-Core] Original Location: X: 3 Y: 65 Z: 4 P: 0 Y: 0 
+2015-02-18 13:55:38 [SEVERE] [Multiverse-Core] New safe spawn NOT found!!!
+2015-02-18 13:55:38 [INFO] [Multiverse-Core] Loading World & Settings - 'world_the_end' - Env: THE_END - Type: NORMAL & seed: -4756645041875299800
+2015-02-18 13:55:38 [INFO] [Multiverse-Core] 3 - World(s) loaded.
+2015-02-18 17:21:26 [INFO] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2015-02-18 17:21:26 [INFO] [Multiverse-Core] Loading World & Settings - 'world' - Env: NORMAL - Type: NORMAL & seed: -4756645041875299800
+2015-02-18 17:21:26 [INFO] [Multiverse-Core] Loading World & Settings - 'world_nether' - Env: NETHER - Type: NORMAL & seed: -4756645041875299800
+2015-02-18 17:21:26 [WARNING] [Multiverse-Core] Spawn location from world.dat file was unsafe. Adjusting...
+2015-02-18 17:21:26 [WARNING] [Multiverse-Core] Original Location: X: 3 Y: 65 Z: 4 P: 0 Y: 0 
+2015-02-18 17:21:26 [SEVERE] [Multiverse-Core] New safe spawn NOT found!!!
+2015-02-18 17:21:26 [INFO] [Multiverse-Core] Loading World & Settings - 'world_the_end' - Env: THE_END - Type: NORMAL & seed: -4756645041875299800
+2015-02-18 17:21:26 [INFO] [Multiverse-Core] 3 - World(s) loaded.
+2015-02-20 20:44:10 [INFO] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2015-02-20 20:44:10 [INFO] [Multiverse-Core] Loading World & Settings - 'world' - Env: NORMAL - Type: NORMAL & seed: -4756645041875299800
+2015-02-20 20:44:10 [INFO] [Multiverse-Core] Loading World & Settings - 'world_nether' - Env: NETHER - Type: NORMAL & seed: -4756645041875299800
+2015-02-20 20:44:10 [WARNING] [Multiverse-Core] Spawn location from world.dat file was unsafe. Adjusting...
+2015-02-20 20:44:10 [WARNING] [Multiverse-Core] Original Location: X: 3 Y: 65 Z: 4 P: 0 Y: 0 
+2015-02-20 20:44:10 [SEVERE] [Multiverse-Core] New safe spawn NOT found!!!
+2015-02-20 20:44:10 [INFO] [Multiverse-Core] Loading World & Settings - 'world_the_end' - Env: THE_END - Type: NORMAL & seed: -4756645041875299800
+2015-02-20 20:44:10 [INFO] [Multiverse-Core] 3 - World(s) loaded.
+2015-02-21 19:16:44 [INFO] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2015-02-21 19:16:44 [INFO] [Multiverse-Core] Loading World & Settings - 'world' - Env: NORMAL - Type: NORMAL & seed: -4756645041875299800
+2015-02-21 19:16:44 [INFO] [Multiverse-Core] Loading World & Settings - 'world_nether' - Env: NETHER - Type: NORMAL & seed: -4756645041875299800
+2015-02-21 19:16:44 [WARNING] [Multiverse-Core] Spawn location from world.dat file was unsafe. Adjusting...
+2015-02-21 19:16:44 [WARNING] [Multiverse-Core] Original Location: X: 3 Y: 65 Z: 4 P: 0 Y: 0 
+2015-02-21 19:16:44 [SEVERE] [Multiverse-Core] New safe spawn NOT found!!!
+2015-02-21 19:16:44 [INFO] [Multiverse-Core] Loading World & Settings - 'world_the_end' - Env: THE_END - Type: NORMAL & seed: -4756645041875299800
+2015-02-21 19:16:44 [INFO] [Multiverse-Core] 3 - World(s) loaded.

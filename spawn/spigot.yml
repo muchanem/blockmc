@@ -59,6 +59,7 @@ stats:
 world-settings:
   default:
     verbose: true
+    nerf-spawner-mobs: false
     growth:
       cactus-modifier: 100
       cane-modifier: 100
@@ -67,21 +68,6 @@ world-settings:
       pumpkin-modifier: 100
       sapling-modifier: 100
       wheat-modifier: 100
-    entity-activation-range:
-      animals: 32
-      monsters: 32
-      misc: 16
-    entity-tracking-range:
-      players: 48
-      animals: 48
-      monsters: 48
-      misc: 32
-      other: 64
-    hopper-alt-ticking: false
-    ticks-per:
-      hopper-transfer: 8
-      hopper-check: 8
-    hopper-amount: 1
     anti-xray:
       enabled: true
       engine-mode: 1
@@ -103,6 +89,21 @@ world-settings:
       - 1
       - 5
     mob-spawn-range: 4
+    entity-activation-range:
+      animals: 32
+      monsters: 32
+      misc: 16
+    entity-tracking-range:
+      players: 48
+      animals: 48
+      monsters: 48
+      misc: 32
+      other: 64
+    hopper-alt-ticking: false
+    ticks-per:
+      hopper-transfer: 8
+      hopper-check: 8
+    hopper-amount: 1
     random-light-updates: false
     save-structure-info: true
     max-bulk-chunks: 5
@@ -116,7 +117,6 @@ world-settings:
       combat-exhaustion: 0.3
       regen-exhaustion: 3.0
     max-tnt-per-tick: 100
-    nerf-spawner-mobs: false
     view-distance: 10
     chunks-per-tick: 650
     clear-tick-list: false
