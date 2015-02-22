@@ -167,3 +167,19 @@
 2015-02-21 19:16:44 [SEVERE] [Multiverse-Core] New safe spawn NOT found!!!
 2015-02-21 19:16:44 [INFO] [Multiverse-Core] Loading World & Settings - 'world_the_end' - Env: THE_END - Type: NORMAL & seed: -4756645041875299800
 2015-02-21 19:16:44 [INFO] [Multiverse-Core] 3 - World(s) loaded.
+2015-02-22 13:51:40 [INFO] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2015-02-22 13:51:40 [INFO] [Multiverse-Core] Loading World & Settings - 'world' - Env: NORMAL - Type: NORMAL & seed: -4756645041875299800
+2015-02-22 13:51:40 [INFO] [Multiverse-Core] Loading World & Settings - 'world_nether' - Env: NETHER - Type: NORMAL & seed: -4756645041875299800
+2015-02-22 13:51:40 [WARNING] [Multiverse-Core] Spawn location from world.dat file was unsafe. Adjusting...
+2015-02-22 13:51:40 [WARNING] [Multiverse-Core] Original Location: X: 3 Y: 65 Z: 4 P: 0 Y: 0 
+2015-02-22 13:51:40 [SEVERE] [Multiverse-Core] New safe spawn NOT found!!!
+2015-02-22 13:51:40 [INFO] [Multiverse-Core] Loading World & Settings - 'world_the_end' - Env: THE_END - Type: NORMAL & seed: -4756645041875299800
+2015-02-22 13:51:40 [INFO] [Multiverse-Core] 3 - World(s) loaded.
+2015-02-22 18:26:56 [INFO] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2015-02-22 18:26:56 [INFO] [Multiverse-Core] Loading World & Settings - 'world' - Env: NORMAL - Type: NORMAL & seed: -4756645041875299800
+2015-02-22 18:26:56 [INFO] [Multiverse-Core] Loading World & Settings - 'world_nether' - Env: NETHER - Type: NORMAL & seed: -4756645041875299800
+2015-02-22 18:26:56 [WARNING] [Multiverse-Core] Spawn location from world.dat file was unsafe. Adjusting...
+2015-02-22 18:26:56 [WARNING] [Multiverse-Core] Original Location: X: 3 Y: 65 Z: 4 P: 0 Y: 0 
+2015-02-22 18:26:56 [SEVERE] [Multiverse-Core] New safe spawn NOT found!!!
+2015-02-22 18:26:56 [INFO] [Multiverse-Core] Loading World & Settings - 'world_the_end' - Env: THE_END - Type: NORMAL & seed: -4756645041875299800
+2015-02-22 18:26:56 [INFO] [Multiverse-Core] 3 - World(s) loaded.

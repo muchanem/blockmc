@@ -1,3 +1,3 @@
 #!/bin/bash
 
-java -Xmx60G -Xmn45G -jar spigot1649.jar 
+java -Xmx60G -Xmn45G -jar spigot-1.8.jar 
